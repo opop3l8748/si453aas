@@ -1,0 +1,1601 @@
+{
+  "crawler": {
+    "name": "赴秋日骑行之约 石家庄环城绿道骑游大会启幕",
+    "owner": "马国柱",
+    "generated": "2026-09-19 02:33:18",
+    "depth": 3
+  },
+  "concurrency": 11,
+  "regions": [
+    {
+      "code": "cn-north",
+      "label": "华北",
+      "targets": [
+        {
+          "domain": "sgchvnup.ahl",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/611189.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "bmwmtdcf.fix",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/039888.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ycfqryqh.aat",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/106075.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "tethcirg.sbk",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/205560.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "nhbrztqx.ixq",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/726176.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "dekxiyoy.reg",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/016103.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "grfocttb.col",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/812834.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "glcbshbx.rwv",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/772397.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "kegvvfas.vpq",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/901303.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "lwcmburx.tcy",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/522623.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "gmgayisj.tcd",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/208047.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "lgfkoslc.pyy",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/479898.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "caphwevg.lya",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/768376.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "gaxspnyp.itf",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/789536.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "knnuzpdn.kge",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/562355.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "hspddavf.cuk",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/659401.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ibjvpzca.pre",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/969289.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "jdedgwny.bng",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/610875.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "hpcchvhb.ets",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/642907.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "vvijiman.rbb",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/649461.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "hmdatrzd.vqa",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/074414.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "aughekgq.qqo",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/301530.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "pgeunoih.ngo",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/260823.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "hjqadxxm.lfr",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/548422.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "rkhekgbv.njv",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/406365.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "zxbgwxla.bpr",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/501401.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "jpqhuhwg.swn",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/768013.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "svjiuggr.lqq",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/780745.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "ffuecnhc.thx",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/051851.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "qewvsdkj.mal",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/796706.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "zqoimowy.iui",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/943338.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "sbmwqolb.zsj",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/118780.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "txnffzxm.uqy",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/157825.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "auyekewf.tgm",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/281921.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "abvldeie.lxi",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/945810.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "roqpcgvm.wun",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/420719.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "vrrumgwy.gsd",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/714428.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "nsfovvjf.qmi",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/809466.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "newpotkg.lmf",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/197351.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "vltmblvg.frw",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/540604.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "wsafepea.yfo",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/150914.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ojfmmsgv.nzq",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/208889.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "gqngpmmf.hno",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/275928.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "ntprrfge.ccp",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/901961.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "burdcgwt.mof",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/903787.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "oudsxahy.kco",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/633348.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "kbpfyolc.oto",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/159744.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "owrxpkiy.hhp",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/474312.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ncyasvqe.myw",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/935987.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "nqvtfijz.dyc",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/134403.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "sollczun.xvy",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/861567.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "diftzlvj.ece",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/885445.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "code": "cn-east",
+      "label": "华东",
+      "targets": [
+        {
+          "domain": "axcrrted.puw",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/325373.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "yjbfvjnv.tgu",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/575038.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "cundjhqm.lcj",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/075888.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "divpcvxk.mop",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/264524.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "gucrhwtn.cdr",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/043222.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "oxqybkwy.nzc",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/154246.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "etmvqcvh.hgb",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/303332.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "bmordzch.zse",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/848605.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "acildizf.lyt",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/231957.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "hxhhzblk.jxz",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/575833.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "dwwgwilz.mze",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/526830.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "hmpwelxc.gfp",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/798650.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "chdhzqli.vrf",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/278893.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "uisbrfph.epp",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/553447.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "rpgamjlz.kka",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/199006.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "uhjcluqq.yzn",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/739532.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "tujcacrk.oaz",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/066934.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "zlogjbjs.bhf",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/514089.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "midzstyi.wme",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/041758.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "qrjswtrd.fao",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/139161.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "vvemdcmf.gbd",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/050384.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "zbkjlfdy.gyl",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/325437.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "qhzdsflz.vca",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/449605.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "bjxpzaup.bby",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/521753.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "veknzlzy.zqx",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/113254.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "wekhjnbb.pbf",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/160386.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "lipbmdjp.dph",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/113536.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "nmmmhmdr.yea",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/054807.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "crmyxdku.ktz",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/720079.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "cmztqjne.dgt",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/640919.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "gvefofxj.kln",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/211863.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "dgzgyikz.dqy",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/216037.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "lxmtsjer.etd",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/436023.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "utwlqnpy.kib",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/200386.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "qpnrzbic.wsm",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/713880.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "zsdyphhk.mkv",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/392653.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "yiuoefis.cat",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/727186.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "bvndtsxv.eol",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/586393.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "frlmqrxi.zzr",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/457931.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "veddwmht.rgv",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/858100.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "zxxpuapp.qyj",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/404196.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "jtspgzej.hvg",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/844568.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "pfwcwzzm.bse",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/668985.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "lcqjvlyl.kwo",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/606414.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "gdfybnji.dhn",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/212283.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "qdshlxir.vvv",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/766415.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "eezcodmn.ppl",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/097046.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "czaoyhje.yzd",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/427354.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "fwlasvoa.pha",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/856532.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "tfngeiqr.okh",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/524810.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "typxcskq.ftb",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/047804.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "bnngpbze.giv",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/778494.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "code": "cn-south",
+      "label": "华南",
+      "targets": [
+        {
+          "domain": "rgeqbjxm.qxg",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/122959.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "zyxisadx.ozv",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/115995.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "fqzknofz.nak",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/540053.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "zdkbmtya.nyz",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/795054.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "avsjwrfl.ykm",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/184942.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "nifxajzl.wgv",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/681252.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "catkrzwk.cqu",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/518690.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "gkvyxszz.pyg",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/520725.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "xmzakjqy.rkv",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/903707.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "xnxsfeit.nyp",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/414329.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ygceromj.gis",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/436838.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "nwtamlsm.gej",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/760114.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "thqaucrw.avo",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/583621.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "gmggkdhv.frx",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/627505.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "cwcgpagr.wxt",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/454733.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "dfvfvmtp.bmo",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/886681.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "kiqkkpdx.sra",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/926479.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "yyhmxiyh.iwz",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/519302.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "uuxafgqi.rlr",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/292044.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "eszkfacz.ttx",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/151765.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "eswecagz.yuc",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/475059.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "jtduavew.xyk",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/012114.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "bdoqadqf.wuj",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/052509.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ntrsglus.poq",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/886168.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "tblauurh.gqi",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/835001.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "vtddiccv.qnp",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/554138.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "nlobgobg.npu",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/631745.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "qturtumj.sva",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/187798.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "hjcglbhy.fyn",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/372394.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "tgbmtuwy.rgj",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/931334.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "oyqwlmhf.vzy",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/560434.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "jxxgnxsm.ztk",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/473665.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "qtkbsjkv.odd",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/779157.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "dokxksuk.uhc",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/081573.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "drqtvzgg.ugu",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/084137.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "wvbhuarh.rwz",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/612115.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ifdggler.ynd",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/157542.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ggesjufj.hoi",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/377653.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "qvrnkbab.wiz",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/213252.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "zsvaoqbw.jqj",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/527997.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "iuqrwtsr.gzc",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/710934.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "vjqqwacj.tho",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/718516.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "rrcrhhgm.vjb",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/032046.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "poyfjgjy.xyq",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/833225.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "awsbhmbm.ubt",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/351226.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "xdhtmpcj.yal",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/426803.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "dzfqsdol.djt",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/459771.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "jnhntwmk.nxq",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/931745.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "flnkaxid.iel",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/828864.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "xyzlhktf.bti",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/774594.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ixsiajmn.gjn",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/033033.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "cxneuraw.lqk",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/694103.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "code": "hk",
+      "label": "香港",
+      "targets": [
+        {
+          "domain": "uqvgaxwh.xbl",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/275738.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "grtkmgzh.oum",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/361090.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "uptkbtdt.wtq",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/735337.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "leoeqngn.jsv",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/365108.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "nxvbascc.wry",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/270116.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "jfpgxxqk.okk",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/887524.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "acyptvgw.nbw",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/616791.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "wezhlqbz.lpq",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/807186.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ndzyzxju.epv",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/045806.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "eyxtemwx.niz",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/521693.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "scwthwjs.vun",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/574303.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "obgdxssh.win",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/383898.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "gozebjiv.ohx",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/201113.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "uzxpvayu.wwn",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/165085.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "pvazncdh.tud",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/423153.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "simzfvlz.uyw",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/903570.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "lugjgmyv.lag",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/868966.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "ditkgfrg.nnm",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/433286.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "dcjmwxfk.tua",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/945927.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "fncvggcf.fey",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/399033.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "gefyvhvu.qce",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/169717.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "lhkxgzrc.rkt",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/139409.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "acwoteqq.jpg",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/201815.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "wpdrzwnq.yki",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/603338.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "ouyohxhp.kws",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/915756.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "rgfqztsw.gxi",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/004160.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ozejfazk.xug",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/553521.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "oxmwsunx.hee",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/647241.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "wahattgg.fvn",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/310190.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "unwmvuzi.aye",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/137732.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "sszwamjw.rej",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/929312.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "qkbhhmba.fjn",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/376206.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "dbqaklpt.yvp",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/252194.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "puefnzui.fjb",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/017815.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "iavvipok.nbo",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/610568.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "rivbcnlx.ifc",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/078722.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "metkxwgd.qrq",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/136474.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "zorcedli.tnb",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/023892.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "snayhbyx.tff",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/343380.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "nqlhqihd.nik",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/072907.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "ikzvwjop.jrk",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/131001.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "mauxhtbg.xxl",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/512915.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "jbmimyzv.dvf",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/850995.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "uzgpbcbx.kkp",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/554273.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "arqyuctb.wmy",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/305008.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "sbyseifr.rlv",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/249934.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "cpcoilfb.hog",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/835943.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "pnuvmuqy.xna",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/672123.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "zfxgjqwx.vmj",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/427282.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "lvsdnnet.aay",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/043961.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "xismldef.caq",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/739194.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "cratrmgf.veh",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/656938.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "code": "sg",
+      "label": "新加坡",
+      "targets": [
+        {
+          "domain": "uksxpibe.psv",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/417304.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "qupdirci.uiu",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/732836.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ipkdskcw.gik",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/994632.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ofjgwtbx.siu",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/722217.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "qtbzaqdo.plf",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/980731.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "mymakxkw.cus",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/940528.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ckfpkzvz.lrx",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/369475.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "jkooyfvs.csf",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/183116.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "uxrpkamt.xeh",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/262191.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "gpkucnzw.zba",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/253733.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "uhjitzyb.ndd",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/170881.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "zoiofbjq.nzi",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/875999.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "ziobqmyr.ncd",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/612965.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "hrfucxxc.rnq",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/925180.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "kslpqidt.wmz",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/657249.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ozvrjoip.zvh",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/816169.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "nlyvqrzy.ccn",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/836329.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "eebyzktx.yzb",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/979741.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "lmyyaooc.yge",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/683068.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "lfjrlpmt.otj",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/895237.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "illxedut.xnv",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/374199.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "akqjshjn.bqz",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/188426.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "tnmgeicl.yul",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/110155.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "izphnofm.lbe",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/132759.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "xpeszcto.quy",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/444916.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "kzdfwagn.iia",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/833597.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "fabehkgk.ext",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/201878.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "pbgtuqcg.xvx",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/474057.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "yqrxkvbg.gor",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/803173.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "enzwvbjk.zhs",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/511682.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "hzksftto.zfy",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/854598.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "uqcqpypn.yxy",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/872624.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "zyldmltz.vgl",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/978824.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "alchbmcf.yne",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/988072.shtml </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "enlggklb.qpo",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/507859.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "wvhlqrmy.grj",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/487944.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "uwmjaldw.qig",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/090395.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ltmknjpv.zaf",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/628611.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "gbjxiewl.pvp",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/179314.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "pszphqiv.gjr",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/916936.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "mfhdtrcj.mbg",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/596720.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "htdczjga.pae",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/680948.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "teexyjvd.oib",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/836302.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "lepznrtu.lbw",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/537405.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "rfrtjarp.vbl",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/172293.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "sslchaxo.tie",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/623444.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "npivmomo.urj",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/069122.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "dlddxliy.iis",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/896471.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "drilkvwu.got",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/994089.shtml </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "xyxyjogf.ozm",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/995422.shtml </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "rpyvvuyo.bqu",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/488917.shtml </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "oasgvzna.ufq",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/465283.shtml </code>",
+          "delay": 1,
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}

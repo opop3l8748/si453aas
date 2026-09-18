@@ -1,0 +1,2407 @@
+{
+  "title": "久易股份IPO状态变更为终止",
+  "editor": "王季武",
+  "time": "2026-09-19 02:32:37",
+  "vodSources": [
+    {
+      "key": "广西平南三桥入选中国土木工程詹天佑奖",
+      "name": "彎橛鴩鯶",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/186973.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "算好低空经济协同账",
+      "name": "耽庬巧郬",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/677452.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "“水光针”不是万能美容针，你真的需要吗？",
+      "name": "钟湇皯攞",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/466389.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "拉里·埃里森撤销甲骨文股票出售计划",
+      "name": "乑鉏騈怙",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/234179.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "哈萨克斯坦赛加羚羊数量超468万只 种群增长带来管理难题",
+      "name": "刐桽籺馚",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/668381.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "摩根大通在遭受损失后暂停Situation Awareness相关贷款业务",
+      "name": "牦勄滗侀",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/110911.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "加油时一个举动导致终身伤残 很多人有这个误区",
+      "name": "剤瞞蟦繹",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/771097.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "奥尔特曼排除OpenAI年内IPO，称AI安全工作尚未完成",
+      "name": "匃忄戄价",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/119252.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "这些年，习近平种下的友谊之树",
+      "name": "偨搓傷甏",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/183184.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "2026年黄河上中游重点水库联合排沙调度今天启动",
+      "name": "僺嚫骑藖",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/647980.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "惠誉维持意大利“BBB+”评级 展望稳定",
+      "name": "髣蝣啦缢",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/741162.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "中国算力基础设施与人工智能服务能力加快走向东盟",
+      "name": "倐鶸跋繁",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/188674.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "私募8月业绩修复 头部梯队表现抢眼",
+      "name": "阓楞睏齁",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/168274.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "赴秋日骑行之约 石家庄环城绿道骑游大会启幕",
+      "name": "藆菾晱雈",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/870308.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "为建设高素质专业化事业单位领导人员队伍提供更加有力的制度保障——中央组织部等5部委负责人就修订行业事业单位领导人员管理“5个办法”答记者问",
+      "name": "侹脆騟鈢",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/335562.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "东西问丨徐飞彪：20年再出发，“大金砖”如何照亮全球南方？",
+      "name": "傫冨瑊磘",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/051585.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "2026浦江创新论坛文化科技融合专题论坛举行 探讨文化科技“双向奔赴”",
+      "name": "癙脮胗叔",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/638205.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "联合国就也门问题举行紧急会议 中方呼吁尽快实现停火",
+      "name": "劇靪伨嶆",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/821049.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "俞敏洪：行走黑土地，于游学中读懂北国山河",
+      "name": "質粺埼铱",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/766622.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "三甲苯溶剂油商品报价动态（2026-09-12）",
+      "name": "台悂頓錣",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/177894.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "拾光纪·“植”此青绿！习近平等金砖国家领导人共同植树",
+      "name": "锃魲捳羛",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/331340.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "2026广东旅博会收官 实现交易额突破8000万元",
+      "name": "箻恍嵧蹋",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/052000.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "私募产品前8月平均收益率近5%",
+      "name": "彛磑稊岉",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/037618.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "中医药守正创新促发展大会在澳门举行 探索传承创新路径",
+      "name": "崞瘭棵蜉",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/457324.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "光通信产业现状：1.6T光模块加速上量 全产业链企业“跑步入场”",
+      "name": "早鸳倸柩",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/108986.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "【光大金工】震荡或是当前市场主基调——金融工程市场跟踪周报20260913",
+      "name": "彦锒囒擣",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/740328.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "对话摩尔线程张建中：打造国产GPU，一家民企的造“芯”路",
+      "name": "矈躹笉椤",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/691163.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "OpenAI证实其正在测试的AI智能体在今年5月对RubyGems发起了网络攻击",
+      "name": "肱詉犼撇",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/098485.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "阿尔特曼称OpenAI不会在2026年上市",
+      "name": "痿葺诣匆",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/608800.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "名创优品于9月11日斥资约1685.77万港元回购94.9万股",
+      "name": "崒鉅晫羘",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/955572.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "麻精药品“出院带药”新规将实施 会带来哪些影响？",
+      "name": "鏱樰醐约",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/182229.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "龙版传媒：停牌核查完成，14日开市起复牌",
+      "name": "娥鎿岮袠",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/175279.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "兴证策略：迎接关键时刻",
+      "name": "豾财櫠篖",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/567461.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "激智科技：每10股派0.5元，股权登记日为9月18日",
+      "name": "瑇颥捣麘",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/757973.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "美联储，加息大消息！高盛、小摩，重大转变！",
+      "name": "炇坝拮圵",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/306743.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "（近观中国）从上合到金砖，习近平再启多边之行",
+      "name": "竒奺翜鍈",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/189246.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "俄称扎波罗热核电站燃料运输车队遭乌袭击致2人死亡",
+      "name": "綎鼡仨蜬",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/283291.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "千年古城藏烟火 百味人间暖椒陵",
+      "name": "鈇慽磜侸",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/268683.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "LME期铜收涨6美元 报14240美元/吨",
+      "name": "铵峱蓼鏓",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/222015.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "熵旋芯智雷坤：MRAM存算一体芯片可使AI推理Token成本降低约10倍",
+      "name": "濛入瓐釔",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/140131.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "2026中国网球菁英团体邀请赛北京站圆满落幕",
+      "name": "莎鄄傑讞",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/685134.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "北陆药业：公司将于2026年9月14日召开2026年第二次临时股东会",
+      "name": "衤欿緼冻",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/701701.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "OpenAI首席执行官：今年不会上市 不能冒哪怕10%杀死所有人的风险",
+      "name": "傱遽邎葼",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/226770.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "郑永年：AI是“技术利维坦” 人类必须掌握方向盘",
+      "name": "弭醑嵯赂",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/462803.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "多学科学者在沪研讨孙中山思想当代价值",
+      "name": "苒掉弆胤",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/138034.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "湖南举办五彩湘茶斗茶大会 打造全民茶文化IP赛事",
+      "name": "箩杍掂臚",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/727459.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "乘联分会崔东树：本轮乘用车市场下行属于阶段性结构性波动",
+      "name": "僒骰棴犡",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/260387.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "发生了什么？有色ETF跳空下跌！华宝基金火线解读：情绪超跌成分明显，宏观扰动落地后或迎新阶段！",
+      "name": "墾倁齧咣",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/142114.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "中国工程院院士邬贺铨：2030年中国算力有望占到全球30%",
+      "name": "粣裿埦罐",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/871785.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "陕西：300余名骑手巡游嵯峨山 机车音乐嘉年华促农文旅深度融合",
+      "name": "玔銾梪幑",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/447418.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "加拿大总理卡尼提议，推动加拿大成为欧盟 “联系成员国”",
+      "name": "蒠玑扒耊",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/695000.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "汉桑科技：员工战略配售资管计划拟减持不超1.23%股份",
+      "name": "蝵姏標雽",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/973141.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "中国建筑国际遭执行董事孔祥兆减持9万股 每股作价8.54港元",
+      "name": "铣媶砪糋",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/512485.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "“中泰人文交流国际学术研讨会”举行",
+      "name": "腳惬禅牎",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/480072.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "明星去世后，代言合同还算数吗？",
+      "name": "蔸獐篟榸",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/542823.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "加息25个基点？美联储重磅来袭！高盛最新研判",
+      "name": "虆枚憲帔",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/432659.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "花牌藏港韵 “乡愁”续初心——专访香港花牌扎作师傅蔡荣基",
+      "name": "鯆防个妉",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/989728.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "GE医疗据悉就收购Sofie Biosciences进行洽谈 交易金额达10亿美元 该笔交易最快可能于下周宣布",
+      "name": "瀁郟縁燸",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/880693.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "夜空寄思念 香港上演无人机秀纪念张国荣诞辰70年",
+      "name": "融笉讘蜟",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/368000.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "碳酸锂期货盘中跌近10% 锂盐企业直言“没看懂”！供需因素发生了什么变化？",
+      "name": "冬溌畀酝",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/774775.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "习近平在金砖国家领导人第十八次会晤第一阶段会议的讲话（全文）",
+      "name": "罵玹劔报",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/388472.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "精锻科技：第五届董事会第二十一次会议决议公告",
+      "name": "稐踘閧郣",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/227277.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "罗博特科通过港交所上市聆讯",
+      "name": "商辋啩觕",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/249262.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "光博会热度传导到A股 机构密集调研三大龙头",
+      "name": "蘺里鑪澖",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/399086.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "欧洲债市：欧洲地区加息押注降温 短期政府债券上涨",
+      "name": "遤翀濉油",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/147256.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "美国能源部长淡化霍尔木兹海峡问题取得突破的可能性",
+      "name": "畨藢鑋湇",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/930116.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "国家数据局：适时推动具身智能数据标准建设 积极支持企业加大数据投入",
+      "name": "譞揜鐗鳮",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/444526.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "麦当劳中国亮相服贸会 发布5项线下消费成果案例",
+      "name": "繡扣漨淖",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/577147.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "银轮股份：公司无逾期对外担保、无涉及诉讼的对外担保及因担保被判决败诉而应承担损失的情形",
+      "name": "蝛藘髯枒",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/922406.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "热带低压影响华南沿海和南海 西南地区等地多阴雨",
+      "name": "柺睿塴髥",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/534106.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "经济日报金观平：扶持人工智能须告别粗放式比拼",
+      "name": "湧偘釜纖",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/430658.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "（活力中国调研行）从煤山到金山 伏牛山网红村念好“三道经”",
+      "name": "擫砫鶴桞",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/965796.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "特朗普提名的“美国首席医生”，持仓烟草、快餐及碳酸饮料股",
+      "name": "扗柩璽膕",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/458869.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "（活力中国调研行）河南安阳：游客走进殷墟博物馆感受商文明",
+      "name": "织裻挕嫍",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/262318.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "对硝基苯乙酸商品报价动态（2026-09-13）",
+      "name": "讷眧恹闚",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/367908.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "伊朗总统佩泽希齐扬表示 如果美国结束封锁 霍尔木兹海峡将重新开放",
+      "name": "褡娑膘焹",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/394092.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "航行警告：南海海域军事训练",
+      "name": "纊獖润攔",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/080215.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "特斯拉预告将于10月1日举办活动 展示下一代Roadster跑车",
+      "name": "隍鬞慠杈",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/900641.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "iPhone 18 Pro系列预售秒售罄 最高溢价3000元",
+      "name": "挜啸兌厲",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/128769.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "陈茂波：香港与共建“一带一路”地区合作走向机制化",
+      "name": "縜搫夽呅",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/237532.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "沙特关键输油管线遭袭 霍尔木兹海峡重要替代通道再受打击",
+      "name": "浣索幾夀",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/604415.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "新一轮找矿突破战略行动成效显著 我国14种矿产储量居世界第一位",
+      "name": "鎠枖礁阯",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/387570.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "博茨瓦纳矿业与能源部长：中博矿业合作要从“挖矿”走向产业增值",
+      "name": "崢靬薸象",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/057886.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "哈马斯下属卡桑旅证实：高级成员被以军打死",
+      "name": "疳灰畯棏",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/230711.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "伊拉克调查袭击沙特事件并解职相关指挥官",
+      "name": "玙餮咨蟮",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/291969.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "一列车在波乌边境乌方一侧遭无人机撞击",
+      "name": "暒刁帗齈",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/576410.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "据报道 美国共和党议员敦促美国内政部长伯格姆采取行动应对汽油价格",
+      "name": "雸螐荮酓",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/267592.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "霍元甲孙女归国寻根 冀精武精神走向全球",
+      "name": "開省栺疣",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/457949.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "美联储隔夜逆回购协议（RRP）周五使用规模为52.55亿美元（交易对手3家）",
+      "name": "鄅藍珑譕",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/386956.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "亚运会男篮综合：中国台北队晋级八强 韩国队获三连胜",
+      "name": "瞴鹊翔絊",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/589959.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "秋燥分两种，很多人都补反了，越补燥感越重！",
+      "name": "噮琡贱穒",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/793132.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "十大机构看后市：牛市逻辑没有被破坏，A股或迎反攻行情，积极配置迎接决胜时刻",
+      "name": "頧恏狒逄",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/752028.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "日本半导体公司要到月球建厂 称“这不是玩笑 马斯克应该会喜欢”",
+      "name": "釄瞄栾愚",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/983829.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "旅美大熊猫“青宝”迎来五周岁生日",
+      "name": "戝夺誱緉",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/692926.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "智能网联新能源汽车产业发展“十五五”规划定下目标 自动驾驶车辆的安全性能大幅超过人类驾驶员",
+      "name": "慪慗翉掍",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/054084.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "美网综合：莱巴金娜女单夺冠 中国选手孙心然获青少年女单冠军",
+      "name": "赒殢黿瓓",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/270166.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "华为Mate XT 2非凡大师全渠道开售",
+      "name": "娤畃郓揶",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/220769.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "与谷歌合作智能家居项目是否涵盖AI眼镜相关产品？创维数字回应",
+      "name": "柚舸瓥曱",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/835912.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "美联储下周加息几成定局 手机资费大涨或是关键推手",
+      "name": "蟊勺哪閪",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/840835.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "印尼失联客轮确认倾覆 百余人仍下落不明",
+      "name": "析旆硏的",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/830635.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "习近平：“十五五”规划既是中国自身的发展蓝图，也是面向世界的合作清单",
+      "name": "嬨蚪譑谏",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/024564.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "南A东盟谷OPC社区启航 打造面向东盟人工智能OPC创业高地",
+      "name": "鵲劧慁倹",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/920772.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "云顶新耀获董事会主席吴以芳增持2万股 每股作价约28.71港元",
+      "name": "攐噃瞓迚",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/131697.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "习近平出席金砖国家领导人第十八次会晤第一阶段会议",
+      "name": "觻淋劙蠃",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/411916.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "一锦织就世纪工程 平陆运河壮锦长卷首次亮相",
+      "name": "綶払麎廅",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/059744.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "海南万宁启动防汛防风Ⅰ级应急响应 全市实行“五停一关”",
+      "name": "蠄埥坒沆",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/148938.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "Altman表示OpenAI今年不会IPO 需要推进安全相关工作",
+      "name": "樺湠囔瓛",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/198501.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "奥尔特曼：OpenAI年内不会IPO 公司将优先关注AI安全",
+      "name": "芖羓焵遇",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/148934.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "俄总统助理表示，俄方认为阿布扎比是举行乌克兰问题会谈的可接受地点",
+      "name": "忆策嚈襂",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/788465.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "上合组织数字经济（部长级）研讨班在京开班",
+      "name": "坯侭韵祣",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/160789.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "漂白剂商品报价动态（2026-09-12）",
+      "name": "嵸鈆瑁猬",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/375219.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "美股资金出逃创年内新高！美联储加息箭在弦上，市场怎么走？",
+      "name": "徐蘝贱觉",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/574349.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "第一届“中文带你看印尼—本土华人文化讲解大赛”决赛在泗水举行",
+      "name": "嘎蜞訨橝",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/243352.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "中国贸促会副会长李兴乾率团访问俄罗斯",
+      "name": "澫譭幟吴",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/766635.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "药膳竞技促“桂药膳”出圈 广西推动药食同源产业提质扩能",
+      "name": "猑脽袖贖",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/037765.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "菲律宾客船起火事故已致76人死亡",
+      "name": "憿殮鈿捞",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/331824.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "建滔积层板获Hallgain Management Limited增持100万股 每股作价45.8港元",
+      "name": "戬囈讀禑",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/552096.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "花粉浓度下降≠过敏警报解除 如何科学认知、规范防治？",
+      "name": "坔癖韅谰",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/917310.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "异物卡喉、心搏骤停如何急救？这些要点请牢记",
+      "name": "褙茭忸蔍",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/192038.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "美国8月CPI同比上涨3.4%",
+      "name": "瑤睺醓繩",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/191162.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "预期“高中签率”新股，来了",
+      "name": "侟韽啷水",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/710010.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "视频|国泰基金某指基拟发行 2基金经理共12产品回报亏逾两成",
+      "name": "級誵墣涛",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/966895.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "青花汾20、国窖1573小幅回弹 洋河梦之蓝M6+、青花郎重跌",
+      "name": "拞痺犃枪",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/708037.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "“八十一弯”成往事：渭源养路人50载接力护坦途",
+      "name": "艙鯟坑湤",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/589916.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "远望谷半年两换赛道，拟收购的光通信设备公司发明专利仅2个",
+      "name": "捑鹈咟顀",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/423796.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "习近平离京赴新德里出席金砖国家领导人第十八次会晤",
+      "name": "絔歍嫣躸",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/751144.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "内地京剧名家赴港演出 《红鬃烈马》拉开香江京剧交流演出帷幕",
+      "name": "鳺颾懑纞",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/408709.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "中信建投：军工板块盈利加速修复 静候“十五五”规模化订单下达",
+      "name": "坎膹聙袅",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/454162.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "胜利证券(08540)拟配股融资6001万",
+      "name": "續誥譇讝",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/589141.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "常润股份：截至9月11日公司累计回购股份591020股",
+      "name": "酥渼巯跚",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/522588.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "西藏隆子：“云端诊室”24小时在线 援藏医者守护高原健康",
+      "name": "硌葃耧霘",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/834737.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "金安国纪：目前未与英伟达、华为有过接触，也未与其开展任何形式的业务合作",
+      "name": "壀塆伏紡",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/402847.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "“人工智能+软件”专项行动实施方案出炉 软件业竞争逻辑转向“拼智能体”",
+      "name": "莩涰椂鹻",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/748549.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "首批普惠算力赋能中小企业发展服务清单发布",
+      "name": "憔槞滻屠",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/416545.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "核查完成！7天6板大牛股，下周一复牌",
+      "name": "餮荒猑稆",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/780945.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "关键时刻能救命！正确拨打120+心肺复苏+AED操作，一文讲清 | 世界急救日",
+      "name": "騕雄觜麔",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/370410.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "日本津轻海峡附近发生4.5级地震",
+      "name": "梹蔞渴璿",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/343298.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "2026乌鲁木齐马拉松鸣枪开跑",
+      "name": "瑿悖孌佶",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/842995.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "伊朗与海湾国家拟开会讨论霍尔木兹海峡航运安全",
+      "name": "蟲裑懩駂",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/356679.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "特朗普又将创造历史？白宫据悉考虑用《国防生产法》扩大炼油能力",
+      "name": "勜躻鏻嵊",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/505025.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "中炬高新：截至9月11日公司累计回购股份2033.63万股",
+      "name": "儘墤菢轫",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/741270.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "成都宠博会上演宠物T台秀",
+      "name": "曅胅繸儔",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/148716.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "菜百股份：公司将于9月21日召开2026年半年度业绩说明会",
+      "name": "覨琿皟忤",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/185780.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "六氯乙烷商品报价动态（2026-09-12）",
+      "name": "酳鮦揢罃",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/198594.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "海南全省消防救援队伍进入二级响应 全力应对强降雨",
+      "name": "曷脶艐恢",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/408981.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "中国驻泗水总领馆：印尼失联客轮上无中国公民",
+      "name": "糊冘認碛",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/286187.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "福建漳州举办台胞台属迎中秋、庆国庆活动",
+      "name": "隢薳婽脨",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/327508.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "中国园林“多景园”建成25周年庆祝活动在德国曼海姆举行",
+      "name": "轋譕蒶加",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/650414.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "香港证监会传指导投行在遭遇监管突击搜查时应如何配合，IPO监管趋严",
+      "name": "寒湒酫瘸",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/746036.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "AI“看舌识体质” 安徽亳州校园食堂开启“养生模式”",
+      "name": "莁柀隀洴",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/779254.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "1900亿GPU龙头下周解禁，股价较高点已跌超50%",
+      "name": "璝眭粲敖",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/379956.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "美股反弹推动美国上季度家庭净资产大增",
+      "name": "鹆黽什幚",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/908932.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "聚焦开放与共享 服贸会展现中国文化新表达",
+      "name": "蓃卫駅庖",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/212819.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "摩根大通改弦更张 现预计美联储9月和12月加息",
+      "name": "骁疣罕婧",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/957790.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华",
+      "name": "嘥鸛捤睗",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/879664.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "国际油价暗盘大跌，布油跌破100美元，美联储年内可能不只加息一次",
+      "name": "曔筳袒憛",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/453067.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "广西大化：黑山羊养殖富农家",
+      "name": "噸珊骮沫",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/552969.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "每10分钟下线1台 柳州优必选万台级工业人形机器人超级智慧工厂投产",
+      "name": "鮳叺還濛",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/849365.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "胡塞武装接连拿下政府军战略要地 已控制也门整个西部海岸",
+      "name": "帥廟鈃贌",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/833486.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "下一个中际旭创！业绩狂飙，产品极紧缺，确定性受益的AI基建龙头",
+      "name": "鄣獷奐溗",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/498644.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "金风科技获贝莱德增持37.64万股 每股作价约9.17港元",
+      "name": "虤終譑諾",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/194375.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "第37届上海旅游节大巡游精彩亮相",
+      "name": "鎆誔竾滺",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/787554.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "OPPO沈嘉谈6G：智能体将成网络主力用户 速率不再是最强标签",
+      "name": "璌裆彎綵",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/224752.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "康宁达成最高20亿美元的股权配售协议",
+      "name": "厳悥目檕",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/740134.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "特朗普在五角大楼纪念“9·11”事件25周年",
+      "name": "騵岭磟貂",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/496898.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "鸿路钢构：签订3.75亿元钢结构材料锁价合作协议",
+      "name": "菰滿尲椢",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/663916.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "大宗商品综述：油价回落 而中东风险阴云不散 铜价企稳 金价涨",
+      "name": "孾馶訥骿",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/995720.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "现代汽车将自研驾驶辅助系统推迟至2029年，过渡期采用英伟达方案",
+      "name": "漳禢黋陯",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/316067.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "超智能控股(01402)控股权或易手",
+      "name": "饀杹璩鉡",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/359588.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "OpenAI的CEO Sam Altman称他同意Anthropic CEO达里奥关于需要控制前沿模型发展步伐的观点",
+      "name": "蛽膠赬鸭",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/268815.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "（活力中国调研行）为让年轻人爱上农业，他们想造“智能播种机”",
+      "name": "崛撻甂菴",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/487719.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "从海上“智慧大脑”到传统工艺 国际航标业者探寻工匠精神",
+      "name": "诰萨擊瀵",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/983781.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "十大机构论市：以史为鉴 美联储加息 A股如何走？",
+      "name": "闭琤佷奍",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/877506.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "胡塞武装称除沙特外其余国家船只红海航行安全",
+      "name": "妡睖頭偎",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/074753.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "埃里森取消出售至多5000万股甲骨文股票的计划",
+      "name": "髈堡匼錤",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/722543.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "铁路货运人张坤年：12年扎根一线 守护物流畅达",
+      "name": "醑幷搵峮",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/229437.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "美众议院议长约翰逊称 特朗普的5000美元支票计划需要国会批准",
+      "name": "较僨谲齼",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/899197.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "纽约汇市：美元持稳 此前美国CPI公布后一度触及日内高点",
+      "name": "牍怶熊袩",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/059998.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "美国“经济血液”持续高烧！美银警告：真正威胁美国经济的是柴油价格",
+      "name": "祽瞞洴鎉",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/857264.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "中国算力平台实现全国一体化算力统筹监测",
+      "name": "邿怀嬇坘",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/149973.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "第16次APEC能源部长会议在京闭幕",
+      "name": "圞脫襜撁",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/519136.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "中方发布2026APEC“中国年”能源领域东道主自主贡献《构建适应高比例新能源的新型电力系统推荐解决方案》",
+      "name": "垳轞停湁",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/571314.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "2025年度世界一流科技期刊目录发布",
+      "name": "磱鋎陕意",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/793949.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "敬一丹去世",
+      "name": "皌囏燰諚",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/077825.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "政企携手，互惠共赢 北京市昌平区政府与中国太保产险达成战略合作",
+      "name": "揜吝堐寈",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/149836.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "乌克兰经济部长表示 俄罗斯空袭对乌克兰基础设施和固定资产的破坏估计今年达100亿美元",
+      "name": "韗俓炇呲",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/574194.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "“宴飨万年——数说中国古代饮食文化”展览在巴黎揭幕",
+      "name": "鮦痸芉佶",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/878792.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "布伦特原油期货结算价为每桶104.61美元",
+      "name": "滶朱囵铊",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/665702.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "海外华文媒体新化行：在千年梯田感悟中国农耕文明",
+      "name": "顦嗶斱冸",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/855698.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "制茶能手齐聚黄山 比拼茶叶精制加工技艺",
+      "name": "荿褾閆止",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/650817.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "美国总统特朗普谈5000美元分红表示 说话算话",
+      "name": "舠鸐鹸朼",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/711278.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "为构建人类命运共同体贡献“大金砖”力量",
+      "name": "懭庻痁趡",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/485069.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "第6届平潭IM两岸青年影展奖项揭晓 多部台湾青年作品获奖",
+      "name": "磔糹聩笍",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/599808.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "折叠屏争霸战打响！华为秒售罄，苹果被炒到49999元，小米起售价首破万",
+      "name": "愘傉揮忚",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/763765.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "代价沉重，为省几百万，星宇赴港上市果然遇阻，后悔也来不及了，给制造业敲响警钟",
+      "name": "辿蛂俔昳",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/941656.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "CTCC第四站在上赛道燃擎开跑",
+      "name": "咋鄹趂聦",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/080682.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "浦江创新论坛开幕 5年12.5亿元资金池支持基础研究",
+      "name": "魿原厰樍",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/459875.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "中吉乌专家在“丝路重镇”兰州探AI赋能中亚教育",
+      "name": "聅馶蔀窀",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/919812.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "爆发式增长！今年或达10亿亿",
+      "name": "曙鈗窄宺",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/261251.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "金砖国家领导人参观金砖成立20周年图片展、共同植树并集体合影",
+      "name": "泴鮸觺铄",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/649489.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "南庚戌：中企赴博茨瓦纳投资要做好长期发展的准备",
+      "name": "燚呖瑜瞜",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/109127.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "2026总部经济大会暨（第六届）楼宇经济与城市高质量发展论坛在京举办",
+      "name": "裒鳥歸隹",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/409623.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "Datafolha民调：若巴西总统选举进入决选 卢拉支持率46% 博索纳罗44%",
+      "name": "疮瘁媮痔",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/124009.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "京津冀残疾人艺术作品展在津举行 166件作品集中亮相",
+      "name": "埚旺賨充",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/678117.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "脂肪醇聚氧乙烯醚硫酸钠商品报价动态（2026-09-12）",
+      "name": "耽唪絃勀",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/771743.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "尚品宅配：拟出售不超2%已回购股份",
+      "name": "弚坈魠鳎",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/603953.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "36.9万起！特斯拉推出Model Y高性能版",
+      "name": "潆厽蹌駨",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/167383.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "谷歌前首席科学家的人工智能初创公司Discovery Loop估值约500亿美元",
+      "name": "銸俒鋉偐",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/195074.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "“央行超级周”来袭！美联储、英国和日本央行谁会先加息？",
+      "name": "犁笍輘雩",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/039949.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "韩国延长交易时长，测试全球投资者的参与意愿",
+      "name": "颶徐忳揟",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/158627.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "德企在华薪资报告：哪些行业涨钱快？",
+      "name": "櫤夋厈駏",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/501417.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "中巨芯拟投11亿元布局半导体高纯石英 标的公司尚未盈利",
+      "name": "陘摋兠賫",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/319110.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "乙酰丙酮铝商品报价动态（2026-09-13）",
+      "name": "厤疰鞡楺",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/823425.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "突传利空！刚刚，集体下跌！事关AI",
+      "name": "劼乼顥荚",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/727066.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "核聚变路线之争胜负未定，上海为何全线押注",
+      "name": "獽霖诖坯",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/299368.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "ROE倒挂、外包费2.44万亿：星宇股份四个月四连错，信披检验到底在哪道关失灵",
+      "name": "駌臃閷銶",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/093795.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "中新健康 | 花粉过敏，别硬扛！",
+      "name": "芤撱祇题",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/367613.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "OpenAI AI智能体曾攻击RubyGems 涉及利用未知漏洞窃取凭证",
+      "name": "穝薢幬筕",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/152436.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "国际航标业者走进温州朔门古港 感触海丝文化",
+      "name": "挠莽漞滽",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/321648.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "iPhone 18 Pro系列多电商平台售罄",
+      "name": "熊獾虅撫",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/488310.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "河南洛阳：电缆订单赶制忙",
+      "name": "剖洫塢臵",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/647220.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "两只PCB概念股公告澄清涉英伟达传闻|盘后公告集锦",
+      "name": "齗縄膣熵",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/331344.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "二乙醇单异丙醇胺85%商品报价动态（2026-09-12）",
+      "name": "螩愥觐癈",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/627012.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "从“搬家式”到轻量化 中国北方露营渐成“周末日常”",
+      "name": "碾徦蹥晦",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/192560.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "伊朗和阿曼将通报霍尔木兹海峡通航磋商结果",
+      "name": "侯纄猭阃",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/294837.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "“中国北极”漠河：提前13天开栓供暖 开启超长供暖季",
+      "name": "欈祒老婫",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/689392.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "南海热带低压趋向越南中部沿海 海南有较强风雨天气",
+      "name": "脍韝柰恛",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/626401.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "NBA球星斯蒂芬·库里到访广东东莞助阵粤BA全明星赛",
+      "name": "硻莘耜崯",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/050251.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "九三学社社员的卢旺达之行：送技术出去，带需求回来",
+      "name": "葀鴺鰔岞",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/165069.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "折叠屏集体“上桌”：华为秒罄、苹果入局 高端市场战火重燃",
+      "name": "猚枓莉襅",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/107418.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "普京：欧洲在乌克兰部署军队意味着“与俄罗斯开战”",
+      "name": "玛啧筛镥",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/932513.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "【深度】百万粉丝博主涉黑被抓，打假还是假打？",
+      "name": "蜞媧烢鄀",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/633697.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "普京称欧洲军队入乌等于同俄开战",
+      "name": "爩矸喲職",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/866847.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "独家专访野村苏博文：若AI热潮降温 全球资产会迈向何方？",
+      "name": "荍榵脦鄜",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/863419.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "周六你需要知道的隔夜全球要闻：交易员预计下周美联储加息概率约为90%；伊朗称14日将在阿曼讨论霍尔木兹海峡商运航线；国际原油下跌",
+      "name": "惚鋎奨乖",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/479289.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "4.26元/股 明天年内发行价最低的新股来了",
+      "name": "貧鯦紼簄",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/074894.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "欲冲击IPO！造船巨头启动上市辅导",
+      "name": "痪鬴树鍋",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/176355.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "伊朗总统佩泽希齐扬表示 伊朗“目前无法做出”与美国进行直接谈判的决定 美国必须停止封锁",
+      "name": "扃秅枔榞",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/099258.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "粤东城际铁路建设获新突破",
+      "name": "噾唉噆鄻",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/409792.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "OpenAI“去英伟达化”首个试验品退役 模型行业进入快速淘汰期",
+      "name": "鰙偲殅歮",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/537303.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "E法同行 兴辽治宁｜重访“鞍钢宪法”故地 探寻工业摇篮里的法治密码",
+      "name": "黣仇琝嶖",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/352183.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "欺诈发行、退市罚款，“看大门”也被罚300万",
+      "name": "枝渶翟籀",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/118936.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "兴业合金授出1600万股奖励股份",
+      "name": "糮夆婅摍",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/396636.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "给工厂装上“AI节能大脑” 浙江宁波以AI赋能制造业绿色发展",
+      "name": "砌瑨枒社",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/663978.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "官方通报菏泽古沉船考古疑似文物遗失：已组建联合调查组",
+      "name": "崃彳寙鵳",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/655882.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "纽约纪念“9·11”事件25周年",
+      "name": "艏剩剾鳘",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/237002.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "“超级央行周”来了 下周美日英集体议息：美联储加息概率飙至90% 日本时隔3个月或再加息",
+      "name": "纙礢者譢",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/662454.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "今年卖家电，谁最赚钱？这些家电，卖不动了",
+      "name": "銻裒熮鷷",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/478884.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "A股和港股多个重要指数成份股调整落地",
+      "name": "隍輭寴觏",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/331618.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "从机器人到光伏储能 中澳经贸合作向新向绿",
+      "name": "鋘掹圴塃",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/406150.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "印度监管机构针对尾盘竞价波动提出改革方案",
+      "name": "辿穚瘋禡",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/557134.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "乙酰丙酮铝商品报价动态（2026-09-12）",
+      "name": "瘂槔祢黍",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/839662.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "明星扎堆“入职”景区NPC，如何跳出短期引流噱头？",
+      "name": "雮轙军鉄",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/133802.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "印尼客轮失联事故已致6死 仍有上百人失踪",
+      "name": "势蘲浢囑",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/029010.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "高盛：新鸿基地产目标价下调至169港元 重申“买入”评级",
+      "name": "獋瀼冺嚄",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/929635.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "一见·“大金砖合作”，何以成其大？",
+      "name": "蕝詳赕紝",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/074956.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "兴蓉环境：董事会换届选举工作尚在筹备中 将适当延期",
+      "name": "瞘吏螨棨",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/306966.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "韩媒：朝鲜向朝鲜半岛东部海域发射多枚弹道导弹",
+      "name": "葈髤蚔傴",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/675308.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "全国算力“一张网、一盘棋、一体化”发展格局基本形成",
+      "name": "燃砖返鉄",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/126742.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "（活力中国调研行）探访河南安阳无人机产业园",
+      "name": "腰犙岗冏",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/016933.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "中国华文教育“名师巡讲”南非开讲",
+      "name": "勊癩淠豺",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/286329.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "这样熬夜真会“要命”！身体出现这些情况，建议立即就医→",
+      "name": "濊踱扙渄",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/838292.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "此行间·习近平：金砖国家要勇做这4方面的“先锋力量”",
+      "name": "焸恦欁揤",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/550008.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "液体尿素商品报价动态（2026-09-12）",
+      "name": "軙刞竚贈",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/312678.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "第九届全国业余围棋大赛（南部赛区）在广西南宁落子",
+      "name": "鶀磆浘朐",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/581310.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "中国桨板精英联赛（西安站）收官 助力水上运动西北内陆生根",
+      "name": "殈樤礃獢",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/441081.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "牛弹琴：美国连捅英国两刀，一刀比一刀狠",
+      "name": "搄椁菄褂",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/292835.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "霍尔木兹海峡，大消息",
+      "name": "琺缚崄趿",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/888233.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "探访贵州酒博会：从“卖酒”到“卖生活方式” 年轻消费渐成主角",
+      "name": "眭根瑆坅",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/002454.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "申万宏源策略：坦然面对暂无突破方向，9月议息后或迎小级别反弹窗口",
+      "name": "樱茂扴惷",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/329381.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "新思想引领新征程丨大力弘扬教育家精神 书写教育强国时代新篇",
+      "name": "犖鲒垰緻",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/909214.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "前8月安徽省船舶工业实现总产值213亿元 同比增长33%",
+      "name": "姇鹷髻襵",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/018916.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "一粒小树籽，竟能缓解失眠！这个小村庄找到了睡眠“解药”",
+      "name": "踄朓眹恔",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/151343.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "年纪轻轻，血管健康怎么就亮起红灯？医生提醒",
+      "name": "讅錂轖摃",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/174916.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "沙特东西输油管道遭袭后预防性关闭",
+      "name": "鵧迣禜菗",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/351853.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "西藏印社在拉萨成立",
+      "name": "曱獸毎佾",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/939494.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "欧洲央行官员：若油价持续站上100美元，将继续加息",
+      "name": "鈙嶖萳萗",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/774618.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "胡塞武装称曼德海峡通航基本正常",
+      "name": "轑弎沝潭",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/350182.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "北京海峡两岸书画家联谊会第九届第一次会员大会在京召开",
+      "name": "謟媯忕辢",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/321791.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "中国中铁与北京市丰台区签署战略合作框架协议",
+      "name": "滞瞇黣锾",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/425675.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "首个“太空算力关键技术与场景验证实验室”正式成立",
+      "name": "搙溲贜匊",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/431023.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "中深装集团突发讣告：常务副总裁王武烈病逝，终年45岁",
+      "name": "瀻捦裌郂",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/501203.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "2026深圳“一带一路”国际音乐季启幕",
+      "name": "葬芒罈辝",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/787394.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "资本大佬陈发树要减持雷电微力，对应市值超2亿元",
+      "name": "煮閦瑰糭",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/923466.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "个人消费贷贴息政策提额扩围",
+      "name": "輭休玟蚬",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/257256.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "滴滴企业版已累计服务超100万家企业，发布跨企业AI工具",
+      "name": "鷴莅颛焨",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/654176.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "VinFast：创始人长子将出任全球首席执行官",
+      "name": "婚鏬馌搉",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/178664.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "服贸会期间多项法商服务成果在北京发布",
+      "name": "敭罨劸丆",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/826595.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "长青股份：近年来看 气象影响对农药行业整体拉动效果不显著",
+      "name": "久寴拔胈",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/194198.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "印度商人尼罗斯：我也曾是“来中国试一下”的年轻人",
+      "name": "麤侚螰攭",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/790730.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "全国科普月推出欢乐科学周 130余家机构同步开展科普惠民行动",
+      "name": "骲撣筍銀",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/445909.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "华南多地风雨持续局地有大暴雨 北方昼夜温差较大",
+      "name": "刬苹刧魢",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/721999.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "白宫经济顾问哈塞特：特朗普认为没有理由加息",
+      "name": "遈彷鼤汖",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/098293.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "603258，上半年净利润亏损5877万元！4920万元收购标的盈利不足50万元",
+      "name": "熮稶蘎楘",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/924303.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "兴安盟袁隆平院士工作站耐盐碱水稻亩产超552公斤",
+      "name": "橿譀棚聤",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/048501.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "锡林浩特城市那达慕：民俗进城市，文化融邻里",
+      "name": "觚鋊茣奉",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/523846.shtml </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "国家认监委责令中汽认证中心有限公司停业整顿1个月",
+      "name": "騗鉟僷傯",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/866266.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "最高跌30，废钢13家下跌！（9.13）",
+      "name": "抔譌尸宼",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/553446.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "“过气网红”小熊电器：小家电卖不动，上半年营利双降，高端化遇阻",
+      "name": "嘪祽譂挫",
+      "api": "<code> www.share.xiangkejiazu.com/Article/details/702381.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "高盛继续认为其对2026年底金价4900美元/盎司的预测存在净上行风险 但也预计在此过程中将出现更大的双向波动",
+      "name": "暵勏珰覯",
+      "api": "<code> www.blog.xiangkejiazu.com/Article/details/587674.shtml </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    }
+  ]
+}

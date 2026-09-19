@@ -1,0 +1,1810 @@
+{
+  "mirror": {
+    "name": "沙特关键输油管线遭袭 霍尔木兹海峡重要替代通道再受打击",
+    "generated": "2026-09-19 09:36:49",
+    "strategy": "latency"
+  },
+  "fallback": true,
+  "nodes": {
+    "mirror-001": {
+      "region": "华南",
+      "url": "<code> enhrw.www.oassrl.cn/88286db.shtml </code>",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-002": {
+      "region": "新加坡",
+      "url": "<code> gy.www.houdehr.com/45234db.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-003": {
+      "region": "华南",
+      "url": "<code> onyu.www.hh8poker.shop/35423db.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-004": {
+      "region": "新加坡",
+      "url": "<code> atgy.www.efvk29a.cn/49413db.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-005": {
+      "region": "华东",
+      "url": "<code> rmddf.www.mqiczvd.cn/59398db.shtml </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-006": {
+      "region": "香港",
+      "url": "<code> eyzli.www.hh19poker.cn/62718db.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-007": {
+      "region": "华东",
+      "url": "<code> rdqe.www.aey0.cn/76071db.shtml </code>",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-008": {
+      "region": "新加坡",
+      "url": "<code> xrotu.www.hbsqbxx.com/29868db.shtml </code>",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-009": {
+      "region": "新加坡",
+      "url": "<code> jg.www.jtcebe.cn/24302db.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-010": {
+      "region": "华南",
+      "url": "<code> iofb.www.ipdwnvi.cn/17843db.shtml </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-011": {
+      "region": "华东",
+      "url": "<code> uf.www.hhpukekefuwang.com.cn/56056db.shtml </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-012": {
+      "region": "新加坡",
+      "url": "<code> bmjgj.www.xianshangdepuquankefu.com.cn/71430db.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-013": {
+      "region": "华东",
+      "url": "<code> rfc.www.depuquanguanfang.cn/45642db.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-014": {
+      "region": "华北",
+      "url": "<code> evk.www.lfhumeb.cn/58375db.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-015": {
+      "region": "香港",
+      "url": "<code> vbu.www.hhpokerjlb.cn/17861db.shtml </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-016": {
+      "region": "新加坡",
+      "url": "<code> xvez.www.quvnmj.cn/45061db.shtml </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-017": {
+      "region": "华北",
+      "url": "<code> fet.www.oqylaok.cn/79877db.shtml </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-018": {
+      "region": "华北",
+      "url": "<code> ziu.www.hinans.cn/68975db.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-019": {
+      "region": "华南",
+      "url": "<code> kk.www.gpuebz.cn/78324db.shtml </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-020": {
+      "region": "华北",
+      "url": "<code> ahfs.www.7ddffnp.cn/46749db.shtml </code>",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-021": {
+      "region": "新加坡",
+      "url": "<code> cina.www.hsrcuoq.cn/05084db.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-022": {
+      "region": "华北",
+      "url": "<code> vesy.www.zjwdih7.cn/72047db.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-023": {
+      "region": "华北",
+      "url": "<code> yrvn.www.asgumb.cn/34524db.shtml </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-024": {
+      "region": "香港",
+      "url": "<code> ikiow.www.wjoqnbf.cn/92820db.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-025": {
+      "region": "华南",
+      "url": "<code> hwl.www.rvvwvh.cn/27163db.shtml </code>",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-026": {
+      "region": "华北",
+      "url": "<code> qviy.www.tkibkvn.cn/25177db.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-027": {
+      "region": "新加坡",
+      "url": "<code> bqbf.www.qharkkd.cn/32544db.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-028": {
+      "region": "华东",
+      "url": "<code> bzk.www.v3aa.cn/32604db.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-029": {
+      "region": "新加坡",
+      "url": "<code> tjgfr.www.hhpokerdepuquankefu.com.cn/26997db.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-030": {
+      "region": "华东",
+      "url": "<code> knq.www.onxxzh.cn/81079db.shtml </code>",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-031": {
+      "region": "华南",
+      "url": "<code> ns.www.hh1poker.cn/24302db.shtml </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-032": {
+      "region": "新加坡",
+      "url": "<code> ua.www.61wc.cn/78581db.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-033": {
+      "region": "华北",
+      "url": "<code> tq.www.vhimpnt.cn/06550db.shtml </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-034": {
+      "region": "香港",
+      "url": "<code> an.www.rncmfa.cn/43282db.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-035": {
+      "region": "华北",
+      "url": "<code> kfusu.www.m4br.cn/96363db.shtml </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-036": {
+      "region": "华南",
+      "url": "<code> iudm.www.adyhyla.cn/09083db.shtml </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-037": {
+      "region": "华北",
+      "url": "<code> hf.www.3hbn.cn/47723db.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-038": {
+      "region": "华东",
+      "url": "<code> ubyzo.www.xkdmisy.cn/35745db.shtml </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-039": {
+      "region": "华南",
+      "url": "<code> cn.www.hhpoker143.com/16029db.shtml </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-040": {
+      "region": "华东",
+      "url": "<code> qb.www.wanshengdiaosu.com/85942db.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-041": {
+      "region": "新加坡",
+      "url": "<code> vai.www.zexksz.cn/93345db.shtml </code>",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-042": {
+      "region": "华南",
+      "url": "<code> mkl.www.uigqgq.cn/91898db.shtml </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-043": {
+      "region": "香港",
+      "url": "<code> ndm.www.0gp8ugz.cn/79199db.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-044": {
+      "region": "新加坡",
+      "url": "<code> nei.www.fxfzcdu.cn/17723db.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-045": {
+      "region": "华北",
+      "url": "<code> oqh.www.hxffzwu.cn/82354db.shtml </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-046": {
+      "region": "华北",
+      "url": "<code> vxr.www.bqcugrd.cn/83618db.shtml </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-047": {
+      "region": "华北",
+      "url": "<code> zf.www.zimnppe.cn/02184db.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-048": {
+      "region": "新加坡",
+      "url": "<code> imj.www.gmelppo.cn/47773db.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-049": {
+      "region": "香港",
+      "url": "<code> msfj.www.lcztjs.cn/83704db.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-050": {
+      "region": "华东",
+      "url": "<code> bxqu.www.ftmokbp.cn/68251db.shtml </code>",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-051": {
+      "region": "华南",
+      "url": "<code> ekmhs.www.hhpoker24kefu.cn/92743db.shtml </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-052": {
+      "region": "华北",
+      "url": "<code> cwy.www.hh2poker.top/35703db.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-053": {
+      "region": "华东",
+      "url": "<code> oggu.www.jbqragd.cn/86914db.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-054": {
+      "region": "香港",
+      "url": "<code> kuntn.www.zqehqfk.cn/26936db.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-055": {
+      "region": "香港",
+      "url": "<code> orhlf.www.1szd8v1.cn/78208db.shtml </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-056": {
+      "region": "华南",
+      "url": "<code> smj.www.hhpoker131.com/38940db.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-057": {
+      "region": "新加坡",
+      "url": "<code> bnujt.www.kvvxxqw.cn/78230db.shtml </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-058": {
+      "region": "香港",
+      "url": "<code> rdaf.www.pvaqszv.cn/87209db.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-059": {
+      "region": "华南",
+      "url": "<code> edk.www.hhpokerdepulianmengkefu.com.cn/17191db.shtml </code>",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-060": {
+      "region": "香港",
+      "url": "<code> rrcz.www.hcazamc.cn/12436db.shtml </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-061": {
+      "region": "华南",
+      "url": "<code> ni.www.leishi99.com/68172db.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-062": {
+      "region": "华北",
+      "url": "<code> zsyzw.www.hicdkk.cn/89880db.shtml </code>",
+      "scheme": "http",
+      "weight": 5
+    },
+    "mirror-063": {
+      "region": "新加坡",
+      "url": "<code> txf.www.yvhgzck.cn/42825db.shtml </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-064": {
+      "region": "华北",
+      "url": "<code> idorr.www.hhpoker886.com/71550db.shtml </code>",
+      "scheme": "https",
+      "weight": 18
+    },
+    "mirror-065": {
+      "region": "华南",
+      "url": "<code> iaba.www.wndqw.cn/09718db.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-066": {
+      "region": "华南",
+      "url": "<code> mw.www.nkyjhu.cn/91646db.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-067": {
+      "region": "华东",
+      "url": "<code> rxw.www.x2k9527.cn/72964db.shtml </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-068": {
+      "region": "香港",
+      "url": "<code> ht.www.ub17.cn/21435db.shtml </code>",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-069": {
+      "region": "香港",
+      "url": "<code> gbim.www.hte1mjy.cn/24001db.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-070": {
+      "region": "华北",
+      "url": "<code> whti.www.jwnfbl.cn/04059db.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-071": {
+      "region": "华东",
+      "url": "<code> nu.www.hhpokerpulianmengkefulianxi.com.cn/49294db.shtml </code>",
+      "scheme": "http",
+      "weight": 5
+    },
+    "mirror-072": {
+      "region": "华北",
+      "url": "<code> xympz.www.bodzumx.cn/81866db.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-073": {
+      "region": "香港",
+      "url": "<code> zk.www.hh9poker.shop/02578db.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-074": {
+      "region": "华北",
+      "url": "<code> cl.www.hh5poker.cn/57894db.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-075": {
+      "region": "华东",
+      "url": "<code> vxve.www.abjgsxw.cn/76901db.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-076": {
+      "region": "香港",
+      "url": "<code> cxudl.www.depujulebu.cn/91675db.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-077": {
+      "region": "华东",
+      "url": "<code> rblw.www.hhpoker292.com/55949db.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-078": {
+      "region": "华北",
+      "url": "<code> ncnzr.www.hhpoker75.com/59856db.shtml </code>",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-079": {
+      "region": "华北",
+      "url": "<code> bq.www.dezhoujulebukefuweixin.com.cn/49005db.shtml </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-080": {
+      "region": "香港",
+      "url": "<code> bwm.www.xixfkxr.cn/11534db.shtml </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-081": {
+      "region": "新加坡",
+      "url": "<code> wn.www.hhpukekefulianxifangshi.com.cn/25195db.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-082": {
+      "region": "华东",
+      "url": "<code> nqg.www.hh10poker.cn/94700db.shtml </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-083": {
+      "region": "华南",
+      "url": "<code> vgi.www.gyulyoa.cn/04032db.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-084": {
+      "region": "新加坡",
+      "url": "<code> huazk.www.tzhtjr.com/04016db.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-085": {
+      "region": "香港",
+      "url": "<code> bakn.www.apnqqlx.cn/82538db.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-086": {
+      "region": "华南",
+      "url": "<code> kfw.www.depuquanjulebukefuweixin.com.cn/81669db.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-087": {
+      "region": "新加坡",
+      "url": "<code> newbr.www.depuquanguanwang.com.cn/20130db.shtml </code>",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-088": {
+      "region": "华北",
+      "url": "<code> tw.www.vfystp.cn/43824db.shtml </code>",
+      "scheme": "http",
+      "weight": 5
+    },
+    "mirror-089": {
+      "region": "新加坡",
+      "url": "<code> elld.www.egtrqss.cn/74385db.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-090": {
+      "region": "香港",
+      "url": "<code> kcfv.www.clmru.com/50245db.shtml </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-091": {
+      "region": "新加坡",
+      "url": "<code> qgxem.www.xilinhui.com/68055db.shtml </code>",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-092": {
+      "region": "华东",
+      "url": "<code> wrc.www.css2018.com/31837db.shtml </code>",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-093": {
+      "region": "华东",
+      "url": "<code> dro.www.depuquanjulebuweixin.com.cn/20349db.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-094": {
+      "region": "华北",
+      "url": "<code> gv.www.depuquankefuweixin.com.cn/05851db.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-095": {
+      "region": "华东",
+      "url": "<code> lvme.www.qnjia.cn/64664db.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-096": {
+      "region": "华东",
+      "url": "<code> sean.www.yututuss.cn/78730db.shtml </code>",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-097": {
+      "region": "华北",
+      "url": "<code> hm.www.001870.com/94126db.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-098": {
+      "region": "华东",
+      "url": "<code> itmj.www.ttixc.com/16411db.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-099": {
+      "region": "华北",
+      "url": "<code> avv.www.chat-txt.com/44908db.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-100": {
+      "region": "华南",
+      "url": "<code> tognx.www.depuquanjulebutuijian.com.cn/36696db.shtml </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-101": {
+      "region": "香港",
+      "url": "<code> er.www.hhpokerquanwangkefu.com.cn/77571db.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-102": {
+      "region": "新加坡",
+      "url": "<code> xv.www.dezhoujulebuweixin.com.cn/40284db.shtml </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-103": {
+      "region": "香港",
+      "url": "<code> ag.www.gubofs.cn/91488db.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-104": {
+      "region": "华东",
+      "url": "<code> qsi.www.bjjxstjx.com/33475db.shtml </code>",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-105": {
+      "region": "华南",
+      "url": "<code> rev.www.sunmachi.com/49417db.shtml </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-106": {
+      "region": "华东",
+      "url": "<code> qts.www.cdprivate.com/59898db.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-107": {
+      "region": "华南",
+      "url": "<code> wfysu.www.fybun.com/02283db.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-108": {
+      "region": "华南",
+      "url": "<code> ldb.www.depuquanguanfangkefuweixin.com.cn/30956db.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-109": {
+      "region": "香港",
+      "url": "<code> qn.www.depuquanweixin.com.cn/46226db.shtml </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-110": {
+      "region": "香港",
+      "url": "<code> oli.www.depuquanguanwangkefu.com.cn/06210db.shtml </code>",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-111": {
+      "region": "华南",
+      "url": "<code> dgiht.www.do639.cn/16252db.shtml </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-112": {
+      "region": "华南",
+      "url": "<code> qsttx.www.gpfda.com/29595db.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-113": {
+      "region": "新加坡",
+      "url": "<code> qwkis.www.dianwangtong.com/29572db.shtml </code>",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-114": {
+      "region": "新加坡",
+      "url": "<code> qiyic.www.bqccb.com/51547db.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-115": {
+      "region": "华南",
+      "url": "<code> nrxx.www.h58fiyk.cn/85048db.shtml </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-116": {
+      "region": "华南",
+      "url": "<code> ydpir.www.gidbxz8.cn/15643db.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-117": {
+      "region": "香港",
+      "url": "<code> nuena.www.gvzvymp.cn/94369db.shtml </code>",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-118": {
+      "region": "华南",
+      "url": "<code> vr.www.r3haxje.cn/72356db.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-119": {
+      "region": "香港",
+      "url": "<code> xjrxi.www.q1nn7c1.cn/12791db.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-120": {
+      "region": "新加坡",
+      "url": "<code> mkxue.www.ookfk48.cn/47097db.shtml </code>",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-121": {
+      "region": "华南",
+      "url": "<code> vvjks.www.5eygrs2.cn/53138db.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-122": {
+      "region": "香港",
+      "url": "<code> gyq.www.mu4helj.cn/34622db.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-123": {
+      "region": "华北",
+      "url": "<code> jqn.www.9h0s1g9.cn/47260db.shtml </code>",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-124": {
+      "region": "华北",
+      "url": "<code> pmq.www.wgeny9b.cn/32095db.shtml </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-125": {
+      "region": "新加坡",
+      "url": "<code> kwdrk.www.u161vwl.cn/17772db.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-126": {
+      "region": "香港",
+      "url": "<code> xrivx.www.pvtnxho.cn/41106db.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-127": {
+      "region": "华北",
+      "url": "<code> keo.www.nfhggsf.cn/88950db.shtml </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-128": {
+      "region": "新加坡",
+      "url": "<code> dyfz.www.c6hcosw.cn/92449db.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-129": {
+      "region": "华北",
+      "url": "<code> gqrie.www.tzlckj6.cn/61428db.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-130": {
+      "region": "新加坡",
+      "url": "<code> wrv.www.x1p0qmm.cn/30932db.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-131": {
+      "region": "香港",
+      "url": "<code> gone.www.cibxejd.cn/07568db.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-132": {
+      "region": "新加坡",
+      "url": "<code> lc.www.9ppyhag.cn/48946db.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-133": {
+      "region": "新加坡",
+      "url": "<code> amnzv.www.26xgrx1.cn/32380db.shtml </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-134": {
+      "region": "华东",
+      "url": "<code> qt.www.98zpjub.cn/41659db.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-135": {
+      "region": "华南",
+      "url": "<code> fnyal.www.kk3cyk8.cn/85974db.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-136": {
+      "region": "华北",
+      "url": "<code> ekye.www.5tgp1to.cn/75668db.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-137": {
+      "region": "香港",
+      "url": "<code> qmxzz.www.b7wtlnj.cn/34125db.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-138": {
+      "region": "华北",
+      "url": "<code> cxlcp.www.dl92t3m.cn/36814db.shtml </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-139": {
+      "region": "香港",
+      "url": "<code> gusk.www.1xj7oes.cn/19632db.shtml </code>",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-140": {
+      "region": "华南",
+      "url": "<code> himzd.www.kqlv3u5.cn/79957db.shtml </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-141": {
+      "region": "华南",
+      "url": "<code> cjeh.www.upqqqvz.cn/87197db.shtml </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-142": {
+      "region": "新加坡",
+      "url": "<code> ab.www.jc8p74w.cn/25163db.shtml </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-143": {
+      "region": "香港",
+      "url": "<code> gep.www.mvu6rdd.cn/81238db.shtml </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-144": {
+      "region": "华东",
+      "url": "<code> xo.www.u31ua3o.cn/59423db.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-145": {
+      "region": "新加坡",
+      "url": "<code> gfxik.www.kgjrkhf.cn/64235db.shtml </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-146": {
+      "region": "华南",
+      "url": "<code> fw.www.j9j7kso.cn/06812db.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-147": {
+      "region": "香港",
+      "url": "<code> whgt.www.36g8lqn.cn/56045db.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-148": {
+      "region": "华东",
+      "url": "<code> lzqt.www.ol9wdoh.cn/68877db.shtml </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-149": {
+      "region": "华南",
+      "url": "<code> ypvlg.www.c7hex02.cn/84036db.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-150": {
+      "region": "华北",
+      "url": "<code> dioq.www.m3mcmpq.cn/07677db.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-151": {
+      "region": "华南",
+      "url": "<code> cywq.www.zxirldb.cn/62381db.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-152": {
+      "region": "华南",
+      "url": "<code> gi.www.rfxbaen.cn/18177db.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-153": {
+      "region": "华北",
+      "url": "<code> vwak.www.8vcnxky.cn/93576db.shtml </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-154": {
+      "region": "新加坡",
+      "url": "<code> jtra.www.fjmmztw.cn/89550db.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-155": {
+      "region": "华南",
+      "url": "<code> gdoh.www.qtlengt.cn/77824db.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-156": {
+      "region": "华东",
+      "url": "<code> qk.www.rcn0ncg.cn/31113db.shtml </code>",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-157": {
+      "region": "华北",
+      "url": "<code> vz.www.477orra.cn/55428db.shtml </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-158": {
+      "region": "华南",
+      "url": "<code> ort.www.vh7l0lv.cn/24917db.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-159": {
+      "region": "香港",
+      "url": "<code> vugm.www.b0eei7j.cn/60222db.shtml </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-160": {
+      "region": "香港",
+      "url": "<code> rswxx.www.61sr5er.cn/75796db.shtml </code>",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-161": {
+      "region": "华东",
+      "url": "<code> gk.www.simc55g.cn/42382db.shtml </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-162": {
+      "region": "华东",
+      "url": "<code> efqnx.www.4x50evj.cn/75169db.shtml </code>",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-163": {
+      "region": "华南",
+      "url": "<code> slgj.www.h338rmx.cn/14217db.shtml </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-164": {
+      "region": "华东",
+      "url": "<code> pcty.www.xbfbtyv.cn/70173db.shtml </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-165": {
+      "region": "华北",
+      "url": "<code> sh.www.gxg034r.cn/42561db.shtml </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-166": {
+      "region": "新加坡",
+      "url": "<code> up.www.3wev6r8.cn/63971db.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-167": {
+      "region": "华东",
+      "url": "<code> yrwy.www.bjl9qsi.cn/61615db.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-168": {
+      "region": "华东",
+      "url": "<code> ogpfj.www.iot59qw.cn/37969db.shtml </code>",
+      "scheme": "https",
+      "weight": 18
+    },
+    "mirror-169": {
+      "region": "香港",
+      "url": "<code> eziy.www.zb91ptv.cn/54030db.shtml </code>",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-170": {
+      "region": "华南",
+      "url": "<code> bgz.www.tnrnihr.cn/60974db.shtml </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-171": {
+      "region": "华东",
+      "url": "<code> vztbn.www.i4s562y.cn/51395db.shtml </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-172": {
+      "region": "华北",
+      "url": "<code> cg.www.4gv9cym.cn/36728db.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-173": {
+      "region": "香港",
+      "url": "<code> cuwub.www.x77ma5v.cn/58601db.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-174": {
+      "region": "华南",
+      "url": "<code> eg.www.ceirgpl.cn/32945db.shtml </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-175": {
+      "region": "华南",
+      "url": "<code> hrctp.www.pcqjvx.cn/01764db.shtml </code>",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-176": {
+      "region": "香港",
+      "url": "<code> ounpy.www.stqrwfs.cn/13987db.shtml </code>",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-177": {
+      "region": "华北",
+      "url": "<code> jevac.www.blyzoph.cn/24300db.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-178": {
+      "region": "华南",
+      "url": "<code> hcqb.www.izhgqsa.cn/08752db.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-179": {
+      "region": "新加坡",
+      "url": "<code> rby.www.shpxgw.cn/59681db.shtml </code>",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-180": {
+      "region": "华东",
+      "url": "<code> vyieo.www.bczqvdt.cn/37440db.shtml </code>",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-181": {
+      "region": "香港",
+      "url": "<code> azkl.www.qifpjvo.cn/49620db.shtml </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-182": {
+      "region": "华南",
+      "url": "<code> toy.www.ionrcnz.cn/36645db.shtml </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-183": {
+      "region": "华东",
+      "url": "<code> ayt.www.ichkwow.cn/99939db.shtml </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-184": {
+      "region": "新加坡",
+      "url": "<code> tioki.www.roqzymq.cn/85011db.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-185": {
+      "region": "华南",
+      "url": "<code> czxs.www.qq2u51.cn/41627db.shtml </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-186": {
+      "region": "华东",
+      "url": "<code> xlkx.www.yhh435.cn/75319db.shtml </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-187": {
+      "region": "华东",
+      "url": "<code> fqgbe.www.efyly19.cn/24637db.shtml </code>",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-188": {
+      "region": "新加坡",
+      "url": "<code> gldc.www.akqhz27.cn/16544db.shtml </code>",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-189": {
+      "region": "香港",
+      "url": "<code> ghx.www.tatlo17.cn/07323db.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-190": {
+      "region": "华南",
+      "url": "<code> zeipk.www.vxwqi06.cn/90965db.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-191": {
+      "region": "新加坡",
+      "url": "<code> rj.www.qcdah50.cn/62713db.shtml </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-192": {
+      "region": "华东",
+      "url": "<code> ojfsf.www.smqew39.cn/03761db.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-193": {
+      "region": "香港",
+      "url": "<code> cs.www.lyhjg25.cn/34522db.shtml </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-194": {
+      "region": "新加坡",
+      "url": "<code> ycrqi.www.qpylg80.cn/69222db.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-195": {
+      "region": "华北",
+      "url": "<code> wjdc.www.ehoed62.cn/48920db.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-196": {
+      "region": "华南",
+      "url": "<code> yjdk.www.fibnb34.cn/75034db.shtml </code>",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-197": {
+      "region": "新加坡",
+      "url": "<code> dyco.www.exjnj61.cn/26270db.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-198": {
+      "region": "华南",
+      "url": "<code> kjuiq.www.spfmc12.cn/20542db.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-199": {
+      "region": "华北",
+      "url": "<code> cjjji.www.motcl51.cn/20410db.shtml </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-200": {
+      "region": "华北",
+      "url": "<code> ab.www.juqbb24.cn/52896db.shtml </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-201": {
+      "region": "华北",
+      "url": "<code> yelyv.www.pcmhb44.cn/62549db.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-202": {
+      "region": "华南",
+      "url": "<code> xqz.www.bnorg88.cn/96777db.shtml </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-203": {
+      "region": "华北",
+      "url": "<code> is.www.ugrrr95.cn/98767db.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-204": {
+      "region": "华东",
+      "url": "<code> qp.www.mlqcr86.cn/71064db.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-205": {
+      "region": "华北",
+      "url": "<code> txczd.www.dyspz67.cn/43242db.shtml </code>",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-206": {
+      "region": "华东",
+      "url": "<code> qwh.www.pvawo19.cn/95600db.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-207": {
+      "region": "香港",
+      "url": "<code> avas.www.pjkoi91.cn/25093db.shtml </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-208": {
+      "region": "华北",
+      "url": "<code> mxq.www.omljm29.cn/41613db.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-209": {
+      "region": "华东",
+      "url": "<code> ormu.www.kwsnc83.cn/20500db.shtml </code>",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-210": {
+      "region": "华北",
+      "url": "<code> nr.www.duewi60.cn/74353db.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-211": {
+      "region": "香港",
+      "url": "<code> rf.www.jbusl85.cn/34452db.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-212": {
+      "region": "华东",
+      "url": "<code> oybda.www.ttvey89.cn/73071db.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-213": {
+      "region": "华东",
+      "url": "<code> xai.www.xciow22.cn/94141db.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-214": {
+      "region": "新加坡",
+      "url": "<code> et.www.rwtg5229.cn/21121db.shtml </code>",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-215": {
+      "region": "华北",
+      "url": "<code> yi.www.teyh1085.cn/41906db.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-216": {
+      "region": "华北",
+      "url": "<code> lo.www.qkmwxf0.cn/01911db.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-217": {
+      "region": "新加坡",
+      "url": "<code> evxkc.www.hosbig0.cn/70864db.shtml </code>",
+      "scheme": "https",
+      "weight": 18
+    },
+    "mirror-218": {
+      "region": "华北",
+      "url": "<code> myur.www.ltmnoo6.cn/17486db.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-219": {
+      "region": "新加坡",
+      "url": "<code> jwqc.www.nwzggb1.cn/28374db.shtml </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-220": {
+      "region": "香港",
+      "url": "<code> rcxkw.www.oypbsb1.cn/74630db.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-221": {
+      "region": "华南",
+      "url": "<code> rgz.www.dzpk7710.cn/05204db.shtml </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-222": {
+      "region": "华南",
+      "url": "<code> qph.www.dzpk7096.cn/21486db.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-223": {
+      "region": "香港",
+      "url": "<code> ftuvl.www.dzpk1770.cn/55216db.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-224": {
+      "region": "新加坡",
+      "url": "<code> cof.www.eemugm7.cn/51724db.shtml </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-225": {
+      "region": "华南",
+      "url": "<code> rbjan.www.igaipq5.cn/18737db.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-226": {
+      "region": "新加坡",
+      "url": "<code> lic.www.srjgiw8.cn/89116db.shtml </code>",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-227": {
+      "region": "新加坡",
+      "url": "<code> mrdu.www.fwmspd1.cn/43095db.shtml </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-228": {
+      "region": "华东",
+      "url": "<code> dwq.www.pqunwf4.cn/66023db.shtml </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-229": {
+      "region": "香港",
+      "url": "<code> jhjcf.www.nczifei.cn/38956db.shtml </code>",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-230": {
+      "region": "华东",
+      "url": "<code> qmwob.www.vekwmn8.cn/61286db.shtml </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-231": {
+      "region": "华东",
+      "url": "<code> vkm.www.ipzwan5.cn/12765db.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-232": {
+      "region": "华东",
+      "url": "<code> hwcs.www.9589dz.cn/72343db.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-233": {
+      "region": "华东",
+      "url": "<code> xt.www.7048dz.cn/65816db.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-234": {
+      "region": "华东",
+      "url": "<code> qe.www.7885dz.cn/93094db.shtml </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-235": {
+      "region": "新加坡",
+      "url": "<code> ek.www.lvkriv9.cn/63340db.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-236": {
+      "region": "香港",
+      "url": "<code> uu.www.gtezya1.cn/65503db.shtml </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-237": {
+      "region": "华东",
+      "url": "<code> nj.www.zdnkbv9.cn/83084db.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-238": {
+      "region": "华北",
+      "url": "<code> jp.www.xvmra13.cn/98911db.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-239": {
+      "region": "华东",
+      "url": "<code> ia.www.nuruq28.cn/90351db.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-240": {
+      "region": "华南",
+      "url": "<code> ydwx.www.cmnug40.cn/98160db.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-241": {
+      "region": "华南",
+      "url": "<code> tiuur.www.qucge79.cn/05580db.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-242": {
+      "region": "华东",
+      "url": "<code> hai.www.sseiu82.cn/08132db.shtml </code>",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-243": {
+      "region": "华东",
+      "url": "<code> ein.www.bpcrr96.cn/30516db.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-244": {
+      "region": "香港",
+      "url": "<code> tqbo.www.yzcktx4.cn/15680db.shtml </code>",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-245": {
+      "region": "香港",
+      "url": "<code> lp.www.nvbffc6.cn/90370db.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-246": {
+      "region": "华南",
+      "url": "<code> vkfah.www.ydfgae5.cn/19754db.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-247": {
+      "region": "新加坡",
+      "url": "<code> nhj.www.ggqiec7.cn/20359db.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-248": {
+      "region": "香港",
+      "url": "<code> vmcbd.www.jlps1p.cn/61571db.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-249": {
+      "region": "华东",
+      "url": "<code> owde.www.dxwket9.cn/42887db.shtml </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-250": {
+      "region": "新加坡",
+      "url": "<code> emfm.www.ewddlt0.cn/44349db.shtml </code>",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-251": {
+      "region": "香港",
+      "url": "<code> yga.www.rjlwmo5.cn/11752db.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-252": {
+      "region": "新加坡",
+      "url": "<code> fgyf.www.ltcsyx1.cn/58849db.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-253": {
+      "region": "华东",
+      "url": "<code> loxi.www.hcxkmy0.cn/93633db.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-254": {
+      "region": "新加坡",
+      "url": "<code> ua.www.ewnkrd4.cn/36461db.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-255": {
+      "region": "华东",
+      "url": "<code> usm.www.vnzj9l.cn/88567db.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-256": {
+      "region": "华北",
+      "url": "<code> ocsfu.www.9btuur.cn/53776db.shtml </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-257": {
+      "region": "华东",
+      "url": "<code> bmtpe.www.ls8iez.cn/22816db.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-258": {
+      "region": "华北",
+      "url": "<code> qqlt.www.pq40nc.cn/51787db.shtml </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-259": {
+      "region": "华北",
+      "url": "<code> nr.www.apuj2t.cn/62093db.shtml </code>",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-260": {
+      "region": "华北",
+      "url": "<code> pfuf.www.zoj61v.cn/60805db.shtml </code>",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-261": {
+      "region": "华北",
+      "url": "<code> bui.www.z22kp9.cn/23958db.shtml </code>",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-262": {
+      "region": "香港",
+      "url": "<code> whtzb.www.2mpfxp.cn/62721db.shtml </code>",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-263": {
+      "region": "华东",
+      "url": "<code> vyi.www.bx1x0v.cn/45050db.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-264": {
+      "region": "华东",
+      "url": "<code> ifggo.www.sk1w9a.cn/65697db.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-265": {
+      "region": "华东",
+      "url": "<code> dzn.www.m01fm4.cn/78396db.shtml </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-266": {
+      "region": "华北",
+      "url": "<code> kvjtd.www.48zag3.cn/45257db.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-267": {
+      "region": "香港",
+      "url": "<code> zhkvg.www.gjkvk2.cn/82577db.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-268": {
+      "region": "香港",
+      "url": "<code> pxvtk.www.3a0xvi.cn/77778db.shtml </code>",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-269": {
+      "region": "新加坡",
+      "url": "<code> yhp.www.8k3i67.cn/63535db.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-270": {
+      "region": "华东",
+      "url": "<code> brzk.www.2gey4h.cn/74206db.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-271": {
+      "region": "新加坡",
+      "url": "<code> yh.www.y5oukr.cn/42534db.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-272": {
+      "region": "新加坡",
+      "url": "<code> nkk.www.957wxd.cn/86984db.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-273": {
+      "region": "华北",
+      "url": "<code> tahmi.www.5fkq3q.cn/40383db.shtml </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-274": {
+      "region": "华南",
+      "url": "<code> xr.www.46n60h.cn/25264db.shtml </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-275": {
+      "region": "新加坡",
+      "url": "<code> whnru.www.svt7g7.cn/33386db.shtml </code>",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-276": {
+      "region": "香港",
+      "url": "<code> dydx.www.6l1f20.cn/38063db.shtml </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-277": {
+      "region": "华东",
+      "url": "<code> sfgqj.www.ayk27k.cn/30760db.shtml </code>",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-278": {
+      "region": "华南",
+      "url": "<code> cfbo.www.2kau0z.cn/11604db.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-279": {
+      "region": "华南",
+      "url": "<code> nsw.www.fd0fqc.cn/80209db.shtml </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-280": {
+      "region": "新加坡",
+      "url": "<code> eiqj.www.4ugjpr.cn/91530db.shtml </code>",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-281": {
+      "region": "香港",
+      "url": "<code> ie.www.1a6e3j.cn/35959db.shtml </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-282": {
+      "region": "香港",
+      "url": "<code> omoy.www.hgsc7t.cn/18726db.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-283": {
+      "region": "华东",
+      "url": "<code> eyx.www.8868mh.cn/53958db.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-284": {
+      "region": "华北",
+      "url": "<code> huwsm.www.ui629v.cn/17446db.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-285": {
+      "region": "华东",
+      "url": "<code> mcb.www.irkrz1.cn/47538db.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-286": {
+      "region": "华南",
+      "url": "<code> xjt.www.46f72c.cn/73604db.shtml </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-287": {
+      "region": "香港",
+      "url": "<code> epya.www.sqm1w9.cn/68925db.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-288": {
+      "region": "华南",
+      "url": "<code> qo.www.hl6hxg.cn/88892db.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-289": {
+      "region": "华南",
+      "url": "<code> le.www.vm544q.cn/91610db.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-290": {
+      "region": "华东",
+      "url": "<code> gl.www.l4dpfy.cn/63222db.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-291": {
+      "region": "华东",
+      "url": "<code> lhjjh.www.dcxfml.cn/16764db.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-292": {
+      "region": "香港",
+      "url": "<code> tom.www.wvh6ue.cn/40823db.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-293": {
+      "region": "香港",
+      "url": "<code> zzwo.www.iqlv5k.cn/45628db.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-294": {
+      "region": "华北",
+      "url": "<code> hfr.www.bf4ra3.cn/36820db.shtml </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-295": {
+      "region": "华东",
+      "url": "<code> xqlaa.www.lac90v.cn/64198db.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-296": {
+      "region": "香港",
+      "url": "<code> ztr.www.3tx71y.cn/89689db.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-297": {
+      "region": "华东",
+      "url": "<code> ta.www.m1c9w2.cn/94373db.shtml </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-298": {
+      "region": "香港",
+      "url": "<code> lst.www.yf3xps.cn/30338db.shtml </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-299": {
+      "region": "华南",
+      "url": "<code> pnxgt.www.qy228h.cn/03291db.shtml </code>",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-300": {
+      "region": "新加坡",
+      "url": "<code> liwqb.www.2jzb8r.cn/08175db.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    }
+  }
+}

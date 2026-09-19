@@ -1,0 +1,2752 @@
+{
+  "member": {
+    "name": "广州依托恐龙前沿科研成果激活全民科学教育新动能",
+    "owner": "方旭",
+    "currency": "CNY",
+    "generated": "2026-09-19 09:36:55"
+  },
+  "levels": [
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "<code> dzonm.xbvdzk.cn </code>",
+      "points": 8711,
+      "discount": 0.96,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "<code> dznk.rzheb73.cn </code>",
+      "points": 3614,
+      "discount": 0.56,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "<code> dzhbax.21sbkuq.cn </code>",
+      "points": 4278,
+      "discount": 0.82,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "<code> dzinp.y87oyh1.cn </code>",
+      "points": 4117,
+      "discount": 0.83,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "普通会员",
+      "url": "<code> dzqo.ytjly30.cn </code>",
+      "points": 157,
+      "discount": 0.8,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "<code> dzccit.oohoiov.cn </code>",
+      "points": 3767,
+      "discount": 0.83,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "金卡会员",
+      "url": "<code> dzxqs.j3j57x7.cn </code>",
+      "points": 4670,
+      "discount": 0.85,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "<code> dzhf.p9e05ww.cn </code>",
+      "points": 3886,
+      "discount": 0.67,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "<code> dzjxju.hhpo1ker.org.cn </code>",
+      "points": 5802,
+      "discount": 0.77,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "<code> dzuy.hhpo2ker.org.cn </code>",
+      "points": 2478,
+      "discount": 0.56,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "普通会员",
+      "url": "<code> dzhfl.hhpo3ker.org.cn </code>",
+      "points": 6005,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "银卡会员",
+      "url": "<code> dzyegz.hhpo4ker.org.cn </code>",
+      "points": 4031,
+      "discount": 0.55,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "<code> dzbkyp.hhpo5ker.org.cn </code>",
+      "points": 6069,
+      "discount": 0.77,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "金卡会员",
+      "url": "<code> dzaxtf.hhpo6ker.org.cn </code>",
+      "points": 7374,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "金卡会员",
+      "url": "<code> dzbp.hhpo7ker.org.cn </code>",
+      "points": 3377,
+      "discount": 0.57,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "金卡会员",
+      "url": "<code> dzaah.hhpo8ker.org.cn </code>",
+      "points": 4649,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "<code> dzfle.hhpo9ker.org.cn </code>",
+      "points": 9393,
+      "discount": 0.8,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "<code> dzbcgj.hhpo10ker.org.cn </code>",
+      "points": 8322,
+      "discount": 0.78,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "金卡会员",
+      "url": "<code> dzcn.hhpo11ker.org.cn </code>",
+      "points": 8017,
+      "discount": 0.61,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "普通会员",
+      "url": "<code> dzjzz.hhpo12ker.org.cn </code>",
+      "points": 1281,
+      "discount": 0.79,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "<code> dzabs.hhpo13ker.org.cn </code>",
+      "points": 4794,
+      "discount": 0.72,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "金卡会员",
+      "url": "<code> dzpbz.hhpo14ker.org.cn </code>",
+      "points": 1487,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "钻石会员",
+      "url": "<code> dztdtw.hhpo15ker.org.cn </code>",
+      "points": 1696,
+      "discount": 0.91,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "普通会员",
+      "url": "<code> dzwc.hhpo16ker.org.cn </code>",
+      "points": 319,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> dzlk.hhpo17ker.org.cn </code>",
+      "points": 6771,
+      "discount": 0.91,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "钻石会员",
+      "url": "<code> dzid.hhpo18ker.org.cn </code>",
+      "points": 742,
+      "discount": 0.93,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "金卡会员",
+      "url": "<code> dzflnv.hhpo19ker.org.cn </code>",
+      "points": 1545,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "<code> dzlj.hhpo20ker.org.cn </code>",
+      "points": 4825,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "<code> dzkgbc.hhpo21ker.org.cn </code>",
+      "points": 8666,
+      "discount": 0.63,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "<code> dzrfh.hhpo22ker.org.cn </code>",
+      "points": 95,
+      "discount": 0.58,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "<code> dzegc.hhpo23ker.org.cn </code>",
+      "points": 2578,
+      "discount": 0.63,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "普通会员",
+      "url": "<code> dzwo.hhpo24ker.org.cn </code>",
+      "points": 5513,
+      "discount": 0.95,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> dzbs.hhpo25ker.org.cn </code>",
+      "points": 4760,
+      "discount": 0.65,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "金卡会员",
+      "url": "<code> dzrbu.hhpo26ker.org.cn </code>",
+      "points": 4325,
+      "discount": 0.5,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "<code> dzvi.hhpo27ker.org.cn </code>",
+      "points": 9518,
+      "discount": 0.55,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "<code> dzot.hhpo28ker.org.cn </code>",
+      "points": 7779,
+      "discount": 0.88,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "钻石会员",
+      "url": "<code> dzcn.hhpo29ker.org.cn </code>",
+      "points": 925,
+      "discount": 0.89,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "金卡会员",
+      "url": "<code> dzau.hhpo30ker.org.cn </code>",
+      "points": 3456,
+      "discount": 0.56,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "银卡会员",
+      "url": "<code> dzoo.hhpo31ker.org.cn </code>",
+      "points": 5099,
+      "discount": 0.86,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> dzhq.hhpo32ker.org.cn </code>",
+      "points": 8837,
+      "discount": 0.84,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "金卡会员",
+      "url": "<code> dzcvec.hhpo33ker.org.cn </code>",
+      "points": 8582,
+      "discount": 0.92,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "钻石会员",
+      "url": "<code> dzgbfi.hhpo34ker.org.cn </code>",
+      "points": 8048,
+      "discount": 0.65,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "普通会员",
+      "url": "<code> dzhr.hhpo35ker.org.cn </code>",
+      "points": 6221,
+      "discount": 0.52,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "<code> dzyxuf.hhpo36ker.org.cn </code>",
+      "points": 173,
+      "discount": 0.7,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "<code> dzzbvo.hhpo37ker.org.cn </code>",
+      "points": 9834,
+      "discount": 0.85,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "<code> dzas.hhpo38ker.org.cn </code>",
+      "points": 5040,
+      "discount": 0.65,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "钻石会员",
+      "url": "<code> dzgt.hhpo39ker.org.cn </code>",
+      "points": 2422,
+      "discount": 0.86,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "<code> dzhfq.hhpo40ker.org.cn </code>",
+      "points": 3862,
+      "discount": 0.96,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "<code> dzkh.hhpo41ker.org.cn </code>",
+      "points": 3726,
+      "discount": 0.97,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "金卡会员",
+      "url": "<code> dzkoqt.hhpo42ker.org.cn </code>",
+      "points": 3791,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "钻石会员",
+      "url": "<code> dzndo.hhpo43ker.org.cn </code>",
+      "points": 1244,
+      "discount": 0.57,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "<code> dzhxz.hhpo44ker.org.cn </code>",
+      "points": 487,
+      "discount": 0.68,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "<code> dzjrla.hhpo45ker.org.cn </code>",
+      "points": 5637,
+      "discount": 0.59,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "<code> dzht.hhpo46ker.org.cn </code>",
+      "points": 3486,
+      "discount": 0.75,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> dzapk.hhpo47ker.org.cn </code>",
+      "points": 2897,
+      "discount": 0.75,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "<code> dzms.hhpo48ker.org.cn </code>",
+      "points": 1087,
+      "discount": 0.67,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "金卡会员",
+      "url": "<code> dzftjr.hhpo49ker.org.cn </code>",
+      "points": 2016,
+      "discount": 0.72,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "金卡会员",
+      "url": "<code> dztb.hhpo50ker.org.cn </code>",
+      "points": 3839,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "金卡会员",
+      "url": "<code> dzuvz.po1ker.cn </code>",
+      "points": 8319,
+      "discount": 0.88,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "金卡会员",
+      "url": "<code> dzbkzw.po2ker.cn </code>",
+      "points": 6782,
+      "discount": 0.63,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "<code> dzoxr.po3ker.cn </code>",
+      "points": 6173,
+      "discount": 0.79,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "<code> dzscg.po4ker.cn </code>",
+      "points": 8500,
+      "discount": 0.94,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "<code> dzgkh.po5ker.cn </code>",
+      "points": 4128,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "钻石会员",
+      "url": "<code> dzjs.po6ker.cn </code>",
+      "points": 0,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "金卡会员",
+      "url": "<code> dzwiw.po7ker.cn </code>",
+      "points": 1859,
+      "discount": 0.65,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "<code> dzbuqb.po8ker.cn </code>",
+      "points": 6638,
+      "discount": 0.96,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "<code> dzgck.po9ker.cn </code>",
+      "points": 8214,
+      "discount": 0.91,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "<code> dzurvm.po10ker.cn </code>",
+      "points": 1071,
+      "discount": 0.57,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "<code> dzpi.po11ker.cn </code>",
+      "points": 390,
+      "discount": 0.84,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "金卡会员",
+      "url": "<code> dzcxj.po12ker.cn </code>",
+      "points": 3681,
+      "discount": 0.58,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> dzen.po13ker.cn </code>",
+      "points": 8099,
+      "discount": 0.78,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "钻石会员",
+      "url": "<code> dzac.po14ker.cn </code>",
+      "points": 1484,
+      "discount": 0.69,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "<code> dzbp.po15ker.cn </code>",
+      "points": 789,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> dzpbr.po16ker.cn </code>",
+      "points": 9958,
+      "discount": 0.86,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "<code> dzai.po17ker.cn </code>",
+      "points": 7359,
+      "discount": 0.52,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "<code> dznn.po18ker.cn </code>",
+      "points": 1616,
+      "discount": 0.64,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "普通会员",
+      "url": "<code> dzwnze.po19ker.cn </code>",
+      "points": 5574,
+      "discount": 0.73,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "金卡会员",
+      "url": "<code> dzbsc.po20ker.cn </code>",
+      "points": 9064,
+      "discount": 0.89,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "<code> dzxagu.po21ker.cn </code>",
+      "points": 3499,
+      "discount": 0.66,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "<code> dzdk.po22ker.cn </code>",
+      "points": 7424,
+      "discount": 0.97,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "金卡会员",
+      "url": "<code> dzqx.po23ker.cn </code>",
+      "points": 1976,
+      "discount": 0.93,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> dzai.po24ker.cn </code>",
+      "points": 9319,
+      "discount": 0.72,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> dzorom.po25ker.cn </code>",
+      "points": 1736,
+      "discount": 0.67,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "<code> dzaf.po26ker.cn </code>",
+      "points": 8639,
+      "discount": 0.69,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "<code> dzgxa.po27ker.cn </code>",
+      "points": 2837,
+      "discount": 0.61,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "银卡会员",
+      "url": "<code> dzhpku.po28ker.cn </code>",
+      "points": 6698,
+      "discount": 0.97,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "<code> dzek.po29ker.cn </code>",
+      "points": 4050,
+      "discount": 0.89,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "<code> dzksmr.po30ker.cn </code>",
+      "points": 9563,
+      "discount": 0.86,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> dzot.po31ker.cn </code>",
+      "points": 1463,
+      "discount": 0.82,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> dzdwd.po32ker.cn </code>",
+      "points": 889,
+      "discount": 0.52,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> dzlbaj.po33ker.cn </code>",
+      "points": 8019,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "<code> dznmbt.po34ker.cn </code>",
+      "points": 4240,
+      "discount": 0.88,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "<code> dzhw.po35ker.cn </code>",
+      "points": 9853,
+      "discount": 0.78,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "<code> dzic.po36ker.cn </code>",
+      "points": 7552,
+      "discount": 0.98,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "普通会员",
+      "url": "<code> dzia.po37ker.cn </code>",
+      "points": 85,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "<code> dztuah.po38ker.cn </code>",
+      "points": 358,
+      "discount": 0.8,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "银卡会员",
+      "url": "<code> dzzqw.po39ker.cn </code>",
+      "points": 9541,
+      "discount": 0.86,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "普通会员",
+      "url": "<code> dzqigf.po40ker.cn </code>",
+      "points": 8143,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "<code> dzre.po41ker.cn </code>",
+      "points": 9498,
+      "discount": 1.0,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> dzlq.po42ker.cn </code>",
+      "points": 8069,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "<code> dzxla.po43ker.cn </code>",
+      "points": 611,
+      "discount": 0.87,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "<code> dzjyxy.po44ker.cn </code>",
+      "points": 4738,
+      "discount": 0.68,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> dzebxf.po45ker.cn </code>",
+      "points": 6939,
+      "discount": 0.6,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "<code> dzvyn.po46ker.cn </code>",
+      "points": 8664,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "普通会员",
+      "url": "<code> dzue.po47ker.cn </code>",
+      "points": 5366,
+      "discount": 0.63,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "金卡会员",
+      "url": "<code> dzba.po48ker.cn </code>",
+      "points": 3437,
+      "discount": 0.82,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> dzymus.po49ker.cn </code>",
+      "points": 5776,
+      "discount": 0.55,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "普通会员",
+      "url": "<code> dzkf.po50ker.cn </code>",
+      "points": 2037,
+      "discount": 0.51,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "<code> dztizm.ybuhg57.cn </code>",
+      "points": 3663,
+      "discount": 0.53,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "<code> dzrxl.wwfzfsmy.cn </code>",
+      "points": 6451,
+      "discount": 0.88,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "<code> dzpvqw.vyrdpg.cn </code>",
+      "points": 9484,
+      "discount": 0.71,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "银卡会员",
+      "url": "<code> dzds.oopccjio.cn </code>",
+      "points": 2101,
+      "discount": 0.57,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "银卡会员",
+      "url": "<code> dztd.te5u58.cn </code>",
+      "points": 5779,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "银卡会员",
+      "url": "<code> dzyt.tzcpjtgw.cn </code>",
+      "points": 2420,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "<code> dzgyl.wcfwxwjw.cn </code>",
+      "points": 4989,
+      "discount": 0.59,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "<code> dzop.czfsysle.cn </code>",
+      "points": 8923,
+      "discount": 0.93,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "<code> dzkt.dpcpbbov.cn </code>",
+      "points": 7149,
+      "discount": 0.96,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "钻石会员",
+      "url": "<code> dzzds.bnadtnqj.cn </code>",
+      "points": 7356,
+      "discount": 0.9,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "<code> dzyl.umrsr48.cn </code>",
+      "points": 3175,
+      "discount": 0.83,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "银卡会员",
+      "url": "<code> dzij.x23pl0.cn </code>",
+      "points": 3494,
+      "discount": 0.59,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "<code> dztz.jyeryrer.cn </code>",
+      "points": 586,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "<code> dzrl.jv7ac3.cn </code>",
+      "points": 5988,
+      "discount": 0.86,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "金卡会员",
+      "url": "<code> dzuk.kgfd5r.cn </code>",
+      "points": 4523,
+      "discount": 0.72,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "钻石会员",
+      "url": "<code> dznxzw.urqkxded.cn </code>",
+      "points": 997,
+      "discount": 0.6,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "钻石会员",
+      "url": "<code> dzrj.nsgkc11.cn </code>",
+      "points": 7055,
+      "discount": 0.72,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "银卡会员",
+      "url": "<code> dzrxz.aajwtcpv.cn </code>",
+      "points": 8668,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "<code> dzje.ed5gq5.cn </code>",
+      "points": 5427,
+      "discount": 0.94,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> dzzjx.r6hrvn.cn </code>",
+      "points": 6926,
+      "discount": 0.9,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "<code> dzhqs.amibvubo.cn </code>",
+      "points": 9778,
+      "discount": 0.59,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "<code> dzgrtv.ehdog38.cn </code>",
+      "points": 5775,
+      "discount": 0.63,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "银卡会员",
+      "url": "<code> dzgfgg.yugnahff.cn </code>",
+      "points": 8144,
+      "discount": 0.58,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "银卡会员",
+      "url": "<code> dzgi.dbp9dwi.cn </code>",
+      "points": 5308,
+      "discount": 0.95,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "<code> dzim.dbp9jba.cn </code>",
+      "points": 6365,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "金卡会员",
+      "url": "<code> dzcdp.aetgatts.cn </code>",
+      "points": 4420,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> dzskwc.wzmqwxdw.cn </code>",
+      "points": 8406,
+      "discount": 0.88,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "钻石会员",
+      "url": "<code> dzlf.dcsie72.cn </code>",
+      "points": 8113,
+      "discount": 0.62,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "银卡会员",
+      "url": "<code> dzibye.dumlz78.cn </code>",
+      "points": 4283,
+      "discount": 0.61,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "<code> dzpa.ocpiiior.cn </code>",
+      "points": 2769,
+      "discount": 0.8,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "<code> dzuukb.fnveniez.cn </code>",
+      "points": 7444,
+      "discount": 0.57,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "钻石会员",
+      "url": "<code> dzpdw.lecwcwpp.cn </code>",
+      "points": 5413,
+      "discount": 0.77,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "<code> dzqem.zflrsqqp.cn </code>",
+      "points": 9695,
+      "discount": 0.68,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> dzzin.qksoxgcx.cn </code>",
+      "points": 5257,
+      "discount": 0.91,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> dzqfb.cbkxivgj.cn </code>",
+      "points": 6876,
+      "discount": 0.55,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "<code> dztaug.lrxkyryl.cn </code>",
+      "points": 1309,
+      "discount": 0.62,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "<code> dzkks.rxqqdwjd.cn </code>",
+      "points": 6522,
+      "discount": 1.0,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "<code> dzdnf.sooilfou.cn </code>",
+      "points": 475,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "银卡会员",
+      "url": "<code> dzydc.oiigbbuu.cn </code>",
+      "points": 2935,
+      "discount": 0.63,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "银卡会员",
+      "url": "<code> dzbf.uoxgpytp.cn </code>",
+      "points": 1409,
+      "discount": 0.86,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> dzyf.yejjwqqw.cn </code>",
+      "points": 3914,
+      "discount": 0.87,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "银卡会员",
+      "url": "<code> dzlpfb.vmzrkxkt.cn </code>",
+      "points": 2445,
+      "discount": 0.55,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "银卡会员",
+      "url": "<code> dzujpa.b5kghd.cn </code>",
+      "points": 9569,
+      "discount": 0.71,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "普通会员",
+      "url": "<code> dzsl.ktsfmsts.cn </code>",
+      "points": 8140,
+      "discount": 0.58,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "<code> dzozg.jvsyryre.cn </code>",
+      "points": 1951,
+      "discount": 0.7,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "<code> dzuk.hhjqwoio.cn </code>",
+      "points": 7664,
+      "discount": 0.95,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> dzdgx.bvrmvezv.cn </code>",
+      "points": 4580,
+      "discount": 0.59,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "金卡会员",
+      "url": "<code> dzkjrl.3mtv9m.cn </code>",
+      "points": 2703,
+      "discount": 0.67,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "金卡会员",
+      "url": "<code> dzcvk.zo1r10.cn </code>",
+      "points": 9583,
+      "discount": 0.84,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "<code> m.fubf.hhpo1ker.org.cn/64987db.shtml </code>",
+      "points": 1617,
+      "discount": 0.61,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "普通会员",
+      "url": "<code> m.gnvp.hhpo2ker.org.cn/56342db.shtml </code>",
+      "points": 2071,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "<code> m.bidx.hhpo3ker.org.cn/20511db.shtml </code>",
+      "points": 3864,
+      "discount": 0.64,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "钻石会员",
+      "url": "<code> m.caxe.hhpo4ker.org.cn/16794db.shtml </code>",
+      "points": 6254,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "<code> m.rapsg.hhpo5ker.org.cn/69412db.shtml </code>",
+      "points": 7141,
+      "discount": 0.84,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "银卡会员",
+      "url": "<code> m.zmxn.hhpo6ker.org.cn/52208db.shtml </code>",
+      "points": 2636,
+      "discount": 0.7,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> m.nfnlv.hhpo7ker.org.cn/55134db.shtml </code>",
+      "points": 2525,
+      "discount": 0.94,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> m.oesxe.hhpo8ker.org.cn/48793db.shtml </code>",
+      "points": 5432,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> m.loktgj.hhpo9ker.org.cn/76426db.shtml </code>",
+      "points": 7773,
+      "discount": 0.74,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "<code> m.citmm.hhpo10ker.org.cn/27488db.shtml </code>",
+      "points": 2903,
+      "discount": 0.85,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "普通会员",
+      "url": "<code> m.xrux.hhpo11ker.org.cn/83524db.shtml </code>",
+      "points": 8434,
+      "discount": 0.77,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "钻石会员",
+      "url": "<code> m.tmgyp.hhpo12ker.org.cn/80701db.shtml </code>",
+      "points": 8004,
+      "discount": 0.9,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "金卡会员",
+      "url": "<code> m.bqjveh.hhpo13ker.org.cn/75080db.shtml </code>",
+      "points": 9396,
+      "discount": 0.53,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> m.jgrp.hhpo14ker.org.cn/49158db.shtml </code>",
+      "points": 5699,
+      "discount": 0.54,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> m.enth.hhpo15ker.org.cn/71574db.shtml </code>",
+      "points": 3836,
+      "discount": 0.66,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> m.poipgv.hhpo16ker.org.cn/61378db.shtml </code>",
+      "points": 9027,
+      "discount": 0.61,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> m.qjla.hhpo17ker.org.cn/39278db.shtml </code>",
+      "points": 1190,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "<code> m.auoax.hhpo18ker.org.cn/94486db.shtml </code>",
+      "points": 9869,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> m.xlpp.hhpo19ker.org.cn/28495db.shtml </code>",
+      "points": 7392,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> m.jsktbl.hhpo20ker.org.cn/44336db.shtml </code>",
+      "points": 2576,
+      "discount": 0.84,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "<code> m.upnpci.hhpo21ker.org.cn/40866db.shtml </code>",
+      "points": 7708,
+      "discount": 0.73,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "普通会员",
+      "url": "<code> m.cryctl.hhpo22ker.org.cn/00103db.shtml </code>",
+      "points": 1737,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "银卡会员",
+      "url": "<code> m.fkuj.hhpo23ker.org.cn/58758db.shtml </code>",
+      "points": 1581,
+      "discount": 0.85,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "<code> m.pkacns.hhpo24ker.org.cn/15632db.shtml </code>",
+      "points": 1816,
+      "discount": 0.68,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "钻石会员",
+      "url": "<code> m.mkrekd.hhpo25ker.org.cn/28978db.shtml </code>",
+      "points": 1592,
+      "discount": 0.58,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "金卡会员",
+      "url": "<code> m.kitov.hhpo26ker.org.cn/22647db.shtml </code>",
+      "points": 6142,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "<code> m.nuvicz.hhpo27ker.org.cn/20084db.shtml </code>",
+      "points": 8268,
+      "discount": 0.67,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "金卡会员",
+      "url": "<code> m.qwlt.hhpo28ker.org.cn/76855db.shtml </code>",
+      "points": 8104,
+      "discount": 0.64,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "普通会员",
+      "url": "<code> m.rhdff.hhpo29ker.org.cn/08687db.shtml </code>",
+      "points": 8513,
+      "discount": 0.94,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "<code> m.rgxsbt.hhpo30ker.org.cn/05707db.shtml </code>",
+      "points": 6055,
+      "discount": 0.53,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "<code> m.pdqpb.hhpo31ker.org.cn/23464db.shtml </code>",
+      "points": 9028,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "<code> m.xbyz.hhpo32ker.org.cn/98849db.shtml </code>",
+      "points": 2559,
+      "discount": 0.56,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "钻石会员",
+      "url": "<code> m.uamr.hhpo33ker.org.cn/10769db.shtml </code>",
+      "points": 3848,
+      "discount": 0.6,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "<code> m.crqp.hhpo34ker.org.cn/36502db.shtml </code>",
+      "points": 8227,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "钻石会员",
+      "url": "<code> m.lmqnqp.hhpo35ker.org.cn/69122db.shtml </code>",
+      "points": 7547,
+      "discount": 0.82,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "<code> m.zvtsjm.hhpo36ker.org.cn/75958db.shtml </code>",
+      "points": 3617,
+      "discount": 0.6,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "<code> m.rlig.hhpo37ker.org.cn/72394db.shtml </code>",
+      "points": 7367,
+      "discount": 1.0,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "金卡会员",
+      "url": "<code> m.qbya.hhpo38ker.org.cn/49404db.shtml </code>",
+      "points": 8758,
+      "discount": 0.81,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "钻石会员",
+      "url": "<code> m.huyi.hhpo39ker.org.cn/19182db.shtml </code>",
+      "points": 7348,
+      "discount": 0.65,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "银卡会员",
+      "url": "<code> m.ndqv.hhpo40ker.org.cn/93881db.shtml </code>",
+      "points": 8219,
+      "discount": 0.98,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "钻石会员",
+      "url": "<code> m.hhjd.hhpo41ker.org.cn/22205db.shtml </code>",
+      "points": 6288,
+      "discount": 0.99,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "<code> m.vaezti.hhpo42ker.org.cn/82019db.shtml </code>",
+      "points": 3346,
+      "discount": 0.9,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "<code> m.llypa.hhpo43ker.org.cn/19294db.shtml </code>",
+      "points": 4918,
+      "discount": 0.93,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> m.vhxwq.hhpo44ker.org.cn/49397db.shtml </code>",
+      "points": 4447,
+      "discount": 0.71,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "<code> m.iinir.hhpo45ker.org.cn/41753db.shtml </code>",
+      "points": 4192,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "<code> m.irgvl.hhpo46ker.org.cn/10694db.shtml </code>",
+      "points": 9453,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> m.aihdvk.hhpo47ker.org.cn/10321db.shtml </code>",
+      "points": 9045,
+      "discount": 0.99,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "<code> m.blqp.hhpo48ker.org.cn/87616db.shtml </code>",
+      "points": 9897,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> m.tpskx.hhpo49ker.org.cn/81871db.shtml </code>",
+      "points": 2113,
+      "discount": 0.77,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "银卡会员",
+      "url": "<code> m.vjiwrs.hhpo50ker.org.cn/53007db.shtml </code>",
+      "points": 6352,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> m.hcum.po1ker.cn/24435db.shtml </code>",
+      "points": 4240,
+      "discount": 0.81,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "金卡会员",
+      "url": "<code> m.wruty.po2ker.cn/16424db.shtml </code>",
+      "points": 27,
+      "discount": 0.5,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "<code> m.iqfg.po3ker.cn/17697db.shtml </code>",
+      "points": 1212,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "<code> m.uwdjm.po4ker.cn/25901db.shtml </code>",
+      "points": 2651,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "金卡会员",
+      "url": "<code> m.nwcj.po5ker.cn/11066db.shtml </code>",
+      "points": 9275,
+      "discount": 0.96,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "钻石会员",
+      "url": "<code> m.eqkbip.po6ker.cn/70297db.shtml </code>",
+      "points": 9863,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "钻石会员",
+      "url": "<code> m.oewka.po7ker.cn/08793db.shtml </code>",
+      "points": 4174,
+      "discount": 0.9,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> m.swifhe.po8ker.cn/48673db.shtml </code>",
+      "points": 701,
+      "discount": 0.87,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "钻石会员",
+      "url": "<code> m.skwd.po9ker.cn/53729db.shtml </code>",
+      "points": 4039,
+      "discount": 0.9,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "<code> m.ntmf.po10ker.cn/07922db.shtml </code>",
+      "points": 5465,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "<code> m.okii.po11ker.cn/63130db.shtml </code>",
+      "points": 3367,
+      "discount": 0.99,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "普通会员",
+      "url": "<code> m.cqjy.po12ker.cn/17526db.shtml </code>",
+      "points": 5937,
+      "discount": 0.93,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "<code> m.couzo.po13ker.cn/84634db.shtml </code>",
+      "points": 4826,
+      "discount": 0.7,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "<code> m.mpiyyp.po14ker.cn/56455db.shtml </code>",
+      "points": 9097,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> m.xeeqx.po15ker.cn/57045db.shtml </code>",
+      "points": 8947,
+      "discount": 1.0,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "<code> m.uauu.po16ker.cn/37588db.shtml </code>",
+      "points": 1611,
+      "discount": 0.83,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "<code> m.puydgz.po17ker.cn/09762db.shtml </code>",
+      "points": 9456,
+      "discount": 0.78,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "钻石会员",
+      "url": "<code> m.qishfy.po18ker.cn/25024db.shtml </code>",
+      "points": 7670,
+      "discount": 0.64,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "普通会员",
+      "url": "<code> m.bjaxm.po19ker.cn/54612db.shtml </code>",
+      "points": 3518,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "<code> m.anuieo.po20ker.cn/96586db.shtml </code>",
+      "points": 2530,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "<code> m.qusa.po21ker.cn/50923db.shtml </code>",
+      "points": 783,
+      "discount": 0.59,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "普通会员",
+      "url": "<code> m.gghtpe.po22ker.cn/39415db.shtml </code>",
+      "points": 606,
+      "discount": 0.53,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "银卡会员",
+      "url": "<code> m.nkqm.po23ker.cn/75930db.shtml </code>",
+      "points": 4580,
+      "discount": 0.87,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "<code> m.jhlp.po24ker.cn/89329db.shtml </code>",
+      "points": 4352,
+      "discount": 0.66,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "<code> m.crco.po25ker.cn/32801db.shtml </code>",
+      "points": 6240,
+      "discount": 0.96,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "金卡会员",
+      "url": "<code> m.wnvod.po26ker.cn/05555db.shtml </code>",
+      "points": 5665,
+      "discount": 0.92,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "<code> m.rfhmom.po27ker.cn/81648db.shtml </code>",
+      "points": 9246,
+      "discount": 0.71,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "普通会员",
+      "url": "<code> m.msprqs.po28ker.cn/35331db.shtml </code>",
+      "points": 8906,
+      "discount": 0.98,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "<code> m.zdje.po29ker.cn/32206db.shtml </code>",
+      "points": 3079,
+      "discount": 0.51,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "<code> m.ipsfj.po30ker.cn/57786db.shtml </code>",
+      "points": 4514,
+      "discount": 0.54,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "银卡会员",
+      "url": "<code> m.kwkbx.po31ker.cn/75698db.shtml </code>",
+      "points": 919,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "<code> m.ahmh.po32ker.cn/53523db.shtml </code>",
+      "points": 7324,
+      "discount": 0.92,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "钻石会员",
+      "url": "<code> m.owyga.po33ker.cn/38526db.shtml </code>",
+      "points": 4037,
+      "discount": 0.96,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> m.splgic.po34ker.cn/88312db.shtml </code>",
+      "points": 6550,
+      "discount": 0.85,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "银卡会员",
+      "url": "<code> m.agzou.po35ker.cn/21178db.shtml </code>",
+      "points": 2906,
+      "discount": 0.75,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "钻石会员",
+      "url": "<code> m.gpcu.po36ker.cn/67807db.shtml </code>",
+      "points": 669,
+      "discount": 0.88,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "<code> m.upvdt.po37ker.cn/92323db.shtml </code>",
+      "points": 2660,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "<code> m.gbod.po38ker.cn/91818db.shtml </code>",
+      "points": 7420,
+      "discount": 0.58,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> m.jvunj.po39ker.cn/32728db.shtml </code>",
+      "points": 4555,
+      "discount": 0.9,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "<code> m.oookbk.po40ker.cn/69955db.shtml </code>",
+      "points": 1374,
+      "discount": 0.83,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "<code> m.gzlhc.po41ker.cn/40820db.shtml </code>",
+      "points": 1878,
+      "discount": 0.69,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> m.ikjez.po42ker.cn/74775db.shtml </code>",
+      "points": 5435,
+      "discount": 0.82,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "银卡会员",
+      "url": "<code> m.nglnja.po43ker.cn/51208db.shtml </code>",
+      "points": 7998,
+      "discount": 0.58,
+      "benefits": [
+        "免运费"
+      ]
+    }
+  ]
+}

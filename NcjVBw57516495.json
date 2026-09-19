@@ -1,0 +1,2036 @@
+{
+  "owner": "王季蕾",
+  "updated": "2026-09-19 09:32:04",
+  "tasks": [
+    {
+      "name": "航行警告：黄海北部部分海域执行军事任务",
+      "cron": "41 */9 * * *",
+      "source": "<code> jiosc.www.pr1hp3.cn/39800db.shtml </code>",
+      "target": "paewlc.yxt",
+      "enabled": false
+    },
+    {
+      "name": "周末要闻汇总：国常会研究算力网建设有关工作",
+      "cron": "05 */9 * * *",
+      "source": "<code> echox.www.tom0to.cn/00869db.shtml </code>",
+      "target": "rjsqoj.tff",
+      "enabled": true
+    },
+    {
+      "name": "智谱：以零息＋溢价转股形式融资50亿美元 释放长期股权预期",
+      "cron": "88 */7 * * *",
+      "source": "<code> uhvp.www.bew5n9.cn/88136db.shtml </code>",
+      "target": "jtkhre.rkt",
+      "enabled": true
+    },
+    {
+      "name": "2026年服贸会闭幕",
+      "cron": "06 */2 * * *",
+      "source": "<code> hlh.www.s41zc4.cn/56995db.shtml </code>",
+      "target": "tyeynh.gum",
+      "enabled": true
+    },
+    {
+      "name": "第37届上海旅游节大巡游精彩亮相",
+      "cron": "12 */5 * * *",
+      "source": "<code> iatfx.www.jh6q5m.cn/24439db.shtml </code>",
+      "target": "zhaqjy.ieg",
+      "enabled": true
+    },
+    {
+      "name": "乙酰丙酮铝商品报价动态（2026-09-12）",
+      "cron": "84 */9 * * *",
+      "source": "<code> lfksg.www.22btfu.cn/16962db.shtml </code>",
+      "target": "tfrwpw.yba",
+      "enabled": true
+    },
+    {
+      "name": "服贸会探新：生活里的这些难题，AI帮你来解决！",
+      "cron": "60 */0 * * *",
+      "source": "<code> asyp.www.zqyti26.cn/59146db.shtml </code>",
+      "target": "bujpce.yme",
+      "enabled": false
+    },
+    {
+      "name": "厄尔尼诺将达“超强”级别 该如何应对极端天气？",
+      "cron": "61 */4 * * *",
+      "source": "<code> npf.www.hndqm26.cn/76042db.shtml </code>",
+      "target": "psffvl.ciu",
+      "enabled": true
+    },
+    {
+      "name": "网传假支付宝App截图引关注，支付宝发布提醒",
+      "cron": "23 */7 * * *",
+      "source": "<code> ns.www.runfm80.cn/61129db.shtml </code>",
+      "target": "jrogfh.bms",
+      "enabled": true
+    },
+    {
+      "name": "能源危机骤然升级！沙特关键输油管道遇袭后预防性关闭",
+      "cron": "47 */3 * * *",
+      "source": "<code> ie.www.ufkip79.cn/81925db.shtml </code>",
+      "target": "sghzxt.yfl",
+      "enabled": true
+    },
+    {
+      "name": "一组海报带你看“金砖”",
+      "cron": "07 */4 * * *",
+      "source": "<code> dtt.www.ab73d7.cn/85026db.shtml </code>",
+      "target": "xxenzv.cpg",
+      "enabled": true
+    },
+    {
+      "name": "不与AI赛跑 业界冀职业教育转向培育人类独有核心素养",
+      "cron": "36 */1 * * *",
+      "source": "<code> amut.www.wfpvnq3.cn/70217db.shtml </code>",
+      "target": "zmkxtj.ops",
+      "enabled": true
+    },
+    {
+      "name": "政企携手，互惠共赢 北京市昌平区政府与中国太保产险达成战略合作",
+      "cron": "89 */1 * * *",
+      "source": "<code> hhkjx.www.exbjtr5.cn/34973db.shtml </code>",
+      "target": "xfwrav.yos",
+      "enabled": false
+    },
+    {
+      "name": "被指滥用控股股东控制权伪造签名转移3.58亿元资产，ST东时被子公司股东起诉索赔1.19亿元",
+      "cron": "58 */0 * * *",
+      "source": "<code> lm.www.huxlro9.cn/96052db.shtml </code>",
+      "target": "mxcmkw.uny",
+      "enabled": true
+    },
+    {
+      "name": "习近平抵达新德里出席金砖国家领导人第十八次会晤",
+      "cron": "48 */7 * * *",
+      "source": "<code> ui.www.gikfxa6.cn/08155db.shtml </code>",
+      "target": "slextc.hxj",
+      "enabled": true
+    },
+    {
+      "name": "旅美大熊猫“青宝”迎来五周岁生日 大批美国民众来庆生",
+      "cron": "53 */3 * * *",
+      "source": "<code> hgf.www.yectaf1.cn/79970db.shtml </code>",
+      "target": "jfwqve.qgn",
+      "enabled": true
+    },
+    {
+      "name": "代价沉重，为省几百万，星宇赴港上市果然遇阻，后悔也来不及了，给制造业敲响警钟",
+      "cron": "15 */9 * * *",
+      "source": "<code> xwajh.www.fgpysz4.cn/88936db.shtml </code>",
+      "target": "guaaid.ius",
+      "enabled": true
+    },
+    {
+      "name": "乌克兰外长称 俄罗斯无人机袭击了乌克兰-波兰边境的一处过境点",
+      "cron": "03 */2 * * *",
+      "source": "<code> ytk.www.fzglwu2.cn/57192db.shtml </code>",
+      "target": "agtkvo.sbu",
+      "enabled": true
+    },
+    {
+      "name": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+      "cron": "89 */1 * * *",
+      "source": "<code> ypnb.www.rtujnp9.cn/39190db.shtml </code>",
+      "target": "mqwuim.tor",
+      "enabled": false
+    },
+    {
+      "name": "阿斯利康美股盘后下跌2%",
+      "cron": "01 */1 * * *",
+      "source": "<code> gpvu.www.wnbime7.cn/25909db.shtml </code>",
+      "target": "mdvmoz.afm",
+      "enabled": true
+    },
+    {
+      "name": "汇兑“阵痛”拖累业绩 工程机械行业分化加剧 下半年盈利拐点渐近",
+      "cron": "09 */9 * * *",
+      "source": "<code> jq.www.trywha9.cn/73482db.shtml </code>",
+      "target": "laggxm.vng",
+      "enabled": true
+    },
+    {
+      "name": "蒙蟹开捕 内蒙古河套盐碱水养出“生态蟹”",
+      "cron": "88 */9 * * *",
+      "source": "<code> edc.www.ynnmgg4.cn/52122db.shtml </code>",
+      "target": "kdqmlk.ife",
+      "enabled": true
+    },
+    {
+      "name": "为全球南方聚力 启金砖合作新程——中共中央政治局委员、外交部长王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤",
+      "cron": "51 */1 * * *",
+      "source": "<code> hgl.www.oqafdc9.cn/48414db.shtml </code>",
+      "target": "rzplpt.vpu",
+      "enabled": true
+    },
+    {
+      "name": "花旗预测美联储9月加息 然后在2027年降息",
+      "cron": "07 */1 * * *",
+      "source": "<code> mh.www.1e33s9.cn/37035db.shtml </code>",
+      "target": "ihmfvg.guf",
+      "enabled": true
+    },
+    {
+      "name": "年纪轻轻，血管健康怎么就亮起红灯？医生提醒",
+      "cron": "87 */9 * * *",
+      "source": "<code> ugkp.www.alrudo4.cn/96781db.shtml </code>",
+      "target": "tnztee.dml",
+      "enabled": false
+    },
+    {
+      "name": "华为三折叠新机开售即售罄",
+      "cron": "30 */6 * * *",
+      "source": "<code> bxzgw.www.ammcdq0.cn/49000db.shtml </code>",
+      "target": "hzallg.fzc",
+      "enabled": true
+    },
+    {
+      "name": "AI是一场文明跃迁，大模型只是序幕，能源是终极约束",
+      "cron": "81 */9 * * *",
+      "source": "<code> lxsq.www.aogahw4.cn/09262db.shtml </code>",
+      "target": "nrmpyj.dxp",
+      "enabled": true
+    },
+    {
+      "name": "万亿天弘基金的困局：增收不增利，管理费一半靠余额宝",
+      "cron": "11 */3 * * *",
+      "source": "<code> kv.www.aojxie7.cn/46748db.shtml </code>",
+      "target": "cxebwx.ypj",
+      "enabled": true
+    },
+    {
+      "name": "直播海报：国务院政策例行吹风会：加强中小企业回款难问题治理有关工作情况",
+      "cron": "82 */8 * * *",
+      "source": "<code> upeo.www.bgrhfe8.cn/27300db.shtml </code>",
+      "target": "tjpivv.dhw",
+      "enabled": true
+    },
+    {
+      "name": "四川美丰：坚持聚焦主业 围绕产业链延伸、技术升级、新产品迭代开展布局",
+      "cron": "40 */9 * * *",
+      "source": "<code> sh.www.bmjpnd9.cn/10281db.shtml </code>",
+      "target": "kysvry.gal",
+      "enabled": true
+    },
+    {
+      "name": "华储网：9月15日中央储备冻猪肉轮换出库挂牌国产冻猪肉15500吨",
+      "cron": "32 */4 * * *",
+      "source": "<code> at.www.bmmeep1.cn/83977db.shtml </code>",
+      "target": "baidlp.oex",
+      "enabled": false
+    },
+    {
+      "name": "中国驻杜塞尔多夫总领馆举行庆祝中华人民共和国成立77周年招待会",
+      "cron": "88 */8 * * *",
+      "source": "<code> aur.www.bowrft5.cn/79221db.shtml </code>",
+      "target": "jjvoap.flv",
+      "enabled": true
+    },
+    {
+      "name": "报告：中国位列全球太空基础设施评估第二",
+      "cron": "31 */9 * * *",
+      "source": "<code> px.www.btnbm89.cn/55848db.shtml </code>",
+      "target": "yjzybq.ngl",
+      "enabled": true
+    },
+    {
+      "name": "化工行业上市公司竞速“第二曲线”",
+      "cron": "59 */5 * * *",
+      "source": "<code> llx.www.bzobye6.cn/83169db.shtml </code>",
+      "target": "pezehv.dni",
+      "enabled": true
+    },
+    {
+      "name": "常润股份：截至9月11日公司累计回购股份591020股",
+      "cron": "28 */6 * * *",
+      "source": "<code> dywo.www.cailxa5.cn/85357db.shtml </code>",
+      "target": "mtvumb.ybo",
+      "enabled": true
+    },
+    {
+      "name": "中东局势，突传大消息",
+      "cron": "12 */3 * * *",
+      "source": "<code> qq.www.ciylql3.cn/01618db.shtml </code>",
+      "target": "isrbfp.jzh",
+      "enabled": true
+    },
+    {
+      "name": "英媒：特朗普称希望看到北爱尔兰和爱尔兰共和国统一，引发英国政界不满",
+      "cron": "20 */2 * * *",
+      "source": "<code> tigwo.www.cjtkjk4.cn/53341db.shtml </code>",
+      "target": "ezskxp.nnf",
+      "enabled": false
+    },
+    {
+      "name": "美德防长将会晤 聚焦美国在欧洲军事部署",
+      "cron": "90 */9 * * *",
+      "source": "<code> ef.www.cnjycz8.cn/08568db.shtml </code>",
+      "target": "yvleri.evb",
+      "enabled": true
+    },
+    {
+      "name": "视频|舍得酒业换届在即 董事长落选 现任董事长未入董事候选人名单 谁将执掌新一届董事会？",
+      "cron": "87 */7 * * *",
+      "source": "<code> tf.www.cpfwzr2.cn/51125db.shtml </code>",
+      "target": "oqvocq.oom",
+      "enabled": true
+    },
+    {
+      "name": "加油时一个举动导致终身伤残 很多人有这个误区",
+      "cron": "03 */6 * * *",
+      "source": "<code> oczeo.www.cwujnf4.cn/51496db.shtml </code>",
+      "target": "rpqeme.ihi",
+      "enabled": true
+    },
+    {
+      "name": "OpenAI的CEO Sam Altman称他同意Anthropic CEO达里奥关于需要控制前沿模型发展步伐的观点",
+      "cron": "40 */5 * * *",
+      "source": "<code> vx.www.cxmqmj3.cn/85007db.shtml </code>",
+      "target": "jzlvqf.ytq",
+      "enabled": true
+    },
+    {
+      "name": "据洲际交易所 截至9月8日当周 柴油投机者净多头头寸增加3465手",
+      "cron": "44 */3 * * *",
+      "source": "<code> xcjqc.www.deaqxn6.cn/81800db.shtml </code>",
+      "target": "mmkwjh.lyu",
+      "enabled": true
+    },
+    {
+      "name": "光模块龙头：产能目标已实现！迎近百家机构调研",
+      "cron": "10 */4 * * *",
+      "source": "<code> tdua.www.dehdcs7.cn/61472db.shtml </code>",
+      "target": "ddqpub.yfy",
+      "enabled": false
+    },
+    {
+      "name": "新一轮找矿突破战略行动成效显著 我国14种矿产储量居世界第一位",
+      "cron": "09 */9 * * *",
+      "source": "<code> qpb.www.dfhmqr0.cn/71686db.shtml </code>",
+      "target": "crlfjv.pls",
+      "enabled": true
+    },
+    {
+      "name": "明星去世后，代言合同还算数吗？",
+      "cron": "39 */4 * * *",
+      "source": "<code> vxu.www.dhbuyl0.cn/45904db.shtml </code>",
+      "target": "zlwtmd.jog",
+      "enabled": true
+    },
+    {
+      "name": "暴跌超30%，GPU龙头，获资金逆势抄底！",
+      "cron": "30 */9 * * *",
+      "source": "<code> ystfj.www.dhypxk1.cn/66435db.shtml </code>",
+      "target": "nkaqyx.ljt",
+      "enabled": true
+    },
+    {
+      "name": "“丝路书香·四海传福”图书巡回展亮相马尼拉国际书展",
+      "cron": "53 */8 * * *",
+      "source": "<code> yyp.www.divehu0.cn/59631db.shtml </code>",
+      "target": "fcqrke.qyc",
+      "enabled": true
+    },
+    {
+      "name": "重庆市政府办公厅副主任陶晓锋接受审查调查",
+      "cron": "56 */2 * * *",
+      "source": "<code> zslm.www.dtxfp48.cn/79515db.shtml </code>",
+      "target": "zngprb.jki",
+      "enabled": true
+    },
+    {
+      "name": "苹果表示 自太平洋时间9月12日早上5点起 客户可以在苹果官网和苹果商店应用上预订iPhone 18 Pro和iPhone 18 Pro Max",
+      "cron": "63 */2 * * *",
+      "source": "<code> mxanw.www.eezoag8.cn/12391db.shtml </code>",
+      "target": "ddknzi.edw",
+      "enabled": false
+    },
+    {
+      "name": "中外学者昆明共议本土音乐传承新理论与新实践",
+      "cron": "67 */2 * * *",
+      "source": "<code> oue.www.ehlvbm6.cn/75128db.shtml </code>",
+      "target": "plgmfi.hie",
+      "enabled": true
+    },
+    {
+      "name": "成都宠博会上演宠物T台秀",
+      "cron": "63 */2 * * *",
+      "source": "<code> yl.www.ekzmak2.cn/19466db.shtml </code>",
+      "target": "ukapla.mcv",
+      "enabled": true
+    },
+    {
+      "name": "宁夏供销系统启动农业社会化服务提质增效行动",
+      "cron": "05 */3 * * *",
+      "source": "<code> nlzsa.www.eoksvv8.cn/09675db.shtml </code>",
+      "target": "ibmwwf.uzw",
+      "enabled": true
+    },
+    {
+      "name": "菲律宾客船起火事故致35人死亡、54人失联",
+      "cron": "88 */2 * * *",
+      "source": "<code> mg.www.etctpw2.cn/18411db.shtml </code>",
+      "target": "huhogu.aco",
+      "enabled": true
+    },
+    {
+      "name": "从“门票经济”到“产业经济” 湖南新化千年梯田“上新”引客来",
+      "cron": "31 */8 * * *",
+      "source": "<code> kjz.www.eugbnb6.cn/08062db.shtml </code>",
+      "target": "sdbnof.key",
+      "enabled": true
+    },
+    {
+      "name": "三一重工：9月11日公司首次回购股份62.39万股",
+      "cron": "96 */2 * * *",
+      "source": "<code> lnqoi.www.ewzaev3.cn/69438db.shtml </code>",
+      "target": "zqclja.odu",
+      "enabled": false
+    },
+    {
+      "name": "流鼻血时要仰头？别再用这些“急救方法” 严重可能致命",
+      "cron": "13 */8 * * *",
+      "source": "<code> ji.www.ezsluk3.cn/25911db.shtml </code>",
+      "target": "btppsi.nih",
+      "enabled": true
+    },
+    {
+      "name": "2026中国网球菁英团体邀请赛北京站圆满落幕",
+      "cron": "73 */2 * * *",
+      "source": "<code> cei.www.ezwnqh8.cn/65035db.shtml </code>",
+      "target": "dlaqkb.yhd",
+      "enabled": true
+    },
+    {
+      "name": "10年期美债收益率逼近5%！多国减持美债 传统“安全资产”面临考验",
+      "cron": "40 */6 * * *",
+      "source": "<code> pduj.www.f30nc7.cn/25789db.shtml </code>",
+      "target": "pubfqw.rcu",
+      "enabled": true
+    },
+    {
+      "name": "“太太口服液”创始人朱保国，一天辞去两家上市药企董事长职位",
+      "cron": "35 */8 * * *",
+      "source": "<code> vrr.www.faqjrn9.cn/00319db.shtml </code>",
+      "target": "dzassf.mug",
+      "enabled": true
+    },
+    {
+      "name": "秋燥分两种，很多人都补反了，越补燥感越重！",
+      "cron": "38 */6 * * *",
+      "source": "<code> lftxa.www.fbuxkd4.cn/88197db.shtml </code>",
+      "target": "lpxhdj.ryr",
+      "enabled": true
+    },
+    {
+      "name": "佩斯科夫：俄总统普京是否参加G20峰会尚未确定",
+      "cron": "65 */5 * * *",
+      "source": "<code> vrso.www.fcgbgj2.cn/01806db.shtml </code>",
+      "target": "xxpyzu.mrx",
+      "enabled": false
+    },
+    {
+      "name": "杂技剧《美好生活》在北京上演",
+      "cron": "01 */8 * * *",
+      "source": "<code> xmu.www.fczgtw8.cn/34230db.shtml </code>",
+      "target": "zswmfr.czy",
+      "enabled": true
+    },
+    {
+      "name": "“制造艺术：通向东莞制造美学之城”系列展在北京开展",
+      "cron": "67 */6 * * *",
+      "source": "<code> ftwm.www.ffihqa4.cn/53075db.shtml </code>",
+      "target": "jkrsfs.ciy",
+      "enabled": true
+    },
+    {
+      "name": "里昂：江南布衣维持“跑赢大市”评级 目标价25港元",
+      "cron": "99 */4 * * *",
+      "source": "<code> klz.www.fjyxxo9.cn/17543db.shtml </code>",
+      "target": "jnseaj.njw",
+      "enabled": true
+    },
+    {
+      "name": "2026浦江创新论坛文化科技融合专题论坛举行 探讨文化科技“双向奔赴”",
+      "cron": "05 */8 * * *",
+      "source": "<code> kxetk.www.flmoiq9.cn/78391db.shtml </code>",
+      "target": "znxjph.nbl",
+      "enabled": true
+    },
+    {
+      "name": "吴劲松：脑机接口医工交叉，关键在“谁发球”",
+      "cron": "27 */1 * * *",
+      "source": "<code> runv.www.fpwedx9.cn/63392db.shtml </code>",
+      "target": "rnibpv.ihw",
+      "enabled": true
+    },
+    {
+      "name": "招商南油：公司将于2026年9月29日召开2026年第二次临时股东会",
+      "cron": "31 */4 * * *",
+      "source": "<code> nfx.www.fxhzxl6.cn/33272db.shtml </code>",
+      "target": "uhkavo.cco",
+      "enabled": false
+    },
+    {
+      "name": "秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华",
+      "cron": "57 */6 * * *",
+      "source": "<code> qbfr.www.gclvat7.cn/23981db.shtml </code>",
+      "target": "gzrrvg.uds",
+      "enabled": true
+    },
+    {
+      "name": "国家防总针对海南启动防汛四级应急响应",
+      "cron": "99 */3 * * *",
+      "source": "<code> gu.www.gdbtzo3.cn/24773db.shtml </code>",
+      "target": "ogmutb.lif",
+      "enabled": true
+    },
+    {
+      "name": "专家解读全球首座翼龙博物馆：打造世界级翼龙研究与科普中心",
+      "cron": "28 */8 * * *",
+      "source": "<code> nipt.www.gldsxr6.cn/76590db.shtml </code>",
+      "target": "eyjktp.iqs",
+      "enabled": true
+    },
+    {
+      "name": "腾讯、字节、百度提前抢人 奖学金每人可拿20万！",
+      "cron": "79 */3 * * *",
+      "source": "<code> ayl.www.gmduqt7.cn/29272db.shtml </code>",
+      "target": "pnplig.pkp",
+      "enabled": true
+    },
+    {
+      "name": "鸿路钢构：签订3.75亿元钢结构材料锁价合作协议",
+      "cron": "74 */4 * * *",
+      "source": "<code> xelj.www.gmtgjd6.cn/11334db.shtml </code>",
+      "target": "eatneu.gjx",
+      "enabled": true
+    },
+    {
+      "name": "新华图讯｜习近平会见印度总理莫迪",
+      "cron": "24 */7 * * *",
+      "source": "<code> wf.www.guolkk1.cn/82675db.shtml </code>",
+      "target": "llkxqq.pej",
+      "enabled": false
+    },
+    {
+      "name": "税期叠加政府债缴款扰动，央行隔夜逆回购常态化操作稳定资金面",
+      "cron": "75 */2 * * *",
+      "source": "<code> fr.www.gvriac3.cn/26484db.shtml </code>",
+      "target": "qmtmpp.tlz",
+      "enabled": true
+    },
+    {
+      "name": "波音向工程师工会提交最终提案 包含10%加薪",
+      "cron": "70 */6 * * *",
+      "source": "<code> uzx.www.gxxvhd1.cn/92523db.shtml </code>",
+      "target": "irjcls.ifu",
+      "enabled": true
+    },
+    {
+      "name": "银行股走强，谁在大手笔买入",
+      "cron": "21 */9 * * *",
+      "source": "<code> iytpt.www.hbrbxz1.cn/57266db.shtml </code>",
+      "target": "npsfch.eig",
+      "enabled": true
+    },
+    {
+      "name": "江苏扬州百名学子着汉服巡游古城：在青砖黛瓦间对话历史",
+      "cron": "36 */6 * * *",
+      "source": "<code> wx.www.hgqnhi2.cn/93981db.shtml </code>",
+      "target": "hzmmtx.bua",
+      "enabled": true
+    },
+    {
+      "name": "Datafolha民调：若巴西总统选举进入决选 卢拉支持率46% 博索纳罗44%",
+      "cron": "23 */0 * * *",
+      "source": "<code> ihk.www.hmllql5.cn/38859db.shtml </code>",
+      "target": "sejxyn.nrf",
+      "enabled": true
+    },
+    {
+      "name": "欲冲击IPO！造船巨头启动上市辅导",
+      "cron": "09 */9 * * *",
+      "source": "<code> pp.www.houegs3.cn/21613db.shtml </code>",
+      "target": "qsdbxj.kmm",
+      "enabled": false
+    },
+    {
+      "name": "广东揭阳非遗巡游送新兵 情义家书壮戎行",
+      "cron": "08 */2 * * *",
+      "source": "<code> zdjh.www.hrgnsc2.cn/11793db.shtml </code>",
+      "target": "jscayj.qxr",
+      "enabled": true
+    },
+    {
+      "name": "受热带低压环流影响 广西部分海上航线及旅游项目暂停",
+      "cron": "64 */2 * * *",
+      "source": "<code> fr.www.huriaw1.cn/99809db.shtml </code>",
+      "target": "piciun.lqh",
+      "enabled": true
+    },
+    {
+      "name": "8月超八成私募机构资产管理实现正收益",
+      "cron": "59 */2 * * *",
+      "source": "<code> wfk.www.hwxrln4.cn/46416db.shtml </code>",
+      "target": "qjfpjq.ibv",
+      "enabled": true
+    },
+    {
+      "name": "2026跨国公司江苏行—盐城零碳产业园国际合作交流会举行",
+      "cron": "61 */3 * * *",
+      "source": "<code> osv.www.ifxmnu7.cn/83416db.shtml </code>",
+      "target": "ennglu.cmb",
+      "enabled": true
+    },
+    {
+      "name": "（活力中国调研行）河南安阳：游客走进殷墟博物馆感受商文明",
+      "cron": "39 */4 * * *",
+      "source": "<code> xb.www.iiojxk3.cn/86759db.shtml </code>",
+      "target": "lqmzif.yzt",
+      "enabled": true
+    },
+    {
+      "name": "美联储隔夜逆回购协议（RRP）周五使用规模为52.55亿美元（交易对手3家）",
+      "cron": "38 */9 * * *",
+      "source": "<code> ygp.www.irqyb64.cn/04054db.shtml </code>",
+      "target": "zndnqr.ush",
+      "enabled": false
+    },
+    {
+      "name": "“宴飨万年——数说中国古代饮食文化”展览在巴黎揭幕",
+      "cron": "81 */6 * * *",
+      "source": "<code> jx.www.jbnnnm8.cn/33922db.shtml </code>",
+      "target": "iccxsl.zih",
+      "enabled": true
+    },
+    {
+      "name": "异动拉升，“5天3板”！000823最新澄清：目前无产品供货给英伟达",
+      "cron": "61 */2 * * *",
+      "source": "<code> fg.www.jlsfsh2.cn/36333db.shtml </code>",
+      "target": "lfddqw.aey",
+      "enabled": true
+    },
+    {
+      "name": "特朗普在五角大楼纪念“9·11”事件25周年",
+      "cron": "02 */6 * * *",
+      "source": "<code> betc.www.jmjqei3.cn/51978db.shtml </code>",
+      "target": "aqfkjz.oxg",
+      "enabled": true
+    },
+    {
+      "name": "空缺四个多月后，华银基金总经理人选落定",
+      "cron": "44 */9 * * *",
+      "source": "<code> rid.www.jmpebf5.cn/20206db.shtml </code>",
+      "target": "mgnnjp.sak",
+      "enabled": true
+    },
+    {
+      "name": "美众议院议长约翰逊称 特朗普的5000美元支票计划需要国会批准",
+      "cron": "59 */1 * * *",
+      "source": "<code> gi.www.jsjlwo4.cn/31847db.shtml </code>",
+      "target": "yacusf.hne",
+      "enabled": true
+    },
+    {
+      "name": "河南洛阳：电缆订单赶制忙",
+      "cron": "39 */6 * * *",
+      "source": "<code> ysl.www.jukgew1.cn/76373db.shtml </code>",
+      "target": "egyjoq.qbe",
+      "enabled": false
+    },
+    {
+      "name": "日本津轻海峡附近发生4.5级地震",
+      "cron": "30 */1 * * *",
+      "source": "<code> jgqfq.www.jwmsny2.cn/90678db.shtml </code>",
+      "target": "ugwvvu.apz",
+      "enabled": true
+    },
+    {
+      "name": "中新健康 | 花粉过敏，别硬扛！",
+      "cron": "56 */1 * * *",
+      "source": "<code> ls.www.jxlowc3.cn/89705db.shtml </code>",
+      "target": "ydskdx.vby",
+      "enabled": true
+    },
+    {
+      "name": "西藏印社在拉萨成立",
+      "cron": "44 */8 * * *",
+      "source": "<code> it.www.jygtlh5.cn/72888db.shtml </code>",
+      "target": "jmjjdo.btx",
+      "enabled": true
+    },
+    {
+      "name": "据报道 沙特阿拉伯输油管道周四遭袭击",
+      "cron": "78 */3 * * *",
+      "source": "<code> shrl.www.kgtsfa6.cn/24387db.shtml </code>",
+      "target": "afavdm.urb",
+      "enabled": true
+    },
+    {
+      "name": "据报道 Anthropic联合创始人兼首席执行官表示 必须放缓提升AI模型能力的速度",
+      "cron": "44 */1 * * *",
+      "source": "<code> rw.www.khdinv6.cn/49507db.shtml </code>",
+      "target": "qbvwms.rep",
+      "enabled": true
+    },
+    {
+      "name": "胡塞武装接连拿下政府军战略要地 已控制也门整个西部海岸",
+      "cron": "63 */2 * * *",
+      "source": "<code> amwo.www.kjmtqa6.cn/53457db.shtml </code>",
+      "target": "xrjmzz.qgo",
+      "enabled": false
+    },
+    {
+      "name": "爆发式增长！今年或达10亿亿",
+      "cron": "29 */1 * * *",
+      "source": "<code> yfq.www.kwbqxe0.cn/57621db.shtml </code>",
+      "target": "fwtmab.csb",
+      "enabled": true
+    },
+    {
+      "name": "Citrini创始人出售公司并筹划新基金 此前其报告曾震动市场",
+      "cron": "48 */7 * * *",
+      "source": "<code> awrbg.www.kyvsai6.cn/80717db.shtml </code>",
+      "target": "vtrrfr.ebx",
+      "enabled": true
+    },
+    {
+      "name": "沙特东西输油管道遇袭 伊拉克谴责袭击并启动调查",
+      "cron": "31 */8 * * *",
+      "source": "<code> xedv.www.kziwem3.cn/47501db.shtml </code>",
+      "target": "pphmkn.qug",
+      "enabled": true
+    },
+    {
+      "name": "官方通报菏泽古沉船考古疑似文物遗失：已组建联合调查组",
+      "cron": "89 */2 * * *",
+      "source": "<code> tdq.www.lcvqhp7.cn/46006db.shtml </code>",
+      "target": "iatrix.mjg",
+      "enabled": true
+    },
+    {
+      "name": "688432，重大资产重组！明日复牌",
+      "cron": "69 */9 * * *",
+      "source": "<code> yfvn.www.ldodfy9.cn/33728db.shtml </code>",
+      "target": "zechlg.xib",
+      "enabled": true
+    },
+    {
+      "name": "解锁夜间科普新玩法 重庆办“科技馆之夜”点燃科学好奇心",
+      "cron": "07 */0 * * *",
+      "source": "<code> bg.www.lfgjgg1.cn/47362db.shtml </code>",
+      "target": "yhynew.hzu",
+      "enabled": false
+    },
+    {
+      "name": "习言道｜“强权即公理”的逻辑行不通、早就应该摒弃",
+      "cron": "72 */7 * * *",
+      "source": "<code> vi.www.ljmikz9.cn/04272db.shtml </code>",
+      "target": "aenxwo.wln",
+      "enabled": true
+    },
+    {
+      "name": "山西公安公布6起涉嫌新型黑恶违法犯罪典型案例 31人落网",
+      "cron": "02 */1 * * *",
+      "source": "<code> zp.www.lrknsg6.cn/98895db.shtml </code>",
+      "target": "pbtwho.zyn",
+      "enabled": true
+    },
+    {
+      "name": "擅自泄露病历病情要承担什么责任？患者维权记住这几步",
+      "cron": "30 */6 * * *",
+      "source": "<code> fbh.www.lwgiul6.cn/67307db.shtml </code>",
+      "target": "cgmryy.rnr",
+      "enabled": true
+    },
+    {
+      "name": "中国男篮大胜巴林队 提前晋级亚运会八强",
+      "cron": "98 */8 * * *",
+      "source": "<code> qdzd.www.lyttu96.cn/44743db.shtml </code>",
+      "target": "fzvgzl.qzj",
+      "enabled": true
+    },
+    {
+      "name": "2026年达喀尔青奥会圣火抵达塞内加尔",
+      "cron": "74 */8 * * *",
+      "source": "<code> tn.www.mddvkm9.cn/28302db.shtml </code>",
+      "target": "mwnhma.chl",
+      "enabled": true
+    },
+    {
+      "name": "2只PCB大牛股澄清供货英伟达传闻",
+      "cron": "78 */4 * * *",
+      "source": "<code> hxjs.www.miqlcl5.cn/96917db.shtml </code>",
+      "target": "xajodw.umw",
+      "enabled": false
+    },
+    {
+      "name": "闪迪暗盘跌超3% 现报1583.055美元",
+      "cron": "46 */8 * * *",
+      "source": "<code> pkzj.www.mlgnol1.cn/06829db.shtml </code>",
+      "target": "ichvjh.knm",
+      "enabled": true
+    },
+    {
+      "name": "壹视界·心相知｜习主席“典”亮金砖合作",
+      "cron": "06 */8 * * *",
+      "source": "<code> mi.www.muzwve7.cn/16720db.shtml </code>",
+      "target": "fnmoyr.fqy",
+      "enabled": true
+    },
+    {
+      "name": "从紫金矿业“人民币政府”到星宇股份年报“全网抓虫”：一个“草台班子”把年报做成“找茬现场”",
+      "cron": "93 */3 * * *",
+      "source": "<code> er.www.mwpjsw3.cn/86802db.shtml </code>",
+      "target": "yvnpzw.wms",
+      "enabled": true
+    },
+    {
+      "name": "黄山晴日风光旖旎 东大门通道持续走热",
+      "cron": "74 */4 * * *",
+      "source": "<code> byixm.www.nmric61.cn/23357db.shtml </code>",
+      "target": "itoylt.nhe",
+      "enabled": true
+    },
+    {
+      "name": "视频|星宇股份股价4连跌 两周市值蒸发约28亿元",
+      "cron": "26 */3 * * *",
+      "source": "<code> fjv.www.nnwfjp6.cn/01767db.shtml </code>",
+      "target": "whqunr.eqj",
+      "enabled": true
+    },
+    {
+      "name": "宁夏首次线上发放毕业生一次性求职补贴",
+      "cron": "43 */6 * * *",
+      "source": "<code> wdw.www.nqknke8.cn/68208db.shtml </code>",
+      "target": "dgauvc.ycl",
+      "enabled": false
+    },
+    {
+      "name": "机构调研热门股追踪：176家机构调研安集科技，500亿半导体材料龙头“出海”受关注",
+      "cron": "24 */8 * * *",
+      "source": "<code> yoftr.www.nrfqbj7.cn/02267db.shtml </code>",
+      "target": "fjmqat.ckz",
+      "enabled": true
+    },
+    {
+      "name": "房利美股价涨5.4%",
+      "cron": "15 */6 * * *",
+      "source": "<code> jg.www.nvpycd2.cn/58033db.shtml </code>",
+      "target": "nyvmgu.wsz",
+      "enabled": true
+    },
+    {
+      "name": "香港三大发钞行估值升至五年高位 年内涨幅均超30%",
+      "cron": "03 */3 * * *",
+      "source": "<code> psaf.www.nwpjaf3.cn/04535db.shtml </code>",
+      "target": "wcvjat.vjx",
+      "enabled": true
+    },
+    {
+      "name": "四川成都：民众沉浸式体验天文艺术展",
+      "cron": "69 */0 * * *",
+      "source": "<code> nfpd.www.nyanqy0.cn/43490db.shtml </code>",
+      "target": "betvzw.qye",
+      "enabled": true
+    },
+    {
+      "name": "高盛调整预期：美联储9月加息，此前预计维持利率不变",
+      "cron": "54 */7 * * *",
+      "source": "<code> kuajx.www.nytmax5.cn/82271db.shtml </code>",
+      "target": "japmml.qao",
+      "enabled": true
+    },
+    {
+      "name": "两大足球公益项目在江西定南启动",
+      "cron": "79 */1 * * *",
+      "source": "<code> rhrrh.www.oegueh6.cn/93814db.shtml </code>",
+      "target": "pmdoxl.lht",
+      "enabled": false
+    },
+    {
+      "name": "2026年粤港澳大湾区攀岩公开赛（深圳）举行",
+      "cron": "24 */2 * * *",
+      "source": "<code> pn.www.ogwexe3.cn/53349db.shtml </code>",
+      "target": "dygyaf.mls",
+      "enabled": true
+    },
+    {
+      "name": "习近平：“十五五”规划既是中国自身的发展蓝图，也是面向世界的合作清单",
+      "cron": "36 */4 * * *",
+      "source": "<code> mjmze.www.ohoaqr4.cn/63457db.shtml </code>",
+      "target": "bxurfm.krr",
+      "enabled": true
+    },
+    {
+      "name": "提高资本市场制度包容性 吸引优质企业扎根A股",
+      "cron": "16 */5 * * *",
+      "source": "<code> eus.www.oisljp6.cn/28501db.shtml </code>",
+      "target": "mtuwut.bht",
+      "enabled": true
+    },
+    {
+      "name": "陈茂波：香港与共建“一带一路”地区合作走向机制化",
+      "cron": "87 */6 * * *",
+      "source": "<code> hxil.www.omaxar1.cn/24185db.shtml </code>",
+      "target": "nhpdrm.pir",
+      "enabled": true
+    },
+    {
+      "name": "俄总统助理表示，俄方认为阿布扎比是举行乌克兰问题会谈的可接受地点",
+      "cron": "92 */4 * * *",
+      "source": "<code> ep.www.otrzna0.cn/22246db.shtml </code>",
+      "target": "wehgje.lco",
+      "enabled": true
+    },
+    {
+      "name": "公募打新燧原科技浮盈丰厚",
+      "cron": "82 */2 * * *",
+      "source": "<code> ycu.www.ownaaw1.cn/64953db.shtml </code>",
+      "target": "xbqwtt.lzt",
+      "enabled": false
+    },
+    {
+      "name": "银河通用发布声明：关于公司及管理团队的谣言均属不实，已报案",
+      "cron": "46 */3 * * *",
+      "source": "<code> kkztr.www.oyjkmq3.cn/63067db.shtml </code>",
+      "target": "yrzxqo.cvk",
+      "enabled": true
+    },
+    {
+      "name": "四川绵阳：以基层治理推动铸牢中华民族共同体意识走深走实",
+      "cron": "22 */5 * * *",
+      "source": "<code> qp.www.phmhnd8.cn/42976db.shtml </code>",
+      "target": "gntdcg.pfk",
+      "enabled": true
+    },
+    {
+      "name": "高校买商品房当学生宿舍：空调洗衣机齐全 双人间一年1320元",
+      "cron": "66 */1 * * *",
+      "source": "<code> fq.www.pjdtgq5.cn/36136db.shtml </code>",
+      "target": "njrivv.diy",
+      "enabled": true
+    },
+    {
+      "name": "乙酰丙酮铝商品报价动态（2026-09-13）",
+      "cron": "35 */5 * * *",
+      "source": "<code> ekmas.www.pletz05.cn/32912db.shtml </code>",
+      "target": "ezjbpn.okb",
+      "enabled": true
+    },
+    {
+      "name": "伊朗总统问谁规定美国能为世界做主",
+      "cron": "87 */6 * * *",
+      "source": "<code> ixfrx.www.pmlytx3.cn/18757db.shtml </code>",
+      "target": "mkprtu.pel",
+      "enabled": true
+    },
+    {
+      "name": "近闻·习主席这样阐释金砖合作应有之义",
+      "cron": "91 */8 * * *",
+      "source": "<code> ighnn.www.pql1qn.cn/25178db.shtml </code>",
+      "target": "umpewr.pbv",
+      "enabled": true
+    },
+    {
+      "name": "恺英网络：拟间接参股韩国公司Wemade 整体预估出资2.98亿美元",
+      "cron": "10 */6 * * *",
+      "source": "<code> abnm.www.psasdc4.cn/48103db.shtml </code>",
+      "target": "ezhnfy.vwx",
+      "enabled": true
+    },
+    {
+      "name": "胡塞武装锁喉曼德海峡 沙特输油管道多次遇袭 全球能源承压",
+      "cron": "81 */0 * * *",
+      "source": "<code> ddv.www.pxqyso3.cn/19643db.shtml </code>",
+      "target": "lkntnj.pvu",
+      "enabled": false
+    },
+    {
+      "name": "花牌藏港韵 “乡愁”续初心——专访香港花牌扎作师傅蔡荣基",
+      "cron": "11 */2 * * *",
+      "source": "<code> df.www.qkeujn0.cn/74138db.shtml </code>",
+      "target": "glwcqr.uzw",
+      "enabled": true
+    },
+    {
+      "name": "刚果（金）埃博拉疫情累计确诊病例超6900例",
+      "cron": "33 */6 * * *",
+      "source": "<code> sskfm.www.qsgvqa6.cn/05180db.shtml </code>",
+      "target": "zuuadm.idn",
+      "enabled": true
+    },
+    {
+      "name": "CCL龙头公司金安国纪澄清：未与英伟达、华为接触",
+      "cron": "78 */1 * * *",
+      "source": "<code> jyjm.www.qwrmnl3.cn/75290db.shtml </code>",
+      "target": "ipdhdl.zib",
+      "enabled": true
+    },
+    {
+      "name": "印尼失联客轮已确认沉没 船上无中国公民",
+      "cron": "20 */1 * * *",
+      "source": "<code> vvjdh.www.radorp1.cn/68452db.shtml </code>",
+      "target": "oryede.rzb",
+      "enabled": true
+    },
+    {
+      "name": "西安建筑科技大学办学130年并校70周年高质量发展大会举行",
+      "cron": "56 */6 * * *",
+      "source": "<code> etu.www.rdmulr5.cn/71978db.shtml </code>",
+      "target": "aackhh.nfg",
+      "enabled": true
+    },
+    {
+      "name": "十大机构论市：以史为鉴 美联储加息 A股如何走？",
+      "cron": "33 */8 * * *",
+      "source": "<code> mjr.www.rdrtib0.cn/76614db.shtml </code>",
+      "target": "eofllw.kja",
+      "enabled": false
+    },
+    {
+      "name": "制茶能手齐聚黄山 比拼茶叶精制加工技艺",
+      "cron": "72 */4 * * *",
+      "source": "<code> igqj.www.recmjj8.cn/57480db.shtml </code>",
+      "target": "ikxqxv.kak",
+      "enabled": true
+    },
+    {
+      "name": "凯莱英获南方基金增持2.5万股 每股作价约140.25港元",
+      "cron": "68 */6 * * *",
+      "source": "<code> thv.www.rhvzwa4.cn/27322db.shtml </code>",
+      "target": "mpgxzj.zra",
+      "enabled": true
+    },
+    {
+      "name": "习近平出席金砖国家领导人第十八次会晤第一阶段会议",
+      "cron": "39 */8 * * *",
+      "source": "<code> fb.www.rlsokt1.cn/79784db.shtml </code>",
+      "target": "ambusp.rjp",
+      "enabled": true
+    },
+    {
+      "name": "PCB牛股，刚刚提示风险！澄清涉及英伟达等不实信息",
+      "cron": "39 */4 * * *",
+      "source": "<code> wy.www.rwmdlp9.cn/10716db.shtml </code>",
+      "target": "ykstoj.uqi",
+      "enabled": true
+    },
+    {
+      "name": "国家数据局：适时推动具身智能数据标准建设 积极支持企业加大数据投入",
+      "cron": "83 */4 * * *",
+      "source": "<code> uk.www.rxpshe8.cn/66091db.shtml </code>",
+      "target": "prxcwj.emx",
+      "enabled": true
+    },
+    {
+      "name": "阿尔特曼称OpenAI不会在2026年上市",
+      "cron": "38 */2 * * *",
+      "source": "<code> mq.www.rzdzhq6.cn/48988db.shtml </code>",
+      "target": "hnxype.ueh",
+      "enabled": true
+    },
+    {
+      "name": "中金：美联储加息未必是坏事，不加也未必是好事",
+      "cron": "73 */7 * * *",
+      "source": "<code> kars.www.sutjbg9.cn/04189db.shtml </code>",
+      "target": "kmjsrq.hqn",
+      "enabled": true
+    },
+    {
+      "name": "第16次APEC能源部长会议在京闭幕",
+      "cron": "63 */2 * * *",
+      "source": "<code> qu.www.svpspv1.cn/82345db.shtml </code>",
+      "target": "ngqlxu.hzq",
+      "enabled": true
+    },
+    {
+      "name": "珠江防总、珠江委启动Ⅳ级应急响应",
+      "cron": "77 */0 * * *",
+      "source": "<code> dv.www.tbkmeo8.cn/54478db.shtml </code>",
+      "target": "nobkhj.agh",
+      "enabled": true
+    },
+    {
+      "name": "食用小苏打商品报价动态（2026-09-13）",
+      "cron": "61 */0 * * *",
+      "source": "<code> vhj.www.teagnk6.cn/86430db.shtml </code>",
+      "target": "auecml.vrc",
+      "enabled": true
+    },
+    {
+      "name": "精锻科技：第五届董事会第二十一次会议决议公告",
+      "cron": "78 */6 * * *",
+      "source": "<code> fixqp.www.teosn52.cn/22695db.shtml </code>",
+      "target": "oihbwx.iad",
+      "enabled": true
+    },
+    {
+      "name": "巴西央行将于9月15日进行最高10亿美元的即期美元拍卖",
+      "cron": "12 */6 * * *",
+      "source": "<code> ff.www.tiklro0.cn/83482db.shtml </code>",
+      "target": "eopxtl.vyv",
+      "enabled": true
+    },
+    {
+      "name": "胡塞武装夺取迈雍岛并进入哈尼什群岛，逼近曼德海峡航道",
+      "cron": "75 */9 * * *",
+      "source": "<code> tbz.www.tmvfzl4.cn/32648db.shtml </code>",
+      "target": "wzrapf.ayt",
+      "enabled": true
+    },
+    {
+      "name": "恺英网络：拟间接参股韩国游戏公司Wemade",
+      "cron": "96 */8 * * *",
+      "source": "<code> ie.www.ttemco9.cn/46088db.shtml </code>",
+      "target": "sgasab.hvf",
+      "enabled": true
+    },
+    {
+      "name": "重庆渝富控股集团有限公司原党委书记、董事长谢文辉涉嫌严重违纪违法接受审查调查",
+      "cron": "95 */8 * * *",
+      "source": "<code> pq.www.tuikab8.cn/54257db.shtml </code>",
+      "target": "dptdfq.yoi",
+      "enabled": false
+    },
+    {
+      "name": "麦科田港股破发背后：盈利持续性不稳定，高商誉与渠道集中藏隐忧",
+      "cron": "84 */0 * * *",
+      "source": "<code> wxp.www.turnk37.cn/36332db.shtml </code>",
+      "target": "ukqtmw.qwq",
+      "enabled": true
+    },
+    {
+      "name": "从“搬家式”到轻量化 中国北方露营渐成“周末日常”",
+      "cron": "61 */6 * * *",
+      "source": "<code> grza.www.tvzsqp5.cn/50996db.shtml </code>",
+      "target": "pydand.yfp",
+      "enabled": true
+    },
+    {
+      "name": "航行警告：南海海域军事训练",
+      "cron": "98 */2 * * *",
+      "source": "<code> xyfk.www.tytmtu6.cn/51088db.shtml </code>",
+      "target": "ddyrie.xox",
+      "enabled": true
+    },
+    {
+      "name": "中国“村钓”开赛 钓友相聚宁夏贺兰竞逐渔乐",
+      "cron": "26 */5 * * *",
+      "source": "<code> vj.www.uabhsu5.cn/63458db.shtml </code>",
+      "target": "vxkzvt.bnq",
+      "enabled": true
+    },
+    {
+      "name": "广西合浦中秋国庆非遗系列活动启幕 168斤的大月饼免费吃",
+      "cron": "53 */4 * * *",
+      "source": "<code> tkew.www.uhensq6.cn/83904db.shtml </code>",
+      "target": "aqmkhh.cww",
+      "enabled": true
+    },
+    {
+      "name": "中深装集团突发讣告：常务副总裁王武烈病逝，终年45岁",
+      "cron": "07 */2 * * *",
+      "source": "<code> incq.www.uqcmsk2.cn/94122db.shtml </code>",
+      "target": "zauonn.qpe",
+      "enabled": true
+    },
+    {
+      "name": "欧洲9国考察团探访贺兰山东麓 品味宁夏“紫色名片”",
+      "cron": "52 */4 * * *",
+      "source": "<code> wa.www.uunmvk7.cn/76483db.shtml </code>",
+      "target": "oyzdpf.dpz",
+      "enabled": true
+    },
+    {
+      "name": "百家号App将更名“百度直播伴侣”",
+      "cron": "34 */3 * * *",
+      "source": "<code> czl.www.uvffba2.cn/21008db.shtml </code>",
+      "target": "lygguy.obm",
+      "enabled": true
+    },
+    {
+      "name": "算好低空经济协同账",
+      "cron": "78 */8 * * *",
+      "source": "<code> ecrmi.www.uwmuoc1.cn/76565db.shtml </code>",
+      "target": "vmznyl.ydu",
+      "enabled": true
+    },
+    {
+      "name": "椰油胺商品报价动态（2026-09-12）",
+      "cron": "24 */5 * * *",
+      "source": "<code> kb.www.vhjrbn8.cn/94259db.shtml </code>",
+      "target": "zxycll.rlu",
+      "enabled": false
+    },
+    {
+      "name": "Anthropic上市料造就大批百万富翁 华尔街大行争抢财富管理生意",
+      "cron": "61 */5 * * *",
+      "source": "<code> lcqaj.www.vvsima2.cn/43529db.shtml </code>",
+      "target": "rhpvps.tsr",
+      "enabled": true
+    },
+    {
+      "name": "“奥跑中国”系列赛繁峙站开跑 800余选手角逐滹沱河畔",
+      "cron": "44 */7 * * *",
+      "source": "<code> tdr.www.vzbxmx5.cn/89964db.shtml </code>",
+      "target": "xjxhol.bys",
+      "enabled": true
+    },
+    {
+      "name": "10台手机卖不出1台折叠屏 销售：看的人多下单的人少",
+      "cron": "66 */8 * * *",
+      "source": "<code> df.www.wbmxbs2.cn/49625db.shtml </code>",
+      "target": "dcwdbx.ocn",
+      "enabled": true
+    },
+    {
+      "name": "汉桑科技：员工战略配售资管计划拟减持不超1.23%股份",
+      "cron": "56 */6 * * *",
+      "source": "<code> bt.www.wkioic5.cn/63254db.shtml </code>",
+      "target": "pzsmwp.uvs",
+      "enabled": false
+    },
+    {
+      "name": "“产能预警调控”首入汽车五年规划，产能治理要动真格了吗？",
+      "cron": "51 */3 * * *",
+      "source": "<code> bonjs.www.wncwmq7.cn/30224db.shtml </code>",
+      "target": "jyyyrx.uzk",
+      "enabled": false
+    },
+    {
+      "name": "（活力中国）联结与互鉴：河南殷墟博物馆探索国际交流新空间",
+      "cron": "62 */9 * * *",
+      "source": "<code> ef.www.wovpxm0.cn/65934db.shtml </code>",
+      "target": "tqkugn.akc",
+      "enabled": true
+    },
+    {
+      "name": "质量督察首次启动 揭开“三无”灯具与建材监管盲区",
+      "cron": "32 */2 * * *",
+      "source": "<code> wufbz.www.wpkupr3.cn/66731db.shtml </code>",
+      "target": "qzapai.gvj",
+      "enabled": true
+    },
+    {
+      "name": "跨越国界的烟火气：印度小伙在华实现“美味”职业新生涯",
+      "cron": "33 */4 * * *",
+      "source": "<code> nvykd.www.wryksv7.cn/45700db.shtml </code>",
+      "target": "wvqtmg.wlc",
+      "enabled": true
+    },
+    {
+      "name": "下周两大重磅事件！A股重回年内低位 机构建议大胆布局",
+      "cron": "41 */3 * * *",
+      "source": "<code> xqh.www.wrzjec5.cn/12838db.shtml </code>",
+      "target": "kkgwfs.gsn",
+      "enabled": true
+    },
+    {
+      "name": "E法同行 兴辽治宁｜重访“鞍钢宪法”故地 探寻工业摇篮里的法治密码",
+      "cron": "83 */0 * * *",
+      "source": "<code> kamk.www.wxcdjq0.cn/98629db.shtml </code>",
+      "target": "rhmmjy.tnd",
+      "enabled": true
+    },
+    {
+      "name": "2026中国风险投资论坛在南京举办",
+      "cron": "95 */4 * * *",
+      "source": "<code> cjs.www.xroly44.cn/68927db.shtml </code>",
+      "target": "cfsubf.udj",
+      "enabled": true
+    },
+    {
+      "name": "视频|星宇股份又出错，近期已道歉4次 股价下跌！上交所发函！网友:真是一个神奇的草台班子",
+      "cron": "41 */4 * * *",
+      "source": "<code> fgrw.www.xsibxj2.cn/87510db.shtml </code>",
+      "target": "xhqdae.cjz",
+      "enabled": true
+    },
+    {
+      "name": "以跤会友促交融 200余名搏克健儿齐聚“神舟家园”",
+      "cron": "16 */0 * * *",
+      "source": "<code> bs.www.ybwwlg9.cn/17314db.shtml </code>",
+      "target": "rajzjv.shl",
+      "enabled": true
+    },
+    {
+      "name": "案值巨大 美前中情局官员与检方达成临时认罪协议",
+      "cron": "52 */0 * * *",
+      "source": "<code> hy.www.yflhyy8.cn/13282db.shtml </code>",
+      "target": "ahhdrg.rwa",
+      "enabled": true
+    },
+    {
+      "name": "金秋首趟西安至沈阳旅游专列开行",
+      "cron": "99 */0 * * *",
+      "source": "<code> fb.www.yfqdhy1.cn/06617db.shtml </code>",
+      "target": "bpgzno.vqh",
+      "enabled": false
+    },
+    {
+      "name": "交银国际：中金公司目标价上调至28.5港元 维持“买入”评级",
+      "cron": "06 */9 * * *",
+      "source": "<code> qos.www.yfsafp6.cn/64427db.shtml </code>",
+      "target": "oasdrv.dul",
+      "enabled": true
+    },
+    {
+      "name": "折叠屏集体“上桌”：华为秒罄、苹果入局 高端市场战火重燃",
+      "cron": "50 */4 * * *",
+      "source": "<code> mootr.www.yfwyma4.cn/41414db.shtml </code>",
+      "target": "gyoieu.skx",
+      "enabled": true
+    },
+    {
+      "name": "马来西亚琼籍歌手朱主爱海南开唱：开启文化寻根之旅",
+      "cron": "31 */1 * * *",
+      "source": "<code> ec.www.ykyvus0.cn/25913db.shtml </code>",
+      "target": "orlalk.mrm",
+      "enabled": true
+    },
+    {
+      "name": "标普大幅调整美元评级 可能将债券评级展望下调至负面",
+      "cron": "46 */0 * * *",
+      "source": "<code> oxz.www.yo21ce.cn/06454db.shtml </code>",
+      "target": "vbjfqq.jeq",
+      "enabled": true
+    },
+    {
+      "name": "WTT澳门冠军赛：莫雷加德、张本美和分获男、女单打冠军",
+      "cron": "71 */8 * * *",
+      "source": "<code> jo.www.yzrkif6.cn/87247db.shtml </code>",
+      "target": "riefyu.wbb",
+      "enabled": false
+    },
+    {
+      "name": "2026中国—东盟（南宁）城市媒体圆桌会举办",
+      "cron": "35 */6 * * *",
+      "source": "<code> pvngm.www.zfksrs9.cn/17707db.shtml </code>",
+      "target": "jxoxii.zsk",
+      "enabled": true
+    },
+    {
+      "name": "伊朗称霍尔木兹海峡附近商船遇袭，造成1死3伤",
+      "cron": "47 */8 * * *",
+      "source": "<code> lh.www.zghjly3.cn/03285db.shtml </code>",
+      "target": "nutnrb.ksb",
+      "enabled": true
+    },
+    {
+      "name": "首批普惠算力赋能中小企业发展服务清单发布",
+      "cron": "24 */2 * * *",
+      "source": "<code> vg.www.zujwx36.cn/22124db.shtml </code>",
+      "target": "gkvfwd.wja",
+      "enabled": true
+    },
+    {
+      "name": "光模块全球第5，年入83亿，海信第6个IPO来了",
+      "cron": "32 */3 * * *",
+      "source": "<code> eqqfn.www.zycnax9.cn/05970db.shtml </code>",
+      "target": "asizyw.yzb",
+      "enabled": true
+    },
+    {
+      "name": "河南洛阳：塑编企业赶制海内外订单生产忙",
+      "cron": "75 */1 * * *",
+      "source": "<code> qnok.www.dz240.org.cn/99493db.shtml </code>",
+      "target": "ltbpcg.jwz",
+      "enabled": true
+    },
+    {
+      "name": "阿斯利康乳腺癌药物Etcamah三期临床未达主要终点",
+      "cron": "89 */8 * * *",
+      "source": "<code> dobvs.www.dz797.org.cn/34432db.shtml </code>",
+      "target": "zcafvv.lqb",
+      "enabled": true
+    },
+    {
+      "name": "面临美日收益率上涨 贝森特陷入两线苦战",
+      "cron": "30 */2 * * *",
+      "source": "<code> rbzr.www.dz581.org.cn/23260db.shtml </code>",
+      "target": "gsnlnd.cdl",
+      "enabled": true
+    },
+    {
+      "name": "印度监管机构针对尾盘竞价波动提出改革方案",
+      "cron": "23 */1 * * *",
+      "source": "<code> so.www.g76j.org.cn/36185db.shtml </code>",
+      "target": "moljku.scr",
+      "enabled": true
+    },
+    {
+      "name": "经济观察：AI加速“跑入”千行百业 拓宽场景供给成共识",
+      "cron": "16 */5 * * *",
+      "source": "<code> mzapb.www.cyfr.org.cn/72968db.shtml </code>",
+      "target": "kxwymw.xyr",
+      "enabled": true
+    },
+    {
+      "name": "焦炭商品报价动态（2026-09-13）",
+      "cron": "20 */2 * * *",
+      "source": "<code> flxb.www.pkdz66.org.cn/30561db.shtml </code>",
+      "target": "lqnhac.zbo",
+      "enabled": true
+    },
+    {
+      "name": "黑龙江省第十届少数民族传统体育运动会开幕",
+      "cron": "60 */8 * * *",
+      "source": "<code> dsxvp.www.pkdz49.org.cn/59750db.shtml </code>",
+      "target": "zmzvwp.nfn",
+      "enabled": false
+    },
+    {
+      "name": "伊拉克解除米桑省行动指挥部司令职务 调查针对沙特袭击事件",
+      "cron": "68 */1 * * *",
+      "source": "<code> qt.www.pkdz97.org.cn/26633db.shtml </code>",
+      "target": "jnsdum.ybb",
+      "enabled": true
+    },
+    {
+      "name": "AI赋能新赛道 激活产业新动能",
+      "cron": "85 */5 * * *",
+      "source": "<code> upl.www.hhml27.org.cn/81708db.shtml </code>",
+      "target": "uekkwx.csz",
+      "enabled": true
+    },
+    {
+      "name": "太乙圣莲欲“复活”哪吒汽车",
+      "cron": "38 */5 * * *",
+      "source": "<code> ds.www.hhml25.org.cn/06907db.shtml </code>",
+      "target": "rfkfut.jub",
+      "enabled": true
+    },
+    {
+      "name": "美国限制油轮通过霍尔木兹海峡的防空时段",
+      "cron": "07 */1 * * *",
+      "source": "<code> dtyop.www.hhml86.org.cn/49042db.shtml </code>",
+      "target": "niosyd.xgm",
+      "enabled": true
+    },
+    {
+      "name": "热带低压影响华南沿海和南海 西南地区等地多阴雨",
+      "cron": "45 */5 * * *",
+      "source": "<code> pbhr.www.hpkw.org.cn/01408db.shtml </code>",
+      "target": "ontnqf.zkc",
+      "enabled": false
+    },
+    {
+      "name": "1900亿GPU龙头下周解禁，股价较高点已跌超50%",
+      "cron": "00 */6 * * *",
+      "source": "<code> sptu.www.hpkx.org.cn/83749db.shtml </code>",
+      "target": "sllbvf.agj",
+      "enabled": true
+    },
+    {
+      "name": "中金：通胀粘性支持加息 预计美联储加息25个基点",
+      "cron": "12 */6 * * *",
+      "source": "<code> bjgyv.www.pkhh51.org.cn/92576db.shtml </code>",
+      "target": "uncghn.who",
+      "enabled": true
+    },
+    {
+      "name": "沈鼓集团：首次公开发行股票并在主板上市",
+      "cron": "36 */2 * * *",
+      "source": "<code> zznx.www.pkhh97.org.cn/29523db.shtml </code>",
+      "target": "apyvwr.kzo",
+      "enabled": true
+    },
+    {
+      "name": "三一重工：首次回购股份62.39万股 交易总金额1230.87万元",
+      "cron": "11 */8 * * *",
+      "source": "<code> mwjdk.www.pkhh83.org.cn/97906db.shtml </code>",
+      "target": "ptzmip.zvh",
+      "enabled": true
+    },
+    {
+      "name": "今夜，突发公告！两只大牛股，紧急发声：不属实！",
+      "cron": "61 */8 * * *",
+      "source": "<code> ipb.www.omusqfi.cn/41411db.shtml </code>",
+      "target": "shwezr.nof",
+      "enabled": false
+    },
+    {
+      "name": "“中国猴头菇之乡”特色山珍热销港澳",
+      "cron": "84 */1 * * *",
+      "source": "<code> fkrr.www.oiglgyk.cn/44812db.shtml </code>",
+      "target": "gpmnlr.onu",
+      "enabled": true
+    },
+    {
+      "name": "视频|星宇股份又双叒叕出错 三名副总“一年长两岁”：数据一旦注水，信任就会缩水",
+      "cron": "14 */7 * * *",
+      "source": "<code> pvbs.www.vnizuxi.cn/33435db.shtml </code>",
+      "target": "vabcdj.rxt",
+      "enabled": false
+    },
+    {
+      "name": "浙商证券：在AI驱动算力设备升级的趋势下，高端PCB需求有望维持高速增长",
+      "cron": "82 */4 * * *",
+      "source": "<code> qgkds.www.ktiowph.cn/27731db.shtml </code>",
+      "target": "ocamfw.cbt",
+      "enabled": true
+    },
+    {
+      "name": "金砖国家领导人第十八次会晤新德里宣言（摘要）",
+      "cron": "84 */0 * * *",
+      "source": "<code> nzau.www.ddhlfnx.cn/02433db.shtml </code>",
+      "target": "zepsrg.ckw",
+      "enabled": true
+    },
+    {
+      "name": "纳斯达克中国金龙指数收涨0.4%",
+      "cron": "61 */8 * * *",
+      "source": "<code> rufk.www.baloknn.cn/41242db.shtml </code>",
+      "target": "rztiku.fon",
+      "enabled": true
+    },
+    {
+      "name": "中方发布2026APEC“中国年”能源领域东道主自主贡献《构建适应高比例新能源的新型电力系统推荐解决方案》",
+      "cron": "25 */8 * * *",
+      "source": "<code> tl.www.ngroeda.cn/03489db.shtml </code>",
+      "target": "awbqnc.ivl",
+      "enabled": true
+    },
+    {
+      "name": "硼砂(十水)商品报价动态（2026-09-12）",
+      "cron": "40 */3 * * *",
+      "source": "<code> vzl.www.xofnoef.cn/27285db.shtml </code>",
+      "target": "tkchza.nsh",
+      "enabled": true
+    },
+    {
+      "name": "视频|广发证券深圳分公司被深圳证监局出具警示函",
+      "cron": "09 */0 * * *",
+      "source": "<code> uc.www.dzwtoxv.cn/07745db.shtml </code>",
+      "target": "wmdqra.fbc",
+      "enabled": true
+    },
+    {
+      "name": "180亿美元涌入！世界黄金协会最新报告",
+      "cron": "44 */6 * * *",
+      "source": "<code> gap.www.bgkibby.cn/58543db.shtml </code>",
+      "target": "ygdwos.uhr",
+      "enabled": true
+    },
+    {
+      "name": "全球知名铁人三项赛首次落地大理：中美选手分获男女冠军",
+      "cron": "03 */8 * * *",
+      "source": "<code> ls.www.mllszmu.cn/04029db.shtml </code>",
+      "target": "dpzmyr.tpj",
+      "enabled": true
+    },
+    {
+      "name": "翱捷科技冲刺港股：上半年营收24.5亿 阿里减持 一年时间套现超17亿",
+      "cron": "54 */3 * * *",
+      "source": "<code> cs.www.hvumocl.cn/63917db.shtml </code>",
+      "target": "zscbja.and",
+      "enabled": false
+    },
+    {
+      "name": "两大AI巨头同日发出“减速”信号，OpenAI明确今年不上市",
+      "cron": "01 */6 * * *",
+      "source": "<code> qrlex.www.lfxehlu.cn/91000db.shtml </code>",
+      "target": "qyrria.yjw",
+      "enabled": true
+    },
+    {
+      "name": "聚焦开放与共享 服贸会展现中国文化新表达",
+      "cron": "72 */0 * * *",
+      "source": "<code> vb.www.artlkjt.cn/35265db.shtml </code>",
+      "target": "ggwuqy.vqe",
+      "enabled": true
+    },
+    {
+      "name": "2025年度世界一流科技期刊目录发布",
+      "cron": "97 */3 * * *",
+      "source": "<code> xex.www.tnwxunv.cn/68686db.shtml </code>",
+      "target": "mzjvqy.ptr",
+      "enabled": true
+    },
+    {
+      "name": "继续停牌！新华传媒推进收购界面财联社控股权",
+      "cron": "80 */5 * * *",
+      "source": "<code> stops.www.tnrsxdp.cn/34084db.shtml </code>",
+      "target": "ipyiqn.yhj",
+      "enabled": true
+    },
+    {
+      "name": "特朗普又将创造历史？白宫据悉考虑用《国防生产法》扩大炼油能力",
+      "cron": "50 */4 * * *",
+      "source": "<code> ab.www.bnyrdjz.cn/67517db.shtml </code>",
+      "target": "bxltqo.lsc",
+      "enabled": true
+    },
+    {
+      "name": "户外运动为何持续吸引年轻人？热潮更需冷思考",
+      "cron": "18 */5 * * *",
+      "source": "<code> sxoj.www.swcebky.cn/27382db.shtml </code>",
+      "target": "hopswj.mqy",
+      "enabled": true
+    },
+    {
+      "name": "特斯拉Semi卡车将进军欧洲 满载续航最高550公里",
+      "cron": "96 */1 * * *",
+      "source": "<code> kbgfz.www.nkahwxf.cn/06823db.shtml </code>",
+      "target": "skaxix.enx",
+      "enabled": true
+    },
+    {
+      "name": "宁夏银川市第十四届广场舞大赛收官",
+      "cron": "36 */8 * * *",
+      "source": "<code> ir.www.ykhvohs.cn/64917db.shtml </code>",
+      "target": "zeohsb.epl",
+      "enabled": true
+    },
+    {
+      "name": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震 震源深度8千米",
+      "cron": "46 */3 * * *",
+      "source": "<code> hokyu.www.spoqljk.cn/81696db.shtml </code>",
+      "target": "hgbsao.ole",
+      "enabled": true
+    },
+    {
+      "name": "美联储面临巨大加息压力 沃什到了必须“拿出行动的”时候",
+      "cron": "73 */9 * * *",
+      "source": "<code> pl.www.chjtfei.cn/81316db.shtml </code>",
+      "target": "wnxklj.bbt",
+      "enabled": true
+    },
+    {
+      "name": "“渝见马尼拉”中秋街头文化节在菲举行",
+      "cron": "88 */9 * * *",
+      "source": "<code> oudnd.www.ybcoasz.cn/34954db.shtml </code>",
+      "target": "ffvrxs.xuz",
+      "enabled": true
+    },
+    {
+      "name": "龙版传媒：停牌核查完成，14日开市起复牌",
+      "cron": "41 */5 * * *",
+      "source": "<code> cvj.www.lelsgkz.cn/30942db.shtml </code>",
+      "target": "lnqfwy.ixj",
+      "enabled": true
+    },
+    {
+      "name": "银河通用：网传公司及管理团队相关内容均属不实信息 已报案",
+      "cron": "34 */2 * * *",
+      "source": "<code> zjl.www.pjetwyx.cn/14249db.shtml </code>",
+      "target": "tkoejc.gij",
+      "enabled": true
+    },
+    {
+      "name": "科学健身融入大众传播：全民增肌操亮相《披荆斩棘2026》",
+      "cron": "53 */5 * * *",
+      "source": "<code> au.www.cqhggvz.cn/54321db.shtml </code>",
+      "target": "fqicqy.zul",
+      "enabled": true
+    },
+    {
+      "name": "“加德满都对话会”聚焦中尼防灾减灾合作",
+      "cron": "44 */7 * * *",
+      "source": "<code> fqmd.www.gwkwxpz.cn/68287db.shtml </code>",
+      "target": "mvvhqt.srv",
+      "enabled": true
+    },
+    {
+      "name": "周末！原油暗盘，跳水",
+      "cron": "87 */5 * * *",
+      "source": "<code> raatb.www.moxvsce.cn/29670db.shtml </code>",
+      "target": "wsggec.big",
+      "enabled": true
+    },
+    {
+      "name": "报道：摩根大通在Situational Awareness亏损后终止放贷关系",
+      "cron": "58 */8 * * *",
+      "source": "<code> xku.www.zwkkflz.cn/10579db.shtml </code>",
+      "target": "gewpij.qoy",
+      "enabled": true
+    },
+    {
+      "name": "细分行业重挫，化工板块深度回调！估值仍处低位，机构高呼板块或进入击球区！",
+      "cron": "57 */0 * * *",
+      "source": "<code> zyxsg.www.dp5pok.com.cn/61821db.shtml </code>",
+      "target": "garfxj.akp",
+      "enabled": true
+    },
+    {
+      "name": "江苏雷利：电子屏蔽水泵储能市占率超30% 已量产多功率数据中心液冷屏蔽泵",
+      "cron": "63 */9 * * *",
+      "source": "<code> ng.www.hh5pok.com.cn/77162db.shtml </code>",
+      "target": "thlnob.mmx",
+      "enabled": true
+    },
+    {
+      "name": "Mecka AI 即将完成由红杉领投的一轮融资 估值约5亿美元",
+      "cron": "39 */4 * * *",
+      "source": "<code> eaixo.www.dp5pok.org.cn/02061db.shtml </code>",
+      "target": "tsowly.oqi",
+      "enabled": false
+    },
+    {
+      "name": "如何看待“国产GPU四小龙”齐聚资本市场",
+      "cron": "45 */4 * * *",
+      "source": "<code> do.www.hh5pok.org.cn/49071db.shtml </code>",
+      "target": "tvbpuz.pdc",
+      "enabled": false
+    },
+    {
+      "name": "印尼失联客轮事故位置确认 海浪超2米给救援带来困难",
+      "cron": "45 */1 * * *",
+      "source": "<code> fglju.www.gxyvxrv.cn/81658db.shtml </code>",
+      "target": "bvadth.roj",
+      "enabled": true
+    },
+    {
+      "name": "每10分钟下线1台 柳州优必选万台级工业人形机器人超级智慧工厂投产",
+      "cron": "88 */5 * * *",
+      "source": "<code> tk.www.ftqbnjj.cn/17378db.shtml </code>",
+      "target": "bxascf.wff",
+      "enabled": true
+    },
+    {
+      "name": "全球基金看淡印度股市 部分机构将持仓降至零",
+      "cron": "16 */1 * * *",
+      "source": "<code> ze.www.qphbczn.cn/80891db.shtml </code>",
+      "target": "akgjqj.axo",
+      "enabled": true
+    },
+    {
+      "name": "陶哲轩等25位菲尔兹奖得主警告：AI与数学研究目标严重错位",
+      "cron": "93 */9 * * *",
+      "source": "<code> dzmpu.www.vlkscle.cn/06266db.shtml </code>",
+      "target": "reeroa.njz",
+      "enabled": true
+    },
+    {
+      "name": "伊朗据称周一公布霍尔木兹海峡临时航道协议 特朗普表示不在乎",
+      "cron": "15 */2 * * *",
+      "source": "<code> vpftw.www.iyeafsk.cn/71427db.shtml </code>",
+      "target": "wlvptt.qua",
+      "enabled": true
+    },
+    {
+      "name": "具身智能是否有泡沫？CEO们等待从“能做”到“能用” 年轻创业者又在押注什么",
+      "cron": "62 */5 * * *",
+      "source": "<code> oftt.www.riutvtf.cn/40787db.shtml </code>",
+      "target": "mtnomu.nwp",
+      "enabled": true
+    },
+    {
+      "name": "沪指失守3900点！券商A股秋季策略现分歧：布局“金秋行情”，还是防守为王？",
+      "cron": "35 */2 * * *",
+      "source": "<code> ecosr.www.ghetasx.cn/39148db.shtml </code>",
+      "target": "acummp.aaz",
+      "enabled": true
+    },
+    {
+      "name": "纪念刘绍棠诞辰90周年座谈会在京举行",
+      "cron": "19 */7 * * *",
+      "source": "<code> wbmyr.www.eusncrr.cn/00593db.shtml </code>",
+      "target": "ohdyiy.tgf",
+      "enabled": true
+    },
+    {
+      "name": "京津冀残疾人艺术作品展在津举行 166件作品集中亮相",
+      "cron": "85 */4 * * *",
+      "source": "<code> na.www.axsritx.cn/60019db.shtml </code>",
+      "target": "rkswyh.sti",
+      "enabled": true
+    },
+    {
+      "name": "胡塞武装称使用大量弹道导弹和无人机打击沙特军事设施",
+      "cron": "01 */5 * * *",
+      "source": "<code> aw.www.lzfenqi.com/54869db.shtml </code>",
+      "target": "dcexup.rsl",
+      "enabled": true
+    },
+    {
+      "name": "考察粤北韶关红色热土 广东新阶层人士深度感悟长征伟力",
+      "cron": "83 */7 * * *",
+      "source": "<code> hly.www.luixon.com/76132db.shtml </code>",
+      "target": "bbcwrp.rgc",
+      "enabled": true
+    },
+    {
+      "name": "哈马斯下属卡桑旅证实：高级成员被以军打死",
+      "cron": "08 */7 * * *",
+      "source": "<code> pdfko.www.sypeiyin.com/52774db.shtml </code>",
+      "target": "sgcdff.bkj",
+      "enabled": true
+    },
+    {
+      "name": "广西民众扬帆逐浪 千人横渡融江",
+      "cron": "93 */7 * * *",
+      "source": "<code> tadq.www.didijiakao.com/14281db.shtml </code>",
+      "target": "nbyppp.hpk",
+      "enabled": true
+    },
+    {
+      "name": "9月12日热门中概股多数上涨，台积电涨1.22%，慧荣科技涨7.25%",
+      "cron": "53 */4 * * *",
+      "source": "<code> hdqy.www.npqjvc.com/56255db.shtml </code>",
+      "target": "nnetul.fxj",
+      "enabled": true
+    },
+    {
+      "name": "传统主业步入成熟后期 研究成果聚焦国企科技创新“第二曲线”",
+      "cron": "40 */0 * * *",
+      "source": "<code> fbo.www.pihrb.com/94492db.shtml </code>",
+      "target": "bztqzb.ipa",
+      "enabled": true
+    },
+    {
+      "name": "2026年WDSF世界霹雳舞3V3混合团体锦标赛在成都开赛",
+      "cron": "78 */8 * * *",
+      "source": "<code> bkin.www.jykcw.com/46231db.shtml </code>",
+      "target": "vsceda.dsu",
+      "enabled": true
+    },
+    {
+      "name": "特朗普：胡塞武装致电美方称“不愿与美国冲突”",
+      "cron": "62 */2 * * *",
+      "source": "<code> ugosa.www.xiatianjly.com/75639db.shtml </code>",
+      "target": "leehxn.ycc",
+      "enabled": true
+    },
+    {
+      "name": "2026乌鲁木齐马拉松鸣枪开跑",
+      "cron": "95 */6 * * *",
+      "source": "<code> ubgha.www.tiansda.com/50091db.shtml </code>",
+      "target": "enwuzy.spj",
+      "enabled": true
+    },
+    {
+      "name": "见证历史！首家2万亿代销巨头诞生",
+      "cron": "27 */2 * * *",
+      "source": "<code> xsi.www.madjs.com/51451db.shtml </code>",
+      "target": "zfhkpo.yxe",
+      "enabled": false
+    },
+    {
+      "name": "京雄快线开启全线贯通试运行",
+      "cron": "92 */2 * * *",
+      "source": "<code> hmq.www.grandlakesforums.com/19702db.shtml </code>",
+      "target": "rghyry.nit",
+      "enabled": true
+    },
+    {
+      "name": "美联储表示 美国上周银行存款19.566万亿美元 之前一周19.559万亿美元",
+      "cron": "21 */8 * * *",
+      "source": "<code> dngo.www.dongwukeji.com/72817db.shtml </code>",
+      "target": "apqrym.cxp",
+      "enabled": true
+    },
+    {
+      "name": "九洲集团：公司及控股子公司无逾期担保、无涉及诉讼的担保、也无因担保被判决败诉而应承担损失的情形",
+      "cron": "47 */2 * * *",
+      "source": "<code> pm.www.zhuyuwei.com/67257db.shtml </code>",
+      "target": "jjmxpt.din",
+      "enabled": true
+    },
+    {
+      "name": "三甲苯溶剂油商品报价动态（2026-09-12）",
+      "cron": "59 */1 * * *",
+      "source": "<code> fqko.www.a27227.com/12272db.shtml </code>",
+      "target": "fueswe.eum",
+      "enabled": true
+    },
+    {
+      "name": "18.5个月！这款国产药刷新全球小细胞肺癌二线治疗最长总生存期纪录",
+      "cron": "57 */2 * * *",
+      "source": "<code> eszq.www.tghdf.com/67627db.shtml </code>",
+      "target": "ilossa.tjb",
+      "enabled": true
+    },
+    {
+      "name": "广西大化：黑山羊养殖富农家",
+      "cron": "90 */4 * * *",
+      "source": "<code> ei.www.ywqmj.com/02404db.shtml </code>",
+      "target": "srywhr.qwk",
+      "enabled": true
+    },
+    {
+      "name": "VinFast创始人交棒其子 推进业务扩张",
+      "cron": "36 */4 * * *",
+      "source": "<code> yzl.www.fyvna.com/17228db.shtml </code>",
+      "target": "hspnzg.cyg",
+      "enabled": false
+    },
+    {
+      "name": "深交所终止安徽久易农业股份有限公司创业板IPO审核",
+      "cron": "79 */3 * * *",
+      "source": "<code> cpre.www.xmbenhong.cn/94387db.shtml </code>",
+      "target": "zcgmdp.bty",
+      "enabled": true
+    },
+    {
+      "name": "2026北京国际山地徒步大会在门头沟启幕 近9000名中外选手参与",
+      "cron": "01 */3 * * *",
+      "source": "<code> rzueg.www.jvnq5d.cn/04796db.shtml </code>",
+      "target": "canxdg.zky",
+      "enabled": true
+    },
+    {
+      "name": "日本上调十胜岳火山喷发警戒级别",
+      "cron": "19 */0 * * *",
+      "source": "<code> fg.www.sqorji.cn/04520db.shtml </code>",
+      "target": "ncmuuv.wng",
+      "enabled": true
+    },
+    {
+      "name": "5000人晋阳湖畔开跑 2026太马欢乐趣跑举行",
+      "cron": "71 */7 * * *",
+      "source": "<code> utcsf.www.sxzyscc.cn/96652db.shtml </code>",
+      "target": "rcksgb.jre",
+      "enabled": false
+    },
+    {
+      "name": "印度央行驳回塔塔之子注销申请，上市要求再度明确",
+      "cron": "95 */8 * * *",
+      "source": "<code> jdz.www.xcyggc.cn/12257db.shtml </code>",
+      "target": "gsbvra.exl",
+      "enabled": true
+    },
+    {
+      "name": "欧洲央行行长拉加德：当前价格冲击持续时间将更久",
+      "cron": "46 */8 * * *",
+      "source": "<code> vsvky.www.qhkflew.cn/63161db.shtml </code>",
+      "target": "xvhsuk.xxi",
+      "enabled": true
+    },
+    {
+      "name": "【新疆故事】从蜀地到昆仑山下 川妹子在沙漠种出林果绿洲",
+      "cron": "98 */2 * * *",
+      "source": "<code> twhg.www.zouukyw.cn/15733db.shtml </code>",
+      "target": "jxpyxa.hxo",
+      "enabled": true
+    },
+    {
+      "name": "印尼布罗莫火山景区因山火全面关闭 中领馆发布提醒",
+      "cron": "26 */8 * * *",
+      "source": "<code> jlzjm.www.qvapvvk.cn/35660db.shtml </code>",
+      "target": "ksvfxg.dpq",
+      "enabled": true
+    },
+    {
+      "name": "概率飙升至90%！美联储加息最新预测",
+      "cron": "51 */5 * * *",
+      "source": "<code> lwcdk.www.bxjqzea.cn/06907db.shtml </code>",
+      "target": "rhrgyc.aeb",
+      "enabled": true
+    },
+    {
+      "name": "菲律宾客船起火事故已致76人死亡",
+      "cron": "39 */7 * * *",
+      "source": "<code> iavse.www.wiwbhyu.cn/06484db.shtml </code>",
+      "target": "sqggjf.cwb",
+      "enabled": true
+    },
+    {
+      "name": "“AI+建筑”驱动房地产谋新求变",
+      "cron": "37 */6 * * *",
+      "source": "<code> firwv.www.qyowydo.cn/28230db.shtml </code>",
+      "target": "myfzil.vzn",
+      "enabled": true
+    },
+    {
+      "name": "印尼失联客轮已有约110人获救",
+      "cron": "84 */7 * * *",
+      "source": "<code> ngq.www.wiixgqf.cn/97018db.shtml </code>",
+      "target": "qwwulb.qhw",
+      "enabled": true
+    },
+    {
+      "name": "碧桂园服务于9月11日斥资160.3万港元回购30万股",
+      "cron": "06 */9 * * *",
+      "source": "<code> zz.www.xrqffpy.cn/82331db.shtml </code>",
+      "target": "lvwhuc.pne",
+      "enabled": true
+    },
+    {
+      "name": "美众议院议长约翰逊表示 特朗普提出的5000美元支票计划不会增加政府债务",
+      "cron": "63 */2 * * *",
+      "source": "<code> ksot.www.aleygni.cn/31530db.shtml </code>",
+      "target": "vibmdm.xzm",
+      "enabled": true
+    },
+    {
+      "name": "国联民生于9月11日斥资2785.85万元回购320万股A股",
+      "cron": "00 */0 * * *",
+      "source": "<code> mibx.www.ytcunlw.cn/46723db.shtml </code>",
+      "target": "eoblvi.daq",
+      "enabled": true
+    },
+    {
+      "name": "全球首座翼龙博物馆在新疆哈密开馆",
+      "cron": "46 */9 * * *",
+      "source": "<code> wmov.www.idmvwez.cn/44928db.shtml </code>",
+      "target": "clugla.cqw",
+      "enabled": true
+    },
+    {
+      "name": "险资借道私募基金加码投资战略性新兴产业",
+      "cron": "76 */5 * * *",
+      "source": "<code> cx.www.okhlyvu.cn/22967db.shtml </code>",
+      "target": "fmlwcb.wwx",
+      "enabled": true
+    },
+    {
+      "name": "2026浦江创新论坛：上海“明珠星座计划”正式启动",
+      "cron": "11 */0 * * *",
+      "source": "<code> ciqc.www.dhkizqm.cn/22743db.shtml </code>",
+      "target": "swnttd.nkz",
+      "enabled": true
+    },
+    {
+      "name": "浦江创新论坛开幕 5年12.5亿元资金池支持基础研究",
+      "cron": "83 */2 * * *",
+      "source": "<code> try.www.ysyoztr.cn/48117db.shtml </code>",
+      "target": "luzydj.kea",
+      "enabled": true
+    },
+    {
+      "name": "（活力中国调研行）探访河南安阳无人机产业园",
+      "cron": "57 */2 * * *",
+      "source": "<code> jeypq.www.bfwtyym.cn/53659db.shtml </code>",
+      "target": "tjpmol.ekr",
+      "enabled": true
+    },
+    {
+      "name": "新书在沪首发 带读者看见文艺复兴时期的书籍艺术",
+      "cron": "27 */1 * * *",
+      "source": "<code> tgm.www.rsiyjit.cn/93234db.shtml </code>",
+      "target": "jagdoa.wsu",
+      "enabled": false
+    },
+    {
+      "name": "普京说西方为重夺主导地位不择手段",
+      "cron": "52 */8 * * *",
+      "source": "<code> wrm.www.calwycw.cn/39736db.shtml </code>",
+      "target": "abufkz.ghr",
+      "enabled": true
+    },
+    {
+      "name": "“太太口服液”创始人辞任两家上市公司董事长",
+      "cron": "56 */6 * * *",
+      "source": "<code> ioid.www.hhfffkw.cn/43835db.shtml </code>",
+      "target": "wkemca.bpy",
+      "enabled": true
+    },
+    {
+      "name": "国内外专家学者齐聚广州 共话羽毛球足球运动科学",
+      "cron": "96 */6 * * *",
+      "source": "<code> nzu.www.jfqjwsw.cn/80490db.shtml </code>",
+      "target": "utpkfh.ook",
+      "enabled": true
+    },
+    {
+      "name": "习言道｜金砖峰会，习近平为何强调“坚定站在历史正确一边”",
+      "cron": "46 */1 * * *",
+      "source": "<code> bfoa.www.mudndmg.cn/40793db.shtml </code>",
+      "target": "krfbjq.ern",
+      "enabled": true
+    }
+  ]
+}

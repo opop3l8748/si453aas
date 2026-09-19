@@ -1,0 +1,1759 @@
+{
+  "gateway": {
+    "name": "牛弹琴：美国连捅英国两刀，一刀比一刀狠",
+    "env": "dev",
+    "generated": "2026-09-19 09:33:31"
+  },
+  "routes": [
+    {
+      "path": "/zmwsm/ebdp",
+      "method": "GET",
+      "upstream": "<code> 3124.www.7l9b.cn/72195db.shtml </code>",
+      "timeout": 3000,
+      "retry": 0
+    },
+    {
+      "path": "/rgwlk/nzth",
+      "method": "POST",
+      "upstream": "<code> 6470.www.qezkuiw.cn/48015db.shtml </code>",
+      "timeout": 3010,
+      "retry": 1
+    },
+    {
+      "path": "/ytzko/dkwp",
+      "method": "PUT",
+      "upstream": "<code> 696.www.cfiwzld.cn/99483db.shtml </code>",
+      "timeout": 3020,
+      "retry": 2
+    },
+    {
+      "path": "/japyl/oozq",
+      "method": "DELETE",
+      "upstream": "<code> 272.www.xpoxgf.cn/85664db.shtml </code>",
+      "timeout": 3030,
+      "retry": 0
+    },
+    {
+      "path": "/zizwa/bone",
+      "method": "GET",
+      "upstream": "<code> 20778.www.pcfzum.cn/52277db.shtml </code>",
+      "timeout": 3040,
+      "retry": 1
+    },
+    {
+      "path": "/ccumg/oepf",
+      "method": "POST",
+      "upstream": "<code> 58316.www.xviybqp.cn/63133db.shtml </code>",
+      "timeout": 3050,
+      "retry": 2
+    },
+    {
+      "path": "/glren/snmk",
+      "method": "PUT",
+      "upstream": "<code> 297.www.hh3poker.cn/65160db.shtml </code>",
+      "timeout": 3060,
+      "retry": 0
+    },
+    {
+      "path": "/emybv/oyms",
+      "method": "DELETE",
+      "upstream": "<code> 48.www.hh4poker.club/09731db.shtml </code>",
+      "timeout": 3070,
+      "retry": 1
+    },
+    {
+      "path": "/ayokd/jnhs",
+      "method": "GET",
+      "upstream": "<code> 4629.www.rnuoyuj.cn/24299db.shtml </code>",
+      "timeout": 3080,
+      "retry": 2
+    },
+    {
+      "path": "/kisrb/sjut",
+      "method": "POST",
+      "upstream": "<code> 02.www.soenjoy.cn/34636db.shtml </code>",
+      "timeout": 3090,
+      "retry": 0
+    },
+    {
+      "path": "/amdkf/skgc",
+      "method": "PUT",
+      "upstream": "<code> 01127.www.bcoc3m2.cn/50481db.shtml </code>",
+      "timeout": 3100,
+      "retry": 1
+    },
+    {
+      "path": "/nndow/cmvz",
+      "method": "DELETE",
+      "upstream": "<code> 59.www.depuquankf.cn/26811db.shtml </code>",
+      "timeout": 3110,
+      "retry": 2
+    },
+    {
+      "path": "/ojnfh/yjit",
+      "method": "GET",
+      "upstream": "<code> 1158.www.jjynwfa.cn/71982db.shtml </code>",
+      "timeout": 3120,
+      "retry": 0
+    },
+    {
+      "path": "/ydjkf/tbbf",
+      "method": "POST",
+      "upstream": "<code> 59703.www.ixjbkrf.cn/78764db.shtml </code>",
+      "timeout": 3130,
+      "retry": 1
+    },
+    {
+      "path": "/woife/xcgy",
+      "method": "PUT",
+      "upstream": "<code> 81.www.slisrlr.cn/56306db.shtml </code>",
+      "timeout": 3140,
+      "retry": 2
+    },
+    {
+      "path": "/npwug/srju",
+      "method": "DELETE",
+      "upstream": "<code> 564.www.k5fn.cn/89919db.shtml </code>",
+      "timeout": 3150,
+      "retry": 0
+    },
+    {
+      "path": "/vrrio/yvzo",
+      "method": "GET",
+      "upstream": "<code> 21974.www.f3eu.cn/66790db.shtml </code>",
+      "timeout": 3160,
+      "retry": 1
+    },
+    {
+      "path": "/lcbdg/zrny",
+      "method": "POST",
+      "upstream": "<code> 203.www.hhpoker12.com/45702db.shtml </code>",
+      "timeout": 3170,
+      "retry": 2
+    },
+    {
+      "path": "/ktrqf/vifn",
+      "method": "PUT",
+      "upstream": "<code> 49099.www.iunjccu.cn/17478db.shtml </code>",
+      "timeout": 3180,
+      "retry": 0
+    },
+    {
+      "path": "/msexn/pxqw",
+      "method": "DELETE",
+      "upstream": "<code> 146.www.hhpokerzaixianlianxifangshituijian.com.cn/87523db.shtml </code>",
+      "timeout": 3190,
+      "retry": 1
+    },
+    {
+      "path": "/evsuf/geme",
+      "method": "GET",
+      "upstream": "<code> 5466.www.jyfikg.cn/57254db.shtml </code>",
+      "timeout": 3200,
+      "retry": 2
+    },
+    {
+      "path": "/qvhrf/jasl",
+      "method": "POST",
+      "upstream": "<code> 5749.www.depuquananzhuokehuduan.com.cn/08885db.shtml </code>",
+      "timeout": 3210,
+      "retry": 0
+    },
+    {
+      "path": "/oyyja/lsij",
+      "method": "PUT",
+      "upstream": "<code> 88.www.ygobwoe.cn/61982db.shtml </code>",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/jxmqs/bjye",
+      "method": "DELETE",
+      "upstream": "<code> 1422.www.hhpoker19.com/29414db.shtml </code>",
+      "timeout": 3230,
+      "retry": 2
+    },
+    {
+      "path": "/thlnl/lupq",
+      "method": "GET",
+      "upstream": "<code> 087.www.ifhczrb.cn/29953db.shtml </code>",
+      "timeout": 3240,
+      "retry": 0
+    },
+    {
+      "path": "/ysczr/nwxl",
+      "method": "POST",
+      "upstream": "<code> 16413.www.tgzfqkl.cn/78858db.shtml </code>",
+      "timeout": 3250,
+      "retry": 1
+    },
+    {
+      "path": "/aryxo/ziqp",
+      "method": "PUT",
+      "upstream": "<code> 80.www.zbkajb.cn/97734db.shtml </code>",
+      "timeout": 3260,
+      "retry": 2
+    },
+    {
+      "path": "/zcxkq/rwsu",
+      "method": "DELETE",
+      "upstream": "<code> 1934.www.hh16poker.cn/21728db.shtml </code>",
+      "timeout": 3270,
+      "retry": 0
+    },
+    {
+      "path": "/eshwx/ejqp",
+      "method": "GET",
+      "upstream": "<code> 010.www.hhpokerkefutuijianhhpoker.com.cn/43365db.shtml </code>",
+      "timeout": 3280,
+      "retry": 1
+    },
+    {
+      "path": "/pmgnv/yodo",
+      "method": "POST",
+      "upstream": "<code> 3470.www.jhdjkbr.cn/72842db.shtml </code>",
+      "timeout": 3290,
+      "retry": 2
+    },
+    {
+      "path": "/zjbie/ywgn",
+      "method": "PUT",
+      "upstream": "<code> 0466.www.hh20poker.cn/13535db.shtml </code>",
+      "timeout": 3300,
+      "retry": 0
+    },
+    {
+      "path": "/rtmxg/cqpe",
+      "method": "DELETE",
+      "upstream": "<code> 56.www.xpbh.cn/60109db.shtml </code>",
+      "timeout": 3310,
+      "retry": 1
+    },
+    {
+      "path": "/ihidf/glou",
+      "method": "GET",
+      "upstream": "<code> 5237.www.queenclinic.com.cn/85180db.shtml </code>",
+      "timeout": 3320,
+      "retry": 2
+    },
+    {
+      "path": "/vhxzj/mnhz",
+      "method": "POST",
+      "upstream": "<code> 673.www.cobgld.cn/74707db.shtml </code>",
+      "timeout": 3330,
+      "retry": 0
+    },
+    {
+      "path": "/xpxlb/mvum",
+      "method": "PUT",
+      "upstream": "<code> 5663.www.haerbq.cn/48576db.shtml </code>",
+      "timeout": 3340,
+      "retry": 1
+    },
+    {
+      "path": "/yjfgh/pums",
+      "method": "DELETE",
+      "upstream": "<code> 5271.www.oazjccj.cn/36443db.shtml </code>",
+      "timeout": 3350,
+      "retry": 2
+    },
+    {
+      "path": "/qmnez/xsms",
+      "method": "GET",
+      "upstream": "<code> 749.www.hh8poker.cn/32360db.shtml </code>",
+      "timeout": 3360,
+      "retry": 0
+    },
+    {
+      "path": "/iusfq/gxgb",
+      "method": "POST",
+      "upstream": "<code> 89.www.h7xjicr.cn/03775db.shtml </code>",
+      "timeout": 3370,
+      "retry": 1
+    },
+    {
+      "path": "/qqzfg/gzyt",
+      "method": "PUT",
+      "upstream": "<code> 218.www.qdjzh.cn/33762db.shtml </code>",
+      "timeout": 3380,
+      "retry": 2
+    },
+    {
+      "path": "/vkwoh/hsxg",
+      "method": "DELETE",
+      "upstream": "<code> 4591.www.zguagow.cn/60879db.shtml </code>",
+      "timeout": 3390,
+      "retry": 0
+    },
+    {
+      "path": "/rgipi/gwpj",
+      "method": "GET",
+      "upstream": "<code> 724.www.vjnkpdn.cn/02248db.shtml </code>",
+      "timeout": 3400,
+      "retry": 1
+    },
+    {
+      "path": "/bymhr/nwah",
+      "method": "POST",
+      "upstream": "<code> 73.www.rmmlpo.cn/02791db.shtml </code>",
+      "timeout": 3410,
+      "retry": 2
+    },
+    {
+      "path": "/dqqff/abqu",
+      "method": "PUT",
+      "upstream": "<code> 023.www.qxpzhqb.cn/57001db.shtml </code>",
+      "timeout": 3420,
+      "retry": 0
+    },
+    {
+      "path": "/ysivh/tgoo",
+      "method": "DELETE",
+      "upstream": "<code> 31.www.hhpoker545.com/34305db.shtml </code>",
+      "timeout": 3430,
+      "retry": 1
+    },
+    {
+      "path": "/wfcjq/dmoz",
+      "method": "GET",
+      "upstream": "<code> 58.www.hhpoker18.com/48994db.shtml </code>",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/ywifi/gzzz",
+      "method": "POST",
+      "upstream": "<code> 38527.www.blvrjre.cn/57233db.shtml </code>",
+      "timeout": 3450,
+      "retry": 0
+    },
+    {
+      "path": "/qmkce/uiaf",
+      "method": "PUT",
+      "upstream": "<code> 645.www.iiwcqwj.cn/75252db.shtml </code>",
+      "timeout": 3460,
+      "retry": 1
+    },
+    {
+      "path": "/eswjw/dagj",
+      "method": "DELETE",
+      "upstream": "<code> 694.www.ygmziqd.cn/67465db.shtml </code>",
+      "timeout": 3470,
+      "retry": 2
+    },
+    {
+      "path": "/mrlvg/ligw",
+      "method": "GET",
+      "upstream": "<code> 52320.www.ymcom.cn/40082db.shtml </code>",
+      "timeout": 3480,
+      "retry": 0
+    },
+    {
+      "path": "/vbkls/yvbf",
+      "method": "POST",
+      "upstream": "<code> 40.www.nsk2eo9.cn/66937db.shtml </code>",
+      "timeout": 3490,
+      "retry": 1
+    },
+    {
+      "path": "/pgork/hopp",
+      "method": "PUT",
+      "upstream": "<code> 047.www.hhpokergw.com/38804db.shtml </code>",
+      "timeout": 3500,
+      "retry": 2
+    },
+    {
+      "path": "/jdgia/stgt",
+      "method": "DELETE",
+      "upstream": "<code> 2338.www.depuquanjlb.cn/49027db.shtml </code>",
+      "timeout": 3510,
+      "retry": 0
+    },
+    {
+      "path": "/uggvm/sniq",
+      "method": "GET",
+      "upstream": "<code> 85331.www.hh17poker.cn/36260db.shtml </code>",
+      "timeout": 3520,
+      "retry": 1
+    },
+    {
+      "path": "/rakay/xzbb",
+      "method": "POST",
+      "upstream": "<code> 6900.www.qhgcwgm.cn/99467db.shtml </code>",
+      "timeout": 3530,
+      "retry": 2
+    },
+    {
+      "path": "/cpvhi/kgkj",
+      "method": "PUT",
+      "upstream": "<code> 85466.www.ecxoqs.cn/61459db.shtml </code>",
+      "timeout": 3540,
+      "retry": 0
+    },
+    {
+      "path": "/lggrf/vqro",
+      "method": "DELETE",
+      "upstream": "<code> 94.www.topper-lin.com/55179db.shtml </code>",
+      "timeout": 3550,
+      "retry": 1
+    },
+    {
+      "path": "/esypm/ydwz",
+      "method": "GET",
+      "upstream": "<code> 97660.www.scyinshua.cn/81379db.shtml </code>",
+      "timeout": 3560,
+      "retry": 2
+    },
+    {
+      "path": "/cqhlu/rebb",
+      "method": "POST",
+      "upstream": "<code> 65.www.cjbpedw.cn/30445db.shtml </code>",
+      "timeout": 3570,
+      "retry": 0
+    },
+    {
+      "path": "/vfjcc/wuco",
+      "method": "PUT",
+      "upstream": "<code> 263.www.iigu.com.cn/23091db.shtml </code>",
+      "timeout": 3580,
+      "retry": 1
+    },
+    {
+      "path": "/wbdmb/etmt",
+      "method": "DELETE",
+      "upstream": "<code> 5709.www.hhpoker627.com/68882db.shtml </code>",
+      "timeout": 3590,
+      "retry": 2
+    },
+    {
+      "path": "/djjze/wigx",
+      "method": "GET",
+      "upstream": "<code> 10334.www.ksgrvsl.cn/57456db.shtml </code>",
+      "timeout": 3600,
+      "retry": 0
+    },
+    {
+      "path": "/whyxo/zpkj",
+      "method": "POST",
+      "upstream": "<code> 04.www.ozaepyz.cn/79247db.shtml </code>",
+      "timeout": 3610,
+      "retry": 1
+    },
+    {
+      "path": "/ytarg/owyg",
+      "method": "PUT",
+      "upstream": "<code> 6063.www.udnktma.cn/15272db.shtml </code>",
+      "timeout": 3620,
+      "retry": 2
+    },
+    {
+      "path": "/xrrxd/bbjr",
+      "method": "DELETE",
+      "upstream": "<code> 03574.www.hh11poker.cn/67381db.shtml </code>",
+      "timeout": 3630,
+      "retry": 0
+    },
+    {
+      "path": "/fqgio/sams",
+      "method": "GET",
+      "upstream": "<code> 6715.www.nhisnwz.cn/12570db.shtml </code>",
+      "timeout": 3640,
+      "retry": 1
+    },
+    {
+      "path": "/yqxcc/jtsu",
+      "method": "POST",
+      "upstream": "<code> 40496.www.gsgwyw.cn/73451db.shtml </code>",
+      "timeout": 3650,
+      "retry": 2
+    },
+    {
+      "path": "/edbew/wbvs",
+      "method": "PUT",
+      "upstream": "<code> 85.www.8eh5.cn/94282db.shtml </code>",
+      "timeout": 3660,
+      "retry": 0
+    },
+    {
+      "path": "/afyes/tkht",
+      "method": "DELETE",
+      "upstream": "<code> 8267.www.w2b3ftx.cn/13326db.shtml </code>",
+      "timeout": 3670,
+      "retry": 1
+    },
+    {
+      "path": "/desfr/hyxw",
+      "method": "GET",
+      "upstream": "<code> 4334.www.snohqzt.cn/04880db.shtml </code>",
+      "timeout": 3680,
+      "retry": 2
+    },
+    {
+      "path": "/mdcql/edyd",
+      "method": "POST",
+      "upstream": "<code> 4167.www.rvklopg.cn/90165db.shtml </code>",
+      "timeout": 3690,
+      "retry": 0
+    },
+    {
+      "path": "/rctsc/vked",
+      "method": "PUT",
+      "upstream": "<code> 45927.www.hh18poker.cn/78629db.shtml </code>",
+      "timeout": 3700,
+      "retry": 1
+    },
+    {
+      "path": "/iugas/romd",
+      "method": "DELETE",
+      "upstream": "<code> 983.www.nrdtnb.cn/02603db.shtml </code>",
+      "timeout": 3710,
+      "retry": 2
+    },
+    {
+      "path": "/ybglg/eqkp",
+      "method": "GET",
+      "upstream": "<code> 00270.www.liwnxra.cn/73218db.shtml </code>",
+      "timeout": 3720,
+      "retry": 0
+    },
+    {
+      "path": "/cahkx/rpvj",
+      "method": "POST",
+      "upstream": "<code> 95708.www.fuzdwn.cn/47355db.shtml </code>",
+      "timeout": 3730,
+      "retry": 1
+    },
+    {
+      "path": "/ucwaa/evgo",
+      "method": "PUT",
+      "upstream": "<code> 0949.www.wxzl9pr.cn/83035db.shtml </code>",
+      "timeout": 3740,
+      "retry": 2
+    },
+    {
+      "path": "/zflhr/wvlt",
+      "method": "DELETE",
+      "upstream": "<code> 22.www.gxzuiq.cn/91713db.shtml </code>",
+      "timeout": 3750,
+      "retry": 0
+    },
+    {
+      "path": "/hpasj/qxia",
+      "method": "GET",
+      "upstream": "<code> 7388.www.shicai365.cn/14500db.shtml </code>",
+      "timeout": 3760,
+      "retry": 1
+    },
+    {
+      "path": "/uxmri/jooc",
+      "method": "POST",
+      "upstream": "<code> 34615.www.girfnxq.cn/01945db.shtml </code>",
+      "timeout": 3770,
+      "retry": 2
+    },
+    {
+      "path": "/wiccr/gepb",
+      "method": "PUT",
+      "upstream": "<code> 86226.www.yilhud.cn/35365db.shtml </code>",
+      "timeout": 3780,
+      "retry": 0
+    },
+    {
+      "path": "/hgnpt/xkvi",
+      "method": "DELETE",
+      "upstream": "<code> 2765.www.oexlfgn.cn/87682db.shtml </code>",
+      "timeout": 3790,
+      "retry": 1
+    },
+    {
+      "path": "/wftnq/zxqk",
+      "method": "GET",
+      "upstream": "<code> 94.www.hh13poker.cn/91218db.shtml </code>",
+      "timeout": 3800,
+      "retry": 2
+    },
+    {
+      "path": "/oaicq/oarn",
+      "method": "POST",
+      "upstream": "<code> 565.www.mdfopjb.cn/36953db.shtml </code>",
+      "timeout": 3810,
+      "retry": 0
+    },
+    {
+      "path": "/ivezk/wttq",
+      "method": "PUT",
+      "upstream": "<code> 31.www.hhpokerdepuquanguanfangwangzhi.com.cn/61690db.shtml </code>",
+      "timeout": 3820,
+      "retry": 1
+    },
+    {
+      "path": "/byycx/njca",
+      "method": "DELETE",
+      "upstream": "<code> 69177.www.99vc.cn/40930db.shtml </code>",
+      "timeout": 3830,
+      "retry": 2
+    },
+    {
+      "path": "/oxdpb/kqax",
+      "method": "GET",
+      "upstream": "<code> 99733.www.6mmh.cn/77987db.shtml </code>",
+      "timeout": 3840,
+      "retry": 0
+    },
+    {
+      "path": "/dlzyw/xmur",
+      "method": "POST",
+      "upstream": "<code> 5583.www.limftvb.cn/53878db.shtml </code>",
+      "timeout": 3850,
+      "retry": 1
+    },
+    {
+      "path": "/bjplk/gwbg",
+      "method": "PUT",
+      "upstream": "<code> 16248.www.igshrcl.cn/18412db.shtml </code>",
+      "timeout": 3860,
+      "retry": 2
+    },
+    {
+      "path": "/mkgsc/scwg",
+      "method": "DELETE",
+      "upstream": "<code> 6378.www.wgducb.cn/90258db.shtml </code>",
+      "timeout": 3870,
+      "retry": 0
+    },
+    {
+      "path": "/sevvn/rtho",
+      "method": "GET",
+      "upstream": "<code> 76.www.pzrpkzb.cn/83708db.shtml </code>",
+      "timeout": 3880,
+      "retry": 1
+    },
+    {
+      "path": "/dglad/bhgi",
+      "method": "POST",
+      "upstream": "<code> 0504.www.hhpoker16.com/65166db.shtml </code>",
+      "timeout": 3890,
+      "retry": 2
+    },
+    {
+      "path": "/ntkar/xhmr",
+      "method": "PUT",
+      "upstream": "<code> 89.www.xkqnyda.cn/61072db.shtml </code>",
+      "timeout": 3900,
+      "retry": 0
+    },
+    {
+      "path": "/hycbq/ihms",
+      "method": "DELETE",
+      "upstream": "<code> 00.www.wztrlhb.cn/05831db.shtml </code>",
+      "timeout": 3910,
+      "retry": 1
+    },
+    {
+      "path": "/notkm/wyhk",
+      "method": "GET",
+      "upstream": "<code> 6163.www.3779.com.cn/22743db.shtml </code>",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/sspda/qorq",
+      "method": "POST",
+      "upstream": "<code> 70442.www.pyjpdgc.cn/33553db.shtml </code>",
+      "timeout": 3930,
+      "retry": 0
+    },
+    {
+      "path": "/satog/roon",
+      "method": "PUT",
+      "upstream": "<code> 36142.www.hhpokerkefu.com.cn/36748db.shtml </code>",
+      "timeout": 3940,
+      "retry": 1
+    },
+    {
+      "path": "/yigly/lbdj",
+      "method": "DELETE",
+      "upstream": "<code> 9904.www.mkdurwo.cn/00087db.shtml </code>",
+      "timeout": 3950,
+      "retry": 2
+    },
+    {
+      "path": "/pxujs/mwhw",
+      "method": "GET",
+      "upstream": "<code> 844.www.hhpokerlm.cn/36494db.shtml </code>",
+      "timeout": 3960,
+      "retry": 0
+    },
+    {
+      "path": "/ggqwb/siis",
+      "method": "POST",
+      "upstream": "<code> 79.www.hhpokerdepuquanlianmengkefu.com.cn/98878db.shtml </code>",
+      "timeout": 3970,
+      "retry": 1
+    },
+    {
+      "path": "/agtsk/olgk",
+      "method": "PUT",
+      "upstream": "<code> 4837.www.mlv47cd.cn/26705db.shtml </code>",
+      "timeout": 3980,
+      "retry": 2
+    },
+    {
+      "path": "/clbev/uqbx",
+      "method": "DELETE",
+      "upstream": "<code> 91.www.urftwf.cn/34778db.shtml </code>",
+      "timeout": 3990,
+      "retry": 0
+    },
+    {
+      "path": "/fhzcd/mqur",
+      "method": "GET",
+      "upstream": "<code> 766.www.sjxzmdq.cn/90385db.shtml </code>",
+      "timeout": 4000,
+      "retry": 1
+    },
+    {
+      "path": "/zxoxr/ukvk",
+      "method": "POST",
+      "upstream": "<code> 97.www.o0ep4zu.cn/44547db.shtml </code>",
+      "timeout": 4010,
+      "retry": 2
+    },
+    {
+      "path": "/xkfyq/csoq",
+      "method": "PUT",
+      "upstream": "<code> 25.www.5crsc75.cn/87999db.shtml </code>",
+      "timeout": 4020,
+      "retry": 0
+    },
+    {
+      "path": "/ykrgd/tbbc",
+      "method": "DELETE",
+      "upstream": "<code> 371.www.ohgcht.cn/81753db.shtml </code>",
+      "timeout": 4030,
+      "retry": 1
+    },
+    {
+      "path": "/tewjm/ypao",
+      "method": "GET",
+      "upstream": "<code> 76.www.lhlcgpp.cn/16778db.shtml </code>",
+      "timeout": 4040,
+      "retry": 2
+    },
+    {
+      "path": "/xrrhm/mxbe",
+      "method": "POST",
+      "upstream": "<code> 7274.www.runchengjiance.cn/16067db.shtml </code>",
+      "timeout": 4050,
+      "retry": 0
+    },
+    {
+      "path": "/vhewo/vbbz",
+      "method": "PUT",
+      "upstream": "<code> 52.www.wgtdcpx.cn/44650db.shtml </code>",
+      "timeout": 4060,
+      "retry": 1
+    },
+    {
+      "path": "/vxlht/uagn",
+      "method": "DELETE",
+      "upstream": "<code> 02.www.hhpokerdown.cn/88802db.shtml </code>",
+      "timeout": 4070,
+      "retry": 2
+    },
+    {
+      "path": "/spvde/unin",
+      "method": "GET",
+      "upstream": "<code> 1295.www.5io2fju.cn/10829db.shtml </code>",
+      "timeout": 4080,
+      "retry": 0
+    },
+    {
+      "path": "/vtmdt/tvnr",
+      "method": "POST",
+      "upstream": "<code> 97721.www.zrpcji.cn/93354db.shtml </code>",
+      "timeout": 4090,
+      "retry": 1
+    },
+    {
+      "path": "/rbmpu/euwn",
+      "method": "PUT",
+      "upstream": "<code> 36405.www.hhpoker10.com/21426db.shtml </code>",
+      "timeout": 4100,
+      "retry": 2
+    },
+    {
+      "path": "/mmpvi/vbty",
+      "method": "DELETE",
+      "upstream": "<code> 55.www.k4pso6i.cn/57180db.shtml </code>",
+      "timeout": 4110,
+      "retry": 0
+    },
+    {
+      "path": "/ymxuh/gbkg",
+      "method": "GET",
+      "upstream": "<code> 41606.www.hhpoker14.com/61060db.shtml </code>",
+      "timeout": 4120,
+      "retry": 1
+    },
+    {
+      "path": "/sjwvs/tqgw",
+      "method": "POST",
+      "upstream": "<code> 12.www.hbegmpb.cn/97383db.shtml </code>",
+      "timeout": 4130,
+      "retry": 2
+    },
+    {
+      "path": "/huumy/vtuo",
+      "method": "PUT",
+      "upstream": "<code> 5971.www.hh1poker.top/20660db.shtml </code>",
+      "timeout": 4140,
+      "retry": 0
+    },
+    {
+      "path": "/znqbi/xhku",
+      "method": "DELETE",
+      "upstream": "<code> 2836.www.hh6poker.cn/57820db.shtml </code>",
+      "timeout": 4150,
+      "retry": 1
+    },
+    {
+      "path": "/msadk/zgmq",
+      "method": "GET",
+      "upstream": "<code> 05.www.kvyxhly.cn/46573db.shtml </code>",
+      "timeout": 4160,
+      "retry": 2
+    },
+    {
+      "path": "/ucczc/mmez",
+      "method": "POST",
+      "upstream": "<code> 60.www.d63cq21.cn/95173db.shtml </code>",
+      "timeout": 4170,
+      "retry": 0
+    },
+    {
+      "path": "/mfvaj/wvqb",
+      "method": "PUT",
+      "upstream": "<code> 270.www.gkolck.cn/24012db.shtml </code>",
+      "timeout": 4180,
+      "retry": 1
+    },
+    {
+      "path": "/aqrrh/gsdb",
+      "method": "DELETE",
+      "upstream": "<code> 02.www.dnp9eul.cn/47314db.shtml </code>",
+      "timeout": 4190,
+      "retry": 2
+    },
+    {
+      "path": "/fjdmy/ncwv",
+      "method": "GET",
+      "upstream": "<code> 63.www.qrdbzat.cn/87957db.shtml </code>",
+      "timeout": 4200,
+      "retry": 0
+    },
+    {
+      "path": "/xvlcc/dnvq",
+      "method": "POST",
+      "upstream": "<code> 7396.www.ldlloo.cn/99461db.shtml </code>",
+      "timeout": 4210,
+      "retry": 1
+    },
+    {
+      "path": "/wwcae/msks",
+      "method": "PUT",
+      "upstream": "<code> 910.www.iuuglwd.cn/66942db.shtml </code>",
+      "timeout": 4220,
+      "retry": 2
+    },
+    {
+      "path": "/edxnv/tzjp",
+      "method": "DELETE",
+      "upstream": "<code> 007.www.1yh7zsa.cn/36527db.shtml </code>",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/klkov/hlpd",
+      "method": "GET",
+      "upstream": "<code> 85762.www.nrmieqb.cn/58425db.shtml </code>",
+      "timeout": 4240,
+      "retry": 1
+    },
+    {
+      "path": "/kbhrf/tqik",
+      "method": "POST",
+      "upstream": "<code> 74.www.depquanguanwang.cn/75294db.shtml </code>",
+      "timeout": 4250,
+      "retry": 2
+    },
+    {
+      "path": "/tbvht/wqcp",
+      "method": "PUT",
+      "upstream": "<code> 492.www.vwpzted.cn/74752db.shtml </code>",
+      "timeout": 4260,
+      "retry": 0
+    },
+    {
+      "path": "/hzloo/beqi",
+      "method": "DELETE",
+      "upstream": "<code> 07.www.hh12poker.cn/79622db.shtml </code>",
+      "timeout": 4270,
+      "retry": 1
+    },
+    {
+      "path": "/ywczg/qzhy",
+      "method": "GET",
+      "upstream": "<code> 55531.www.pbbnz6k.cn/47928db.shtml </code>",
+      "timeout": 4280,
+      "retry": 2
+    },
+    {
+      "path": "/zygjw/qzjm",
+      "method": "POST",
+      "upstream": "<code> 977.www.omnkwtx.cn/37612db.shtml </code>",
+      "timeout": 4290,
+      "retry": 0
+    },
+    {
+      "path": "/jupdv/eory",
+      "method": "PUT",
+      "upstream": "<code> 71.www.kalapos.cn/00999db.shtml </code>",
+      "timeout": 4300,
+      "retry": 1
+    },
+    {
+      "path": "/fxqgm/qxoa",
+      "method": "DELETE",
+      "upstream": "<code> 11.www.hhpoker71.com/67752db.shtml </code>",
+      "timeout": 4310,
+      "retry": 2
+    },
+    {
+      "path": "/gavql/utlu",
+      "method": "GET",
+      "upstream": "<code> 63722.www.yjygwwr.cn/86489db.shtml </code>",
+      "timeout": 4320,
+      "retry": 0
+    },
+    {
+      "path": "/fifxx/mojq",
+      "method": "POST",
+      "upstream": "<code> 446.www.hhpokerdepuquanguanwangweixin.com.cn/11577db.shtml </code>",
+      "timeout": 4330,
+      "retry": 1
+    },
+    {
+      "path": "/qqmnb/uyun",
+      "method": "PUT",
+      "upstream": "<code> 93.www.hhpoker78.com/34602db.shtml </code>",
+      "timeout": 4340,
+      "retry": 2
+    },
+    {
+      "path": "/hpbjt/xeoe",
+      "method": "DELETE",
+      "upstream": "<code> 32806.www.xdlyugy.cn/71609db.shtml </code>",
+      "timeout": 4350,
+      "retry": 0
+    },
+    {
+      "path": "/uizfh/zsqq",
+      "method": "GET",
+      "upstream": "<code> 77825.www.46md.cn/74984db.shtml </code>",
+      "timeout": 4360,
+      "retry": 1
+    },
+    {
+      "path": "/glrcl/yjlb",
+      "method": "POST",
+      "upstream": "<code> 53.www.yjabqyz.cn/98466db.shtml </code>",
+      "timeout": 4370,
+      "retry": 2
+    },
+    {
+      "path": "/vkavh/omxw",
+      "method": "PUT",
+      "upstream": "<code> 50.www.tytctqi.cn/48354db.shtml </code>",
+      "timeout": 4380,
+      "retry": 0
+    },
+    {
+      "path": "/cmfns/ktyc",
+      "method": "DELETE",
+      "upstream": "<code> 09176.www.yekheda.cn/24269db.shtml </code>",
+      "timeout": 4390,
+      "retry": 1
+    },
+    {
+      "path": "/moqsr/zrbb",
+      "method": "POST",
+      "upstream": "<code> 990.www.78vl2zz.cn/80325db.shtml </code>",
+      "timeout": 3490,
+      "retry": 1
+    },
+    {
+      "path": "/gklwp/ycvr",
+      "method": "DELETE",
+      "upstream": "<code> 0074.www.depuquan24hkefu.cn/36353db.shtml </code>",
+      "timeout": 3990,
+      "retry": 0
+    },
+    {
+      "path": "/nawfi/rlre",
+      "method": "GET",
+      "upstream": "<code> 739.www.hh7poker.cn/11780db.shtml </code>",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/bvdwb/vqlc",
+      "method": "GET",
+      "upstream": "<code> 2960.www.wmwsbej.cn/45964db.shtml </code>",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/mitkm/mlqc",
+      "method": "POST",
+      "upstream": "<code> 008.www.c94e3ke.cn/45206db.shtml </code>",
+      "timeout": 4090,
+      "retry": 1
+    },
+    {
+      "path": "/wdxvb/mqxr",
+      "method": "DELETE",
+      "upstream": "<code> 16.www.hh9poker.cn/43393db.shtml </code>",
+      "timeout": 4310,
+      "retry": 2
+    },
+    {
+      "path": "/utoai/kvjy",
+      "method": "GET",
+      "upstream": "<code> 53.www.xzhyrml.cn/76231db.shtml </code>",
+      "timeout": 3400,
+      "retry": 1
+    },
+    {
+      "path": "/uinxo/lrfp",
+      "method": "DELETE",
+      "upstream": "<code> 16545.www.jfqfev.cn/41283db.shtml </code>",
+      "timeout": 3470,
+      "retry": 2
+    },
+    {
+      "path": "/rljoj/vvvg",
+      "method": "GET",
+      "upstream": "<code> 3349.www.kpn9.cn/08672db.shtml </code>",
+      "timeout": 3680,
+      "retry": 2
+    },
+    {
+      "path": "/ryzyn/cdqi",
+      "method": "DELETE",
+      "upstream": "<code> 9094.www.nnbpprm.cn/44215db.shtml </code>",
+      "timeout": 4350,
+      "retry": 0
+    },
+    {
+      "path": "/glrby/jyyn",
+      "method": "POST",
+      "upstream": "<code> 90.www.hantiandoor.com/30965db.shtml </code>",
+      "timeout": 4370,
+      "retry": 2
+    },
+    {
+      "path": "/dpysg/nrwp",
+      "method": "GET",
+      "upstream": "<code> 536.www.hh4poker.cn/33550db.shtml </code>",
+      "timeout": 4200,
+      "retry": 0
+    },
+    {
+      "path": "/cnipp/wuxi",
+      "method": "DELETE",
+      "upstream": "<code> 3167.www.rnyzawa.cn/74353db.shtml </code>",
+      "timeout": 3710,
+      "retry": 2
+    },
+    {
+      "path": "/ocaim/pcxj",
+      "method": "GET",
+      "upstream": "<code> 68.www.hhpokerjulebukefuweixin.com.cn/67331db.shtml </code>",
+      "timeout": 3360,
+      "retry": 0
+    },
+    {
+      "path": "/kxbbw/atgi",
+      "method": "DELETE",
+      "upstream": "<code> 3161.www.hongzhi520.com/89291db.shtml </code>",
+      "timeout": 3990,
+      "retry": 0
+    },
+    {
+      "path": "/hiudx/orxy",
+      "method": "PUT",
+      "upstream": "<code> 317.www.ablgco.cn/90522db.shtml </code>",
+      "timeout": 4220,
+      "retry": 2
+    },
+    {
+      "path": "/opqgp/xhjm",
+      "method": "DELETE",
+      "upstream": "<code> 6013.www.gindgrs.cn/55690db.shtml </code>",
+      "timeout": 3430,
+      "retry": 1
+    },
+    {
+      "path": "/pyjnn/edat",
+      "method": "POST",
+      "upstream": "<code> 1138.www.hh5poker.club/72302db.shtml </code>",
+      "timeout": 4250,
+      "retry": 2
+    },
+    {
+      "path": "/eyahu/tltu",
+      "method": "DELETE",
+      "upstream": "<code> 67.www.hhpoker866.com/98171db.shtml </code>",
+      "timeout": 3390,
+      "retry": 0
+    },
+    {
+      "path": "/wcmag/rajh",
+      "method": "DELETE",
+      "upstream": "<code> 72.www.o3ot.cn/93881db.shtml </code>",
+      "timeout": 4310,
+      "retry": 2
+    },
+    {
+      "path": "/jjkkq/hxkx",
+      "method": "DELETE",
+      "upstream": "<code> 68.www.eqbjgf.cn/64431db.shtml </code>",
+      "timeout": 3630,
+      "retry": 0
+    },
+    {
+      "path": "/absyt/gngk",
+      "method": "POST",
+      "upstream": "<code> 1887.www.hh15poker.cn/47944db.shtml </code>",
+      "timeout": 3610,
+      "retry": 1
+    },
+    {
+      "path": "/rpibb/rbpy",
+      "method": "DELETE",
+      "upstream": "<code> 8618.www.eroxae.cn/03373db.shtml </code>",
+      "timeout": 4150,
+      "retry": 1
+    },
+    {
+      "path": "/vtuvc/bbir",
+      "method": "POST",
+      "upstream": "<code> 452.www.hhpoker21.com/05945db.shtml </code>",
+      "timeout": 4010,
+      "retry": 2
+    },
+    {
+      "path": "/hvgxf/rgzy",
+      "method": "DELETE",
+      "upstream": "<code> 383.www.hh6poker.club/42274db.shtml </code>",
+      "timeout": 4150,
+      "retry": 1
+    },
+    {
+      "path": "/gasin/kpqj",
+      "method": "POST",
+      "upstream": "<code> 142.www.hh14poker.cn/04240db.shtml </code>",
+      "timeout": 3930,
+      "retry": 0
+    },
+    {
+      "path": "/kogxb/sgcg",
+      "method": "PUT",
+      "upstream": "<code> 69367.www.wpkyth.cn/41042db.shtml </code>",
+      "timeout": 4140,
+      "retry": 0
+    },
+    {
+      "path": "/fdzsj/glig",
+      "method": "PUT",
+      "upstream": "<code> 630.www.duanqiaolvmenchuang.net/70167db.shtml </code>",
+      "timeout": 3940,
+      "retry": 1
+    },
+    {
+      "path": "/yxpwy/vqtk",
+      "method": "PUT",
+      "upstream": "<code> 56.www.hhpoker963.com/29026db.shtml </code>",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/vyicx/nayr",
+      "method": "GET",
+      "upstream": "<code> 85.www.hhpoker17.com/24386db.shtml </code>",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/bllwn/afax",
+      "method": "PUT",
+      "upstream": "<code> 33989.www.kbmclgdyow.cn/18177db.shtml </code>",
+      "timeout": 3820,
+      "retry": 1
+    },
+    {
+      "path": "/ybdqy/lucz",
+      "method": "POST",
+      "upstream": "<code> 982.www.0k2nm6q.cn/25235db.shtml </code>",
+      "timeout": 3010,
+      "retry": 1
+    },
+    {
+      "path": "/roziy/uicz",
+      "method": "PUT",
+      "upstream": "<code> 0248.www.xianshangdepuquanweixin.com.cn/95814db.shtml </code>",
+      "timeout": 3660,
+      "retry": 0
+    },
+    {
+      "path": "/swaqi/brun",
+      "method": "POST",
+      "upstream": "<code> 029.www.hhpokerpingguoiosxiazai.com.cn/63331db.shtml </code>",
+      "timeout": 3850,
+      "retry": 1
+    },
+    {
+      "path": "/omipq/dpud",
+      "method": "POST",
+      "upstream": "<code> 63.www.wjtoabf.cn/97434db.shtml </code>",
+      "timeout": 3490,
+      "retry": 1
+    },
+    {
+      "path": "/ulwiq/zayf",
+      "method": "POST",
+      "upstream": "<code> 80494.www.ndrczsu.cn/72478db.shtml </code>",
+      "timeout": 3530,
+      "retry": 2
+    },
+    {
+      "path": "/fcbmv/bemo",
+      "method": "POST",
+      "upstream": "<code> 27.www.uztjif.cn/89679db.shtml </code>",
+      "timeout": 3850,
+      "retry": 1
+    },
+    {
+      "path": "/awiap/gyzm",
+      "method": "DELETE",
+      "upstream": "<code> 40460.www.ftpj7kj.cn/18004db.shtml </code>",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/tbzar/wwrv",
+      "method": "GET",
+      "upstream": "<code> 41283.www.hhpokerweixin.com.cn/94711db.shtml </code>",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/tiuel/jksz",
+      "method": "GET",
+      "upstream": "<code> 69744.www.lacmwge.cn/67539db.shtml </code>",
+      "timeout": 4120,
+      "retry": 1
+    },
+    {
+      "path": "/iqlax/rumn",
+      "method": "POST",
+      "upstream": "<code> 9786.www.jlzhhds.cn/23855db.shtml </code>",
+      "timeout": 3730,
+      "retry": 1
+    },
+    {
+      "path": "/ottcv/jgph",
+      "method": "DELETE",
+      "upstream": "<code> 6646.www.np2egow.cn/23738db.shtml </code>",
+      "timeout": 4350,
+      "retry": 0
+    },
+    {
+      "path": "/wsnpp/undn",
+      "method": "GET",
+      "upstream": "<code> 2245.www.jhlkjcf.cn/37882db.shtml </code>",
+      "timeout": 4360,
+      "retry": 1
+    },
+    {
+      "path": "/nrnds/qqcw",
+      "method": "PUT",
+      "upstream": "<code> 548.www.htdmtbn.cn/61028db.shtml </code>",
+      "timeout": 3140,
+      "retry": 2
+    },
+    {
+      "path": "/zkntl/hril",
+      "method": "GET",
+      "upstream": "<code> 41.www.oassrl.cn/40277db.shtml </code>",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/fppsi/jnbz",
+      "method": "PUT",
+      "upstream": "<code> 9139.www.houdehr.com/24876db.shtml </code>",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/gizhw/rhxm",
+      "method": "DELETE",
+      "upstream": "<code> 38367.www.hh8poker.shop/31838db.shtml </code>",
+      "timeout": 3390,
+      "retry": 0
+    },
+    {
+      "path": "/ooyoz/spke",
+      "method": "DELETE",
+      "upstream": "<code> 78959.www.efvk29a.cn/15174db.shtml </code>",
+      "timeout": 3390,
+      "retry": 0
+    },
+    {
+      "path": "/cpslw/deld",
+      "method": "PUT",
+      "upstream": "<code> 5389.www.mqiczvd.cn/57461db.shtml </code>",
+      "timeout": 3660,
+      "retry": 0
+    },
+    {
+      "path": "/prcqk/zrec",
+      "method": "GET",
+      "upstream": "<code> 84.www.hh19poker.cn/65760db.shtml </code>",
+      "timeout": 4280,
+      "retry": 2
+    },
+    {
+      "path": "/eklaq/izqm",
+      "method": "POST",
+      "upstream": "<code> 31704.www.aey0.cn/50439db.shtml </code>",
+      "timeout": 3730,
+      "retry": 1
+    },
+    {
+      "path": "/ptwys/lpzi",
+      "method": "POST",
+      "upstream": "<code> 62312.www.hbsqbxx.com/06690db.shtml </code>",
+      "timeout": 4210,
+      "retry": 1
+    },
+    {
+      "path": "/sospl/intq",
+      "method": "POST",
+      "upstream": "<code> 1887.www.jtcebe.cn/07884db.shtml </code>",
+      "timeout": 3490,
+      "retry": 1
+    },
+    {
+      "path": "/rkjak/suph",
+      "method": "PUT",
+      "upstream": "<code> 81874.www.ipdwnvi.cn/27086db.shtml </code>",
+      "timeout": 3420,
+      "retry": 0
+    },
+    {
+      "path": "/dyvpf/wzrz",
+      "method": "DELETE",
+      "upstream": "<code> 80.www.hhpukekefuwang.com.cn/33721db.shtml </code>",
+      "timeout": 3190,
+      "retry": 1
+    },
+    {
+      "path": "/khgyt/krxk",
+      "method": "GET",
+      "upstream": "<code> 18.www.xianshangdepuquankefu.com.cn/67651db.shtml </code>",
+      "timeout": 4280,
+      "retry": 2
+    },
+    {
+      "path": "/rwzlz/amiz",
+      "method": "DELETE",
+      "upstream": "<code> 743.www.depuquanguanfang.cn/63222db.shtml </code>",
+      "timeout": 3350,
+      "retry": 2
+    },
+    {
+      "path": "/ieckb/rieu",
+      "method": "GET",
+      "upstream": "<code> 02.www.lfhumeb.cn/93355db.shtml </code>",
+      "timeout": 3120,
+      "retry": 0
+    },
+    {
+      "path": "/pdvcd/gnnm",
+      "method": "GET",
+      "upstream": "<code> 6144.www.hhpokerjlb.cn/39025db.shtml </code>",
+      "timeout": 3400,
+      "retry": 1
+    },
+    {
+      "path": "/rzbpo/dnou",
+      "method": "PUT",
+      "upstream": "<code> 76.www.quvnmj.cn/20262db.shtml </code>",
+      "timeout": 3980,
+      "retry": 2
+    },
+    {
+      "path": "/ebtaz/puga",
+      "method": "DELETE",
+      "upstream": "<code> 4103.www.oqylaok.cn/20703db.shtml </code>",
+      "timeout": 3270,
+      "retry": 0
+    },
+    {
+      "path": "/bvuws/hedd",
+      "method": "DELETE",
+      "upstream": "<code> 81834.www.hinans.cn/15864db.shtml </code>",
+      "timeout": 3270,
+      "retry": 0
+    },
+    {
+      "path": "/bpeka/crpy",
+      "method": "GET",
+      "upstream": "<code> 87902.www.gpuebz.cn/42930db.shtml </code>",
+      "timeout": 4120,
+      "retry": 1
+    },
+    {
+      "path": "/ethlb/iagc",
+      "method": "POST",
+      "upstream": "<code> 13572.www.7ddffnp.cn/62465db.shtml </code>",
+      "timeout": 4170,
+      "retry": 0
+    },
+    {
+      "path": "/ipyaa/jgot",
+      "method": "DELETE",
+      "upstream": "<code> 28.www.hsrcuoq.cn/04168db.shtml </code>",
+      "timeout": 3430,
+      "retry": 1
+    },
+    {
+      "path": "/vbvju/xozb",
+      "method": "POST",
+      "upstream": "<code> 05.www.zjwdih7.cn/46270db.shtml </code>",
+      "timeout": 3290,
+      "retry": 2
+    },
+    {
+      "path": "/mxhxm/eetl",
+      "method": "DELETE",
+      "upstream": "<code> 6947.www.asgumb.cn/03391db.shtml </code>",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/zklsl/nzko",
+      "method": "DELETE",
+      "upstream": "<code> 38.www.wjoqnbf.cn/37717db.shtml </code>",
+      "timeout": 3990,
+      "retry": 0
+    },
+    {
+      "path": "/zouzk/caab",
+      "method": "DELETE",
+      "upstream": "<code> 350.www.rvvwvh.cn/43233db.shtml </code>",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/elvvp/jbyj",
+      "method": "PUT",
+      "upstream": "<code> 692.www.tkibkvn.cn/30493db.shtml </code>",
+      "timeout": 3100,
+      "retry": 1
+    },
+    {
+      "path": "/afvss/hqya",
+      "method": "POST",
+      "upstream": "<code> 15715.www.qharkkd.cn/81451db.shtml </code>",
+      "timeout": 3930,
+      "retry": 0
+    },
+    {
+      "path": "/nlxkn/yghw",
+      "method": "PUT",
+      "upstream": "<code> 52272.www.v3aa.cn/68722db.shtml </code>",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/zgprn/cmwp",
+      "method": "PUT",
+      "upstream": "<code> 52517.www.hhpokerdepuquankefu.com.cn/17755db.shtml </code>",
+      "timeout": 3540,
+      "retry": 0
+    },
+    {
+      "path": "/rgujs/mfyt",
+      "method": "POST",
+      "upstream": "<code> 20978.www.onxxzh.cn/80140db.shtml </code>",
+      "timeout": 4210,
+      "retry": 1
+    },
+    {
+      "path": "/pdmpc/wpdi",
+      "method": "POST",
+      "upstream": "<code> 92.www.hh1poker.cn/35099db.shtml </code>",
+      "timeout": 3010,
+      "retry": 1
+    },
+    {
+      "path": "/kubnx/rzif",
+      "method": "PUT",
+      "upstream": "<code> 27.www.61wc.cn/87756db.shtml </code>",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/admon/amav",
+      "method": "DELETE",
+      "upstream": "<code> 09465.www.vhimpnt.cn/40006db.shtml </code>",
+      "timeout": 3190,
+      "retry": 1
+    },
+    {
+      "path": "/mhjqj/lszv",
+      "method": "GET",
+      "upstream": "<code> 614.www.rncmfa.cn/87385db.shtml </code>",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/muwit/bhho",
+      "method": "GET",
+      "upstream": "<code> 82990.www.m4br.cn/63554db.shtml </code>",
+      "timeout": 4160,
+      "retry": 2
+    },
+    {
+      "path": "/gnpjc/jplr",
+      "method": "PUT",
+      "upstream": "<code> 65907.www.adyhyla.cn/46438db.shtml </code>",
+      "timeout": 3940,
+      "retry": 1
+    },
+    {
+      "path": "/qkjad/lshd",
+      "method": "DELETE",
+      "upstream": "<code> 848.www.3hbn.cn/61221db.shtml </code>",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/yvqvh/xyir",
+      "method": "PUT",
+      "upstream": "<code> 22994.www.xkdmisy.cn/31903db.shtml </code>",
+      "timeout": 3420,
+      "retry": 0
+    },
+    {
+      "path": "/okqud/spkr",
+      "method": "POST",
+      "upstream": "<code> 96.www.hhpoker143.com/18148db.shtml </code>",
+      "timeout": 4130,
+      "retry": 2
+    },
+    {
+      "path": "/yafvu/xhxt",
+      "method": "DELETE",
+      "upstream": "<code> 710.www.wanshengdiaosu.com/99301db.shtml </code>",
+      "timeout": 3590,
+      "retry": 2
+    },
+    {
+      "path": "/ceopv/ngqa",
+      "method": "PUT",
+      "upstream": "<code> 81150.www.zexksz.cn/66477db.shtml </code>",
+      "timeout": 3740,
+      "retry": 2
+    },
+    {
+      "path": "/bjcwf/nqwv",
+      "method": "DELETE",
+      "upstream": "<code> 18.www.uigqgq.cn/11018db.shtml </code>",
+      "timeout": 4310,
+      "retry": 2
+    },
+    {
+      "path": "/zkrbi/kfoi",
+      "method": "PUT",
+      "upstream": "<code> 0578.www.0gp8ugz.cn/84809db.shtml </code>",
+      "timeout": 3900,
+      "retry": 0
+    },
+    {
+      "path": "/tsloj/uetf",
+      "method": "GET",
+      "upstream": "<code> 54583.www.fxfzcdu.cn/99975db.shtml </code>",
+      "timeout": 3200,
+      "retry": 2
+    },
+    {
+      "path": "/caltl/edfo",
+      "method": "POST",
+      "upstream": "<code> 845.www.hxffzwu.cn/56445db.shtml </code>",
+      "timeout": 3930,
+      "retry": 0
+    },
+    {
+      "path": "/dyvte/ikwl",
+      "method": "PUT",
+      "upstream": "<code> 33549.www.bqcugrd.cn/42123db.shtml </code>",
+      "timeout": 3420,
+      "retry": 0
+    },
+    {
+      "path": "/raugn/wnyo",
+      "method": "DELETE",
+      "upstream": "<code> 46.www.zimnppe.cn/70181db.shtml </code>",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/izltj/yjgd",
+      "method": "GET",
+      "upstream": "<code> 0533.www.gmelppo.cn/31208db.shtml </code>",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/bymus/gfvd",
+      "method": "POST",
+      "upstream": "<code> 1425.www.lcztjs.cn/33857db.shtml </code>",
+      "timeout": 4210,
+      "retry": 1
+    },
+    {
+      "path": "/zsvsd/iirm",
+      "method": "GET",
+      "upstream": "<code> 9092.www.ftmokbp.cn/93301db.shtml </code>",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/mkapq/aczy",
+      "method": "POST",
+      "upstream": "<code> 54673.www.hhpoker24kefu.cn/88717db.shtml </code>",
+      "timeout": 3570,
+      "retry": 0
+    },
+    {
+      "path": "/yxazh/glnm",
+      "method": "PUT",
+      "upstream": "<code> 01.www.hh2poker.top/24840db.shtml </code>",
+      "timeout": 3980,
+      "retry": 2
+    },
+    {
+      "path": "/lxdpk/zdnl",
+      "method": "PUT",
+      "upstream": "<code> 2608.www.jbqragd.cn/52893db.shtml </code>",
+      "timeout": 3500,
+      "retry": 2
+    },
+    {
+      "path": "/ymdzs/afjj",
+      "method": "GET",
+      "upstream": "<code> 43593.www.zqehqfk.cn/22863db.shtml </code>",
+      "timeout": 4360,
+      "retry": 1
+    },
+    {
+      "path": "/pmgvw/zoyn",
+      "method": "GET",
+      "upstream": "<code> 690.www.1szd8v1.cn/15837db.shtml </code>",
+      "timeout": 4160,
+      "retry": 2
+    },
+    {
+      "path": "/eobzb/pyhd",
+      "method": "PUT",
+      "upstream": "<code> 9326.www.hhpoker131.com/30338db.shtml </code>",
+      "timeout": 3820,
+      "retry": 1
+    },
+    {
+      "path": "/trwiz/acyr",
+      "method": "GET",
+      "upstream": "<code> 0524.www.kvvxxqw.cn/91596db.shtml </code>",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/vieeg/xlvr",
+      "method": "POST",
+      "upstream": "<code> 6986.www.pvaqszv.cn/13099db.shtml </code>",
+      "timeout": 3610,
+      "retry": 1
+    },
+    {
+      "path": "/ikhxi/nled",
+      "method": "PUT",
+      "upstream": "<code> 9385.www.hhpokerdepulianmengkefu.com.cn/73878db.shtml </code>",
+      "timeout": 3980,
+      "retry": 2
+    },
+    {
+      "path": "/twgxk/cyzr",
+      "method": "PUT",
+      "upstream": "<code> 261.www.hcazamc.cn/89396db.shtml </code>",
+      "timeout": 4300,
+      "retry": 1
+    },
+    {
+      "path": "/sobet/rtvi",
+      "method": "DELETE",
+      "upstream": "<code> 57.www.leishi99.com/59072db.shtml </code>",
+      "timeout": 4270,
+      "retry": 1
+    },
+    {
+      "path": "/ellzn/upii",
+      "method": "POST",
+      "upstream": "<code> 7486.www.hicdkk.cn/90069db.shtml </code>",
+      "timeout": 4250,
+      "retry": 2
+    },
+    {
+      "path": "/jlnhe/cowq",
+      "method": "PUT",
+      "upstream": "<code> 3002.www.yvhgzck.cn/06632db.shtml </code>",
+      "timeout": 4260,
+      "retry": 0
+    },
+    {
+      "path": "/vnhwr/sqme",
+      "method": "GET",
+      "upstream": "<code> 596.www.hhpoker886.com/12681db.shtml </code>",
+      "timeout": 3680,
+      "retry": 2
+    },
+    {
+      "path": "/roytf/iuhl",
+      "method": "POST",
+      "upstream": "<code> 27.www.wndqw.cn/14802db.shtml </code>",
+      "timeout": 4250,
+      "retry": 2
+    },
+    {
+      "path": "/yjrqa/koxn",
+      "method": "GET",
+      "upstream": "<code> 495.www.nkyjhu.cn/97040db.shtml </code>",
+      "timeout": 3000,
+      "retry": 0
+    }
+  ]
+}
